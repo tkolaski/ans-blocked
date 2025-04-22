@@ -1,0 +1,145 @@
+38.99.248.64
+92.118.39.57
+92.118.39.57
+92.118.39.57
+38.99.248.64 # RuleID: 5503 # Country: US, United States
+92.118.39.57 # RuleID: 5710 # Country: RO, Romania
+92.118.39.57 # RuleID: 5503 # Country: RO, Romania
+196.251.87.35 # RuleID: 5710 # Country: NG, Nigeria
+196.251.87.35 # RuleID: 5503 # Country: NG, Nigeria
+38.99.248.64 # RuleID: 5710 # Country: US, United States
+10.10.4.209 # RuleID: 5710 # Country: IP Address not found
+10.10.4.209 # RuleID: 5503 # Country: IP Address not found
+196.251.67.42 # RuleID: 5503 # Country: GH, Ghana
+196.251.67.42 # RuleID: 5710 # Country: GH, Ghana
+39.37.149.117 # RuleID: 5710 # Country: PK, Pakistan
+39.37.149.117 # RuleID: 5503 # Country: PK, Pakistan
+182.176.168.253 # RuleID: 5503 # Country: PK, Pakistan
+196.251.85.62 # RuleID: 5503 # Country: NG, Nigeria
+196.251.85.62 # RuleID: 5710 # Country: NG, Nigeria
+34.77.151.17 # RuleID: 11301 # Country: US, United States
+172.202.118.69 # RuleID: 11301 # Country: GB, United Kingdom
+205.210.31.230 # RuleID: 11301 # Country: CA, Canada
+20.65.193.199 # RuleID: 11301 # Country: US, United States
+88.218.193.103 # RuleID: 11301 # Country: NL, Netherlands
+167.94.138.59 # RuleID: 11301 # Country: US, United States
+92.118.39.36 # RuleID: 5503 # Country: RO, Romania
+92.118.39.36 # RuleID: 5710 # Country: RO, Romania
+193.32.162.136 # RuleID: 5710 # Country: RO, Romania
+193.32.162.136 # RuleID: 5503 # Country: RO, Romania
+172.202.118.20 # RuleID: 11301 # Country: GB, United Kingdom
+209.45.80.98 # RuleID: 5503 # Country: PE, Peru
+81.133.106.57 # RuleID: 5710 # Country: GB, United Kingdom
+81.133.106.57 # RuleID: 5503 # Country: GB, United Kingdom
+92.118.39.100 # RuleID: 5710 # Country: RO, Romania
+92.118.39.100 # RuleID: 5503 # Country: RO, Romania
+110.39.181.194 # RuleID: 5503 # Country: PK, Pakistan
+92.118.39.83 # RuleID: 5503 # Country: RO, Romania
+92.118.39.83 # RuleID: 5710 # Country: RO, Romania
+92.118.39.84 # RuleID: 5503 # Country: RO, Romania
+92.118.39.84 # RuleID: 5710 # Country: RO, Romania
+88.218.193.107 # RuleID: 11301 # Country: NL, Netherlands
+196.251.87.54 # RuleID: 5710 # Country: NG, Nigeria
+196.251.87.54 # RuleID: 5503 # Country: NG, Nigeria
+92.118.39.81 # RuleID: 5710 # Country: RO, Romania
+92.118.39.81 # RuleID: 5503 # Country: RO, Romania
+92.118.39.34 # RuleID: 5503 # Country: RO, Romania
+92.118.39.34 # RuleID: 5710 # Country: RO, Romania
+92.118.39.37 # RuleID: 5710 # Country: RO, Romania
+92.118.39.37 # RuleID: 5503 # Country: RO, Romania
+3.144.105.130 # RuleID: 11301 # Country: US, United States
+78.141.142.18 # RuleID: 5503 # Country: LU, Luxembourg
+147.185.132.207 # RuleID: 11301 # Country: US, United States
+206.168.34.223 # RuleID: 11301 # Country: US, United States
+213.216.83.26 # RuleID: 5710 # Country: PL, Poland
+213.216.83.26 # RuleID: 5503 # Country: PL, Poland
+93.62.72.229 # RuleID: 5503 # Country: IT, Italy
+45.170.130.157 # RuleID: 5710 # Country: BR, Brazil
+45.170.130.157 # RuleID: 5503 # Country: BR, Brazil
+80.82.77.202 # RuleID: 11301 # Country: NL, Netherlands
+94.102.49.155 # RuleID: 11301 # Country: NL, Netherlands
+206.168.34.70 # RuleID: 11301 # Country: US, United States
+64.62.156.131 # RuleID: 11301 # Country: US, United States
+196.251.87.74 # RuleID: 5710 # Country: NG, Nigeria
+196.251.87.74 # RuleID: 5503 # Country: NG, Nigeria
+196.251.69.116 # RuleID: 5710 # Country: GH, Ghana
+196.251.69.116 # RuleID: 5503 # Country: GH, Ghana
+185.227.154.178 # RuleID: 5710 # Country: DE, Germany
+185.227.154.178 # RuleID: 5503 # Country: DE, Germany
+147.185.132.73 # RuleID: 11301 # Country: US, United States
+128.199.219.184 # RuleID: 5710 # Country: SG, Singapore
+36.64.211.93 # RuleID: 5710 # Country: ID, Indonesia
+36.64.211.93 # RuleID: 5503 # Country: ID, Indonesia
+206.168.34.217 # RuleID: 11301 # Country: US, United States
+196.251.87.45 # RuleID: 5710 # Country: NG, Nigeria
+196.251.87.45 # RuleID: 5503 # Country: NG, Nigeria
+188.59.178.26 # RuleID: 5503 # Country: TR, Turkey
+92.119.74.245 # RuleID: 5503 # Country: SI, Slovenia
+103.31.38.106 # RuleID: 5710 # Country: ID, Indonesia
+103.31.38.106 # RuleID: 5503 # Country: ID, Indonesia
+201.218.0.23 # RuleID: 5503 # Country: EC, Ecuador
+196.251.70.234 # RuleID: 5710 # Country: GH, Ghana
+196.251.70.234 # RuleID: 5503 # Country: GH, Ghana
+74.203.86.207 # RuleID: 5503 # Country: US, United States
+193.32.162.134 # RuleID: 5710 # Country: RO, Romania
+193.32.162.134 # RuleID: 5503 # Country: RO, Romania
+196.251.66.71 # RuleID: 5710 # Country: ZA, South Africa
+196.251.66.71 # RuleID: 5503 # Country: ZA, South Africa
+20.12.241.243 # RuleID: 11301 # Country: US, United States
+167.172.253.86 # RuleID: 5710 # Country: US, United States
+167.172.253.86 # RuleID: 5503 # Country: US, United States
+166.139.150.2 # RuleID: 5710 # Country: US, United States
+166.139.150.2 # RuleID: 5503 # Country: US, United States
+198.235.24.224 # RuleID: 11301 # Country: CA, Canada
+196.251.69.43 # RuleID: 5503 # Country: GH, Ghana
+196.251.69.43 # RuleID: 5710 # Country: GH, Ghana
+196.251.87.42 # RuleID: 5710 # Country: NG, Nigeria
+196.251.87.42 # RuleID: 5503 # Country: NG, Nigeria
+64.62.156.44 # RuleID: 11301 # Country: US, United States
+196.251.83.136 # RuleID: 5710 # Country: NG, Nigeria
+196.251.83.136 # RuleID: 5503 # Country: NG, Nigeria
+193.32.162.97 # RuleID: 5710 # Country: RO, Romania
+193.32.162.97 # RuleID: 5503 # Country: RO, Romania
+92.118.39.101 # RuleID: 5503 # Country: RO, Romania
+135.119.106.108 # RuleID: 11301 # Country: US, United States
+20.65.224.144 # RuleID: 11301 # Country: US, United States
+147.185.132.102 # RuleID: 11301 # Country: US, United States
+193.32.162.135 # RuleID: 5710 # Country: RO, Romania
+193.32.162.135 # RuleID: 5503 # Country: RO, Romania
+86.54.31.40 # RuleID: 11301 # Country: GB, United Kingdom
+92.118.39.152 # RuleID: 5503 # Country: RO, Romania
+196.251.85.34 # RuleID: 5503 # Country: NG, Nigeria
+196.251.85.34 # RuleID: 5710 # Country: NG, Nigeria
+35.240.36.27 # RuleID: 11301 # Country: AS, American Samoa
+47.236.102.48 # RuleID: 11301 # Country: US, United States
+193.32.162.84 # RuleID: 5710 # Country: RO, Romania
+193.32.162.84 # RuleID: 5503 # Country: RO, Romania
+92.118.39.115 # RuleID: 5503 # Country: RO, Romania
+92.118.39.65 # RuleID: 5710 # Country: RO, Romania
+92.118.39.65 # RuleID: 5503 # Country: RO, Romania
+68.183.137.128 # RuleID: 11301 # Country: US, United States
+62.209.249.23 # RuleID: 5710 # Country: CZ, Czech Republic
+198.235.24.170 # RuleID: 11301 # Country: CA, Canada
+71.6.199.87 # RuleID: 11301 # Country: US, United States
+92.118.39.68 # RuleID: 5710 # Country: RO, Romania
+92.118.39.68 # RuleID: 5503 # Country: RO, Romania
+20.65.193.66 # RuleID: 11301 # Country: US, United States
+89.248.167.131 # RuleID: 11301 # Country: NL, Netherlands
+51.79.4.11 # RuleID: 5710 # Country: CA, Canada
+51.79.4.11 # RuleID: 5503 # Country: CA, Canada
+206.168.34.117 # RuleID: 11301 # Country: US, United States
+206.168.34.37 # RuleID: 11301 # Country: US, United States
+205.210.31.70 # RuleID: 11301 # Country: CA, Canada
+172.212.200.145 # RuleID: 11301 # Country: GB, United Kingdom
+35.241.183.89 # RuleID: 11301 # Country: AS, American Samoa
+173.239.201.12 # RuleID: 11301 # Country: IE, Ireland
+167.94.146.58 # RuleID: 11301 # Country: US, United States
+199.45.155.88 # RuleID: 11301 # Country: US, United States
+198.235.24.38 # RuleID: 11301 # Country: CA, Canada
+20.118.216.92 # RuleID: 11301 # Country: US, United States
+71.6.232.20 # RuleID: 11301 # Country: US, United States
+193.220.221.253 # RuleID: 11301 # Country: FR, France
+74.208.216.139 # RuleID: 5710 # Country: US, United States
+74.208.216.139 # RuleID: 5503 # Country: US, United States
+20.65.193.104 # RuleID: 11301 # Country: US, United States
+162.142.125.203 # RuleID: 11301 # Country: US, United States
