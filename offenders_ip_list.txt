@@ -146,3 +146,4 @@
 20.65.194.108 # RuleID: 11301 # Country: US, United States
 193.32.162.89 # RuleID: 5710 # Country: RO, Romania
 193.32.162.89 # RuleID: 5503 # Country: RO, Romania
+10.10.4.218 # RuleID: 5503 # Country: IP Address not found
