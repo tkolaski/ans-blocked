@@ -143,3 +143,6 @@
 74.208.216.139 # RuleID: 5503 # Country: US, United States
 20.65.193.104 # RuleID: 11301 # Country: US, United States
 162.142.125.203 # RuleID: 11301 # Country: US, United States
+20.65.194.108 # RuleID: 11301 # Country: US, United States
+193.32.162.89 # RuleID: 5710 # Country: RO, Romania
+193.32.162.89 # RuleID: 5503 # Country: RO, Romania
