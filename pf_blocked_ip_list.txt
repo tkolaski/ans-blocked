@@ -24,3 +24,4 @@ RTALERT # blocked by pf
 45.129.230.52 # blocked by pf
 10.30.4.100 # blocked by pf
 95.79.236.64 # blocked by pf
+45.12.26.191 # blocked by pf
