@@ -6,3 +6,5 @@
 10.20.0.118 # blocked by pf
 194.180.49.216 # blocked by pf
 RTALERT # blocked by pf
+10.10.4.4 # blocked by pf
+109.205.213.85 # blocked by pf
