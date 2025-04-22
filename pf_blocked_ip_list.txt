@@ -1,0 +1,8 @@
+92.63.197.145 # blocked by pf
+10.20.0.116 # blocked by pf
+83.222.190.50 # blocked by pf
+194.180.49.220 # blocked by pf
+150.255.253.102 # blocked by pf
+10.20.0.118 # blocked by pf
+194.180.49.216 # blocked by pf
+RTALERT # blocked by pf
