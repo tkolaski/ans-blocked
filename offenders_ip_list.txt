@@ -147,3 +147,28 @@
 193.32.162.89 # RuleID: 5710 # Country: RO, Romania
 193.32.162.89 # RuleID: 5503 # Country: RO, Romania
 10.10.4.218 # RuleID: 5503 # Country: IP Address not found
+35.195.25.18 # RuleID: 11301 # Country: EU, Europe
+109.202.99.41 # RuleID: 11301 # Country: NL, Netherlands
+89.7.117.179 # RuleID: 5710 # Country: ES, Spain
+89.7.117.179 # RuleID: 5503 # Country: ES, Spain
+77.228.125.140 # RuleID: 5710 # Country: ES, Spain
+77.228.125.140 # RuleID: 5503 # Country: ES, Spain
+45.132.115.44 # RuleID: 11301 # Country: NL, Netherlands
+188.164.195.174 # RuleID: 5503 # Country: ES, Spain
+188.164.195.174 # RuleID: 5710 # Country: ES, Spain
+92.118.39.61 # RuleID: 5710 # Country: RO, Romania
+92.118.39.61 # RuleID: 5503 # Country: RO, Romania
+147.185.132.118 # RuleID: 11301 # Country: US, United States
+184.105.247.194 # RuleID: 11301 # Country: US, United States
+147.185.132.42 # RuleID: 11301 # Country: US, United States
+20.171.29.208 # RuleID: 11301 # Country: US, United States
+66.228.42.9 # RuleID: 11301 # Country: US, United States
+167.94.146.56 # RuleID: 11301 # Country: US, United States
+8.219.77.97 # RuleID: 11301 # Country: SG, Singapore
+47.236.81.227 # RuleID: 5503 # Country: US, United States
+151.46.180.38 # RuleID: 5503 # Country: IT, Italy
+35.187.71.104 # RuleID: 11301 # Country: US, United States
+45.156.129.101 # RuleID: 11301 # Country: HU, Hungary
+45.156.129.100 # RuleID: 11301 # Country: HU, Hungary
+45.156.129.102 # RuleID: 11301 # Country: HU, Hungary
+45.156.129.103 # RuleID: 11301 # Country: HU, Hungary
