@@ -95,3 +95,4 @@ PADN # blocked by pf
 10.60.13.157 # blocked by pf
 10.60.14.95 # blocked by pf
 37.29.88.142 # blocked by pf
+10.60.13.140 # blocked by pf
