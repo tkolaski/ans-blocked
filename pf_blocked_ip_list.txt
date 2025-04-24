@@ -109,3 +109,4 @@ PADN # blocked by pf
 155.133.230.101 # blocked by pf
 155.133.226.71 # blocked by pf
 172.255.8.172 # blocked by pf
+157.240.224.12 # blocked by pf
