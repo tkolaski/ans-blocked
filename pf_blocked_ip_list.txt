@@ -64,3 +64,5 @@ RTALERT # blocked by pf
 61.145.136.55 # blocked by pf
 10.60.13.114 # blocked by pf
 10.60.5.3 # blocked by pf
+101.109.225.18 # blocked by pf
+10.30.8.175 # blocked by pf
