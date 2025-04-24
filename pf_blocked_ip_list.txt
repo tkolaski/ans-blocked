@@ -77,3 +77,5 @@ RTALERT # blocked by pf
 10.20.0.123 # blocked by pf
 10.60.13.218 # blocked by pf
 10.60.2.183 # blocked by pf
+PADN # blocked by pf
+10.10.4.209 # blocked by pf
