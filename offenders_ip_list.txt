@@ -209,16 +209,7 @@
 180.178.94.73 # RuleID: 5710 # Country: ID, Indonesia
 180.178.94.73 # RuleID: 5503 # Country: ID, Indonesia
 167.94.145.104 # RuleID: 11301 # Country: US, United States
-10.10.4.218 # RuleID: 651 # Country: IP Address not found # 2025-04-25 10:48:36
-10.10.4.218 # RuleID: 651 # Country: IP Address not found # 2025-04-25 10:48:38
 35.216.165.97 # RuleID: 651 # Country: US, United States # 2025-04-25 10:51:48
 35.216.165.97 # RuleID: 651 # Country: US, United States # 2025-04-25 10:51:49
 35.216.165.97 # RuleID: 651 # Country: US, United States # 2025-04-25 10:51:50
 35.216.165.97 # RuleID: 651 # Country: US, United States # 2025-04-25 10:51:51
-10.10.4.218 # RuleID: 651 # Country: IP Address not found # 2025-04-25 11:01:54
-10.10.4.218 # RuleID: 651 # Country: IP Address not found # 2025-04-25 11:01:55
-10.10.4.100 # RuleID: 651 # Country: IP Address not found # 2025-04-25 11:01:58
-10.10.4.218 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-04-25 11:04:39
-10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-04-25 11:05:07
-10.10.4.218 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-04-25 11:05:09
-10.10.4.218 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-04-25 11:05:11
