@@ -259,3 +259,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-25 14:57:36
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-25 14:57:43
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-25 15:26:28
+139.99.35.39 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-04-25 15:49:55
+139.99.35.39 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-04-25 15:49:56
