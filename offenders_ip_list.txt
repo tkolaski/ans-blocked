@@ -261,3 +261,10 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-25 15:26:28
 139.99.35.39 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-04-25 15:49:55
 139.99.35.39 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-04-25 15:49:56
+139.99.35.37 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-04-25 15:50:02
+139.99.35.37 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-04-25 15:50:03
+151.44.179.147 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-04-25 15:58:57
+151.44.179.147 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-04-25 15:58:58
+151.44.179.147 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-04-25 15:58:59
+193.32.162.134 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-25 16:00:00
+193.32.162.134 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-25 16:00:01
