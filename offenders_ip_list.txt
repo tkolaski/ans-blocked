@@ -380,3 +380,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-26 03:17:18
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-26 03:34:35
 20.65.194.16 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-26 03:39:15
+36.69.62.173 # RuleID: 651 # Type: FTP # Country: ID, Indonesia # 2025-04-26 03:53:59
+36.69.62.173 # RuleID: 651 # Type: FTP # Country: ID, Indonesia # 2025-04-26 03:54:00
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-04-26 03:54:00
