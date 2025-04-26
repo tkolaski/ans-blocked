@@ -441,3 +441,6 @@
 49.13.136.225 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-04-26 19:55:55
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-26 20:05:11
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-26 20:05:12
+49.13.136.225 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-04-26 20:13:19
+49.13.136.225 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-04-26 20:13:20
+49.13.136.225 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-04-26 20:13:21
