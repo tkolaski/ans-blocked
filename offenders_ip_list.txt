@@ -407,3 +407,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-26 10:38:19
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-26 11:02:42
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-26 11:02:49
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-04-26 11:23:19
+196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-04-26 11:27:03
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-26 11:29:08
