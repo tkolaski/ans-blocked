@@ -630,3 +630,13 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-27 10:08:18
 196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-04-27 10:10:00
 196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-04-27 10:10:01
+196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-04-27 10:10:02
+196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-04-27 10:10:03
+196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-04-27 10:10:04
+196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-04-27 10:10:05
+196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-04-27 10:10:06
+196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-04-27 10:10:07
+196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-04-27 10:10:08
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-27 10:11:22
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-27 10:14:44
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-27 10:17:50
