@@ -785,3 +785,4 @@
 196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-04-28 03:47:09
 196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-04-28 03:47:10
 196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-04-28 03:47:11
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-28 03:51:40
