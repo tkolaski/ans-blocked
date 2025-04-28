@@ -786,3 +786,7 @@
 196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-04-28 03:47:10
 196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-04-28 03:47:11
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-28 03:51:40
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-28 04:12:02
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-28 04:12:03
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 04:17:43
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 04:17:45
