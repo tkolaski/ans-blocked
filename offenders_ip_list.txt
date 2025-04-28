@@ -858,3 +858,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-28 14:58:03
 68.183.11.25 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-04-28 15:11:18
 92.118.39.100 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 15:18:30
+92.118.39.84 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 15:55:09
+92.118.39.84 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 15:55:11
+157.245.196.40 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-04-28 15:57:55
