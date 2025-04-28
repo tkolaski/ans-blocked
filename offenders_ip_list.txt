@@ -878,3 +878,6 @@
 205.210.31.78 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-04-28 19:01:35
 205.210.31.78 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-04-28 19:01:36
 61.91.0.170 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-04-28 19:23:37
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 19:30:50
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 19:30:51
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 19:30:52
