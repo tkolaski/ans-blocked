@@ -781,3 +781,7 @@
 66.240.223.202 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-28 03:35:44
 92.118.39.81 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 03:38:55
 92.118.39.81 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 03:38:57
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-04-28 03:46:14
+196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-04-28 03:47:09
+196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-04-28 03:47:10
+196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-04-28 03:47:11
