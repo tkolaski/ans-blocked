@@ -802,3 +802,5 @@
 92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 05:46:35
 92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-28 05:46:36
 157.230.225.34 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-28 06:12:42
+65.49.1.43 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-28 06:23:20
+65.49.1.43 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-28 06:23:21
