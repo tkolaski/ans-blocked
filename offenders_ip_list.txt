@@ -868,3 +868,5 @@
 157.245.196.40 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-04-28 16:37:21
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-28 16:55:52
 157.245.196.40 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-04-28 16:59:06
+157.245.196.40 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-04-28 17:20:24
+157.245.196.40 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-04-28 17:20:26
