@@ -870,3 +870,6 @@
 157.245.196.40 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-04-28 16:59:06
 157.245.196.40 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-04-28 17:20:24
 157.245.196.40 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-04-28 17:20:26
+48.214.146.26 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-28 17:43:57
+48.214.146.26 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-28 17:43:58
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-28 17:48:05
