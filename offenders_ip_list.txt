@@ -991,3 +991,16 @@
 92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 03:33:30
 92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 03:33:31
 92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 03:33:32
+92.118.39.81 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 03:40:33
+92.118.39.81 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 03:40:37
+147.185.132.171 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-29 03:43:46
+147.185.132.171 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-29 03:43:47
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-29 03:44:48
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-29 03:44:49
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-29 03:44:50
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-29 03:44:51
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-29 03:44:52
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-29 03:44:53
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-29 03:44:54
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-29 03:44:55
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-29 03:44:56
