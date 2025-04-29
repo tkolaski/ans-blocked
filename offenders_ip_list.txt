@@ -1143,3 +1143,8 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-29 17:47:54
 87.236.176.248 # RuleID: 651 # Type: FTP # Country: BE, Belgium # 2025-04-29 18:17:22
 87.236.176.248 # RuleID: 651 # Type: FTP # Country: BE, Belgium # 2025-04-29 18:17:23
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 18:31:57
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 18:31:58
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 18:31:59
+107.173.10.71 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-04-29 18:39:28
+107.173.10.71 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-04-29 18:39:30
