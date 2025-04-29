@@ -1032,3 +1032,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-29 08:15:55
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-29 08:16:05
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-29 08:16:23
+92.118.39.84 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 08:56:05
+92.118.39.84 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 08:56:08
