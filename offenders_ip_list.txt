@@ -1115,3 +1115,7 @@
 178.62.104.32 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-04-29 16:19:54
 178.62.104.32 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-04-29 16:19:55
 178.62.104.32 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-04-29 16:19:57
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-29 16:25:27
+151.46.136.225 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-04-29 16:28:57
+151.46.136.225 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-04-29 16:28:58
+151.46.136.225 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-04-29 16:29:00
