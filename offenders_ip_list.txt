@@ -983,3 +983,5 @@
 92.118.39.100 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 02:31:24
 92.118.39.100 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 02:31:25
 92.118.39.100 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 02:31:26
+92.118.39.57 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 03:13:32
+92.118.39.57 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-04-29 03:13:34
