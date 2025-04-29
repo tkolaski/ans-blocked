@@ -1075,3 +1075,6 @@
 64.226.69.137 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-04-29 12:27:27
 64.226.69.137 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-04-29 12:27:28
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-29 12:28:23
+64.226.69.137 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-04-29 12:50:12
+64.226.69.137 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-04-29 12:50:13
+64.226.69.137 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-04-29 12:50:14
