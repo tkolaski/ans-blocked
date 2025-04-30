@@ -1344,3 +1344,13 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-30 09:59:39
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-30 10:03:39
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-30 10:12:43
+196.251.87.45 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-30 10:23:32
+196.251.87.45 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-30 10:23:33
+196.251.87.45 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-30 10:23:34
+196.251.87.45 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-30 10:23:35
+196.251.87.45 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-30 10:23:36
+196.251.87.45 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-30 10:23:37
+196.251.87.45 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-30 10:23:38
+196.251.87.45 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-30 10:23:39
+196.251.87.45 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-30 10:23:40
+196.251.87.45 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-04-30 10:23:41
