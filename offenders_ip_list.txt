@@ -1415,3 +1415,6 @@
 205.210.31.135 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-04-30 19:31:38
 13.89.125.20 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-30 19:45:48
 13.89.125.20 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-30 19:45:49
+206.84.188.40 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-30 20:07:46
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-04-30 20:07:46
+206.84.188.40 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-30 20:07:47
