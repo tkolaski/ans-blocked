@@ -1420,3 +1420,4 @@
 206.84.188.40 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-04-30 20:07:47
 45.148.10.196 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-04-30 20:23:19
 45.148.10.196 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-04-30 20:23:21
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-04-30 20:31:57
