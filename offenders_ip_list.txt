@@ -1594,3 +1594,5 @@
 196.251.88.101 # RuleID: 651 # Type: FTP # Country: ZA, South Africa # 2025-05-01 14:05:07
 14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 14:31:06
 14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 14:31:08
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 14:49:39
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 14:49:40
