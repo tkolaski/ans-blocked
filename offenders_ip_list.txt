@@ -1544,3 +1544,4 @@
 84.44.11.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-01 09:43:39
 84.44.11.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-01 09:43:41
 84.44.11.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-01 09:43:42
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-01 09:56:09
