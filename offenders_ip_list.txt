@@ -1540,3 +1540,7 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-01 09:21:52
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-01 09:23:15
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-01 09:31:23
+84.44.11.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-01 09:43:38
+84.44.11.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-01 09:43:39
+84.44.11.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-01 09:43:41
+84.44.11.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-01 09:43:42
