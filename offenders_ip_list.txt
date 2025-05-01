@@ -1592,3 +1592,5 @@
 196.251.88.101 # RuleID: 651 # Type: FTP # Country: ZA, South Africa # 2025-05-01 14:05:05
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-01 14:05:06
 196.251.88.101 # RuleID: 651 # Type: FTP # Country: ZA, South Africa # 2025-05-01 14:05:07
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 14:31:06
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 14:31:08
