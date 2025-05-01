@@ -1600,3 +1600,6 @@
 45.148.10.196 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-05-01 15:24:37
 14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 15:50:47
 14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 15:50:49
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 16:07:48
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 16:07:49
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-01 16:07:50
