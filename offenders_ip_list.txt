@@ -1610,3 +1610,5 @@
 206.189.27.82 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-01 16:41:56
 206.189.27.82 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-01 17:04:58
 206.189.27.82 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-01 17:05:00
+206.189.27.82 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-01 17:28:04
+206.189.27.82 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-01 17:28:06
