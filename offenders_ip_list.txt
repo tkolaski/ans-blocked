@@ -1896,3 +1896,14 @@
 194.31.64.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-02 19:38:42
 194.31.64.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-02 19:38:43
 194.31.64.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-02 19:38:44
+196.251.87.42 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-02 19:46:22
+196.251.87.42 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-02 19:46:23
+196.251.87.42 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-02 19:46:24
+196.251.87.42 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-02 19:46:25
+196.251.87.42 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-02 19:46:26
+196.251.87.42 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-02 19:46:27
+196.251.87.42 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-02 19:46:28
+196.251.87.42 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-02 19:46:29
+196.251.87.42 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-02 19:46:30
+64.62.156.159 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-02 19:47:50
+64.62.156.159 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-02 19:47:51
