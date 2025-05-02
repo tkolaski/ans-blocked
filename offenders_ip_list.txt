@@ -1866,3 +1866,5 @@
 2.194.193.230 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-02 16:45:52
 2.194.193.230 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-02 16:45:54
 2.194.193.230 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-02 16:45:55
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-02 16:53:53
+92.118.39.152 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-02 16:55:30
