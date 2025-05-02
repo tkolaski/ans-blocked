@@ -1918,3 +1918,4 @@
 2.57.122.57 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-02 20:18:19
 194.31.64.6 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-05-02 20:19:41
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-02 20:38:35
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-02 20:45:07
