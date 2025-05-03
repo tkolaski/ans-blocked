@@ -2034,3 +2034,13 @@
 193.32.162.137 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 08:05:40
 193.32.162.137 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 08:05:42
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-03 08:12:26
+196.251.66.71 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-03 08:27:37
+196.251.66.71 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-03 08:27:38
+196.251.66.71 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-03 08:27:39
+196.251.66.71 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-03 08:27:40
+196.251.66.71 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-03 08:27:41
+196.251.66.71 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-03 08:27:42
+196.251.66.71 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-03 08:27:43
+196.251.66.71 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-03 08:27:44
+196.251.66.71 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-03 08:27:45
+196.251.66.71 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-03 08:27:46
