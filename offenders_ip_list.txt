@@ -2006,3 +2006,6 @@
 193.32.162.97 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 04:10:10
 193.32.162.97 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 04:10:11
 193.32.162.97 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 04:10:12
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-03 04:52:22
+92.118.39.65 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 04:58:46
+92.118.39.65 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 04:58:48
