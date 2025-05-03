@@ -2028,3 +2028,6 @@
 199.45.155.77 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-03 07:03:52
 199.45.155.77 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-03 07:03:53
 92.118.39.101 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 07:22:16
+193.32.162.137 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 07:46:50
+193.32.162.137 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 07:46:51
+193.32.162.137 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-03 07:46:52
