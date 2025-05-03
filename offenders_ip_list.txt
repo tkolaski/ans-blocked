@@ -2082,3 +2082,4 @@
 151.44.141.29 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-03 19:21:06
 198.235.24.167 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-03 19:23:46
 198.235.24.167 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-03 19:23:47
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-03 19:49:45
