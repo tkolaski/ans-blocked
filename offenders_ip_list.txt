@@ -2198,3 +2198,8 @@
 192.241.136.82 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-04 12:05:09
 92.118.39.152 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-04 12:13:32
 192.241.136.82 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-04 12:24:20
+176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-04 12:40:03
+176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-04 12:40:04
+176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-04 12:40:05
+192.241.136.82 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-04 12:42:09
+192.241.136.82 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-04 12:42:12
