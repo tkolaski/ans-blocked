@@ -2376,3 +2376,5 @@
 91.228.154.4 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-05 15:25:50
 91.228.154.4 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-05 15:25:51
 91.228.154.4 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-05 15:25:52
+20.40.219.45 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-05 15:35:46
+23.133.6.38 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-05 15:35:47
