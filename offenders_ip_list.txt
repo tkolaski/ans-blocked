@@ -2398,3 +2398,6 @@
 82.165.168.105 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-05 17:49:23
 82.165.168.105 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-05 18:09:31
 82.165.168.105 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-05 18:29:17
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-05 19:11:03
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-05 19:15:03
+198.235.24.185 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-05 19:19:05
