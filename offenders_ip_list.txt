@@ -2336,3 +2336,5 @@
 209.38.206.136 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-05 06:16:30
 209.38.206.136 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-05 06:16:31
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-05 06:16:46
+196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-05 06:24:42
+196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-05 06:24:44
