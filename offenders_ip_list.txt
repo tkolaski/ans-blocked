@@ -2554,3 +2554,4 @@
 181.114.122.224 # RuleID: 651 # Type: SSH # Country: BO, Bolivia # 2025-05-06 14:07:57
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 14:16:04
 181.114.122.224 # RuleID: 651 # Type: SSH # Country: BO, Bolivia # 2025-05-06 14:26:25
+201.186.40.161 # RuleID: 651 # Type: SSH # Country: CL, Chile # 2025-05-06 14:33:31
