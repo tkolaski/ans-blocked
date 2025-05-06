@@ -2540,3 +2540,8 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 12:28:24
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 12:28:25
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-06 13:01:01
+181.114.122.224 # RuleID: 651 # Type: SSH # Country: BO, Bolivia # 2025-05-06 13:12:32
+181.114.122.224 # RuleID: 651 # Type: SSH # Country: BO, Bolivia # 2025-05-06 13:12:34
+201.186.40.161 # RuleID: 651 # Type: SSH # Country: CL, Chile # 2025-05-06 13:13:00
+201.186.40.161 # RuleID: 651 # Type: SSH # Country: CL, Chile # 2025-05-06 13:13:01
+201.186.40.161 # RuleID: 651 # Type: SSH # Country: CL, Chile # 2025-05-06 13:13:02
