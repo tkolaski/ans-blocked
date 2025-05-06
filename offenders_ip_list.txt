@@ -2666,3 +2666,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 22:30:14
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 22:38:22
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 22:45:48
+92.118.39.101 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-06 22:50:43
+185.242.226.22 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-05-06 22:55:53
+185.242.226.22 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-05-06 22:55:54
