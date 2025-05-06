@@ -2587,3 +2587,9 @@
 190.145.192.106 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-05-06 17:09:05
 190.145.192.106 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-05-06 17:09:06
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 17:09:41
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-06 17:10:33
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-06 17:10:34
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-06 17:10:35
+202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-05-06 17:12:12
+202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-05-06 17:12:13
+198.235.24.5 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-06 17:13:44
