@@ -2638,3 +2638,11 @@
 217.160.227.223 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-06 18:29:16
 217.160.227.223 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-06 18:29:18
 10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 18:37:51
+35.187.65.14 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-06 19:13:43
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-06 19:13:44
+35.187.65.14 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-06 19:13:44
+35.187.65.14 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-06 19:13:45
+35.187.65.14 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-06 19:13:46
+92.118.39.81 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-06 19:16:11
+92.118.39.81 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-06 19:16:12
+92.118.39.81 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-06 19:16:13
