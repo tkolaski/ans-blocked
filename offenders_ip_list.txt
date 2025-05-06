@@ -2584,3 +2584,6 @@
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-05-06 16:50:34
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-05-06 16:50:35
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-05-06 16:50:36
+190.145.192.106 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-05-06 17:09:05
+190.145.192.106 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-05-06 17:09:06
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 17:09:41
