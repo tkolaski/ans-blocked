@@ -2564,3 +2564,8 @@
 201.186.40.161 # RuleID: 651 # Type: SSH # Country: CL, Chile # 2025-05-06 15:10:54
 201.186.40.161 # RuleID: 651 # Type: SSH # Country: CL, Chile # 2025-05-06 15:10:55
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 15:59:27
+217.160.227.223 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-06 16:26:08
+217.160.227.223 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-06 16:26:10
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-06 16:26:50
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-06 16:26:51
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-06 16:26:52
