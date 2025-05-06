@@ -2560,3 +2560,4 @@
 201.186.40.161 # RuleID: 651 # Type: SSH # Country: CL, Chile # 2025-05-06 14:52:14
 201.186.40.161 # RuleID: 651 # Type: SSH # Country: CL, Chile # 2025-05-06 14:52:15
 201.186.40.161 # RuleID: 651 # Type: SSH # Country: CL, Chile # 2025-05-06 14:52:16
+181.114.122.224 # RuleID: 651 # Type: SSH # Country: BO, Bolivia # 2025-05-06 15:03:33
