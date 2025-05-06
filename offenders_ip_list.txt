@@ -2575,3 +2575,9 @@
 190.145.192.106 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-05-06 16:31:05
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-05-06 16:32:59
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-05-06 16:33:01
+217.160.227.223 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-06 16:45:16
+217.160.227.223 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-06 16:45:18
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-06 16:48:20
+14.128.54.101 # RuleID: 651 # Type: SSH # Country: KR, Korea, Republic of # 2025-05-06 16:48:22
+190.145.192.106 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-05-06 16:48:28
+190.145.192.106 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-05-06 16:48:30
