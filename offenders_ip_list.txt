@@ -2660,3 +2660,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-06 21:13:43
 47.237.17.56 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-06 21:24:51
 47.237.17.56 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-06 21:24:53
+92.118.39.152 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-06 21:49:05
