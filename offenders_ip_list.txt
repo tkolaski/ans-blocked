@@ -2759,3 +2759,7 @@
 139.59.173.98 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-07 03:37:42
 139.59.173.98 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-07 03:37:43
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-07 03:47:04
+20.65.193.82 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-07 03:52:35
+20.65.193.82 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-07 03:52:36
+139.59.173.98 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-07 03:54:55
+139.59.173.98 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-07 03:54:57
