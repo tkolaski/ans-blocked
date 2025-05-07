@@ -2764,3 +2764,7 @@
 139.59.173.98 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-07 03:54:55
 139.59.173.98 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-07 03:54:57
 139.59.173.98 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-07 04:12:22
+164.92.140.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-07 04:25:31
+139.59.173.98 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-07 04:29:39
+139.59.173.98 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-07 04:29:40
+139.59.173.98 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-07 04:29:41
