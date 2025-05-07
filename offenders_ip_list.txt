@@ -2799,3 +2799,8 @@
 220.245.87.86 # RuleID: 651 # Type: SSH # Country: AU, Australia # 2025-05-07 09:07:29
 220.245.87.86 # RuleID: 651 # Type: SSH # Country: AU, Australia # 2025-05-07 09:07:30
 220.245.87.86 # RuleID: 651 # Type: SSH # Country: AU, Australia # 2025-05-07 09:07:31
+147.185.132.88 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-07 09:22:56
+147.185.132.88 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-07 09:22:57
+220.245.87.86 # RuleID: 651 # Type: SSH # Country: AU, Australia # 2025-05-07 09:27:43
+220.245.87.86 # RuleID: 651 # Type: SSH # Country: AU, Australia # 2025-05-07 09:27:44
+220.245.87.86 # RuleID: 651 # Type: SSH # Country: AU, Australia # 2025-05-07 09:27:45
