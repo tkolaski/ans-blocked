@@ -2824,3 +2824,5 @@
 165.140.237.71 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-07 10:51:56
 165.140.237.71 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-07 10:51:57
 165.140.237.71 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-07 10:51:58
+220.245.87.86 # RuleID: 651 # Type: SSH # Country: AU, Australia # 2025-05-07 11:08:10
+220.245.87.86 # RuleID: 651 # Type: SSH # Country: AU, Australia # 2025-05-07 11:08:12
