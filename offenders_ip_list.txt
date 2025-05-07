@@ -3031,3 +3031,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-07 23:37:52
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-07 23:41:43
 92.118.39.101 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-07 23:42:12
+20.102.40.205 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-07 23:55:26
+20.102.40.205 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-07 23:55:27
