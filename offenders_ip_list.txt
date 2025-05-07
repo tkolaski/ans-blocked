@@ -2882,3 +2882,7 @@
 151.44.154.208 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-07 17:57:02
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-07 18:08:35
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-07 18:25:02
+147.185.132.99 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-07 18:34:04
+147.185.132.99 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-07 18:34:05
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-07 18:36:43
+20.163.15.206 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-07 18:37:15
