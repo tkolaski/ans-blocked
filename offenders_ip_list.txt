@@ -2839,3 +2839,7 @@
 10.10.4.209 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-07 12:13:52
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-07 12:23:45
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-07 12:25:12
+35.205.163.236 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-05-07 12:39:37
+35.205.163.236 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-05-07 12:39:38
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-07 12:39:38
+35.205.163.236 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-05-07 12:39:39
