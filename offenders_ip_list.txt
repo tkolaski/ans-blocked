@@ -3128,3 +3128,5 @@
 196.251.66.3 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-08 06:02:38
 196.251.66.3 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-08 06:02:39
 196.251.66.3 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-08 06:02:40
+162.142.125.215 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-08 07:31:24
+162.142.125.215 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-08 07:31:25
