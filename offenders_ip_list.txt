@@ -3238,3 +3238,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-08 20:58:01
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-08 20:58:02
 92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-08 21:08:39
+108.175.3.91 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 21:22:55
+108.175.3.91 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 21:22:56
+92.118.39.101 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-08 21:27:37
