@@ -3205,3 +3205,5 @@
 196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-05-08 16:45:40
 196.251.67.42 # RuleID: 651 # Type: SSH # Country: GH, Ghana # 2025-05-08 16:45:41
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-08 17:25:00
+92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-08 17:32:07
+92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-08 17:32:09
