@@ -3241,3 +3241,7 @@
 108.175.3.91 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 21:22:55
 108.175.3.91 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 21:22:56
 92.118.39.101 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-08 21:27:37
+108.175.3.91 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 21:42:27
+108.175.3.91 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 21:42:28
+108.175.3.91 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 21:42:29
+198.235.24.243 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-08 21:45:00
