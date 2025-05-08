@@ -3189,3 +3189,4 @@
 196.251.85.62 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-08 15:44:31
 196.251.85.62 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-08 15:44:32
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-08 15:49:18
+92.118.39.115 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-08 15:53:54
