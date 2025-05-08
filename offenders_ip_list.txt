@@ -3163,3 +3163,6 @@
 69.48.204.173 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 13:04:29
 167.94.138.61 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-08 13:07:18
 167.94.138.61 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-08 13:07:19
+69.48.204.173 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 13:25:48
+69.48.204.173 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 13:25:49
+69.48.204.173 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-08 13:25:50
