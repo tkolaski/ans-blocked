@@ -3377,3 +3377,8 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-09 06:08:50
 20.169.49.44 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-09 06:48:42
 92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-09 06:56:02
+10.10.4.208 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-09 07:18:29
+10.10.4.208 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-09 07:18:31
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-09 07:19:57
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-09 07:19:58
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-09 07:19:59
