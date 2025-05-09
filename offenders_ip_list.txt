@@ -3474,3 +3474,6 @@
 193.32.162.130 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-09 16:31:29
 193.32.162.130 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-09 16:31:30
 193.32.162.130 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-09 16:31:31
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-09 16:40:23
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-09 16:40:24
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-09 16:40:26
