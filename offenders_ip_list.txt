@@ -3656,3 +3656,5 @@
 205.210.31.58 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-10 08:55:27
 205.210.31.58 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-10 08:55:28
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-10 09:04:42
+92.118.39.115 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-10 09:10:10
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-10 09:15:16
