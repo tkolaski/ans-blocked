@@ -3629,3 +3629,7 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-10 03:02:51
 92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-10 03:14:09
 92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-10 03:14:11
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-10 03:28:22
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-10 03:28:23
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-10 03:28:24
+151.46.152.181 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-10 03:29:02
