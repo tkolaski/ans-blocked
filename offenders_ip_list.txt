@@ -3664,3 +3664,6 @@
 201.138.253.69 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-05-10 09:54:46
 201.138.253.69 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-05-10 09:54:47
 201.138.253.69 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-05-10 09:54:48
+201.138.253.69 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-05-10 10:14:42
+201.138.253.69 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-05-10 10:14:43
+201.138.253.69 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-05-10 10:14:44
