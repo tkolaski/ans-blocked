@@ -3710,3 +3710,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-10 16:46:15
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-10 17:15:16
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-10 17:16:43
+50.81.1.44 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-10 17:22:15
