@@ -3627,3 +3627,5 @@
 185.226.197.57 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-05-10 02:52:19
 185.226.197.57 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-05-10 02:52:20
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-10 03:02:51
+92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-10 03:14:09
+92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-10 03:14:11
