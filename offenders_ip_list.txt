@@ -3834,3 +3834,5 @@
 92.118.39.101 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-11 10:31:12
 92.118.39.101 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-11 11:05:14
 92.118.39.152 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-11 11:29:16
+20.65.193.213 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-11 11:32:56
+20.65.193.213 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-11 11:32:57
