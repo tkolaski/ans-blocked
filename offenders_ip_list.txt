@@ -3810,3 +3810,4 @@
 92.118.39.115 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-11 06:10:45
 212.227.230.32 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-11 06:19:27
 212.227.230.32 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-11 06:19:28
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-11 06:47:58
