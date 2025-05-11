@@ -3832,3 +3832,4 @@
 80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-05-11 09:28:55
 176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-11 09:29:53
 92.118.39.101 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-11 10:31:12
+92.118.39.101 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-11 11:05:14
