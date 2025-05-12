@@ -4052,3 +4052,4 @@
 10.10.4.209 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-12 16:15:14
 10.10.4.209 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-12 16:15:15
 10.10.4.209 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-12 16:15:16
+10.10.4.209 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 16:29:27
