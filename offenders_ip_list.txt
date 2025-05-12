@@ -3947,3 +3947,5 @@
 134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-05-12 09:50:32
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 09:54:34
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 09:59:35
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 10:04:37
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 10:09:38
