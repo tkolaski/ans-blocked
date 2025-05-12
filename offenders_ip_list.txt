@@ -3940,3 +3940,5 @@
 205.210.31.167 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-12 09:09:33
 205.210.31.167 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-12 09:09:34
 10.10.4.94 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-05-12 09:15:55
+134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-05-12 09:29:00
+134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-05-12 09:29:02
