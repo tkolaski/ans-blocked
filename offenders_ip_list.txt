@@ -3944,3 +3944,6 @@
 134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-05-12 09:29:02
 35.205.86.79 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-05-12 09:37:12
 35.205.86.79 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-05-12 09:37:13
+134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-05-12 09:50:32
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 09:54:34
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 09:59:35
