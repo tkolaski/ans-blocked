@@ -3970,3 +3970,9 @@
 10.10.4.208 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 11:42:16
 10.10.4.100 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-05-12 11:56:48
 92.118.39.152 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-12 12:11:13
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 13:40:56
+196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-12 13:44:04
+196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-12 13:44:05
+196.251.88.103 # RuleID: 651 # Type: SSH # Country: ZA, South Africa # 2025-05-12 13:44:06
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-12 13:47:06
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-12 13:47:07
