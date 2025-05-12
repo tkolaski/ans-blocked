@@ -3949,3 +3949,9 @@
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 09:59:35
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 10:04:37
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-12 10:09:38
+46.238.86.98 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-12 10:24:20
+46.238.86.98 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-12 10:24:21
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-12 10:26:18
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-12 10:26:56
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-12 10:26:58
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-12 10:26:59
