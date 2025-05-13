@@ -5561,3 +5561,5 @@
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-13 07:56:21
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-13 08:01:21
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-13 08:06:22
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-13 08:11:22
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-13 08:18:48
