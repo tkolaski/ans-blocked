@@ -5527,3 +5527,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-13 03:26:19
 198.235.24.77 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-13 03:55:06
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-13 04:03:53
+201.218.0.23 # RuleID: 651 # Type: SSH # Country: EC, Ecuador # 2025-05-13 04:18:01
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-13 04:19:14
