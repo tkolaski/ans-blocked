@@ -6631,3 +6631,6 @@
 5.75.180.72 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-14 21:42:23
 5.75.180.72 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-14 21:42:24
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-14 21:47:18
+92.118.39.152 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-14 21:56:02
+205.210.31.184 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-14 21:57:05
+205.210.31.184 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-14 21:57:06
