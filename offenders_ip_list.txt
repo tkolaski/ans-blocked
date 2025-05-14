@@ -6625,3 +6625,4 @@
 134.199.236.87 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-05-14 19:13:56
 134.199.236.87 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-05-14 19:13:58
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-14 19:43:26
+92.118.39.101 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-14 20:05:28
