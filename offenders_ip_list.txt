@@ -6573,3 +6573,4 @@
 206.168.34.65 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-14 10:03:06
 20.65.193.234 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-14 10:05:45
 20.65.193.234 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-14 10:05:46
+157.230.125.68 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-14 10:46:28
