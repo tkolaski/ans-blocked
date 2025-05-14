@@ -6559,3 +6559,6 @@
 166.252.10.128 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-14 07:10:58
 166.252.10.128 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-14 07:10:59
 198.44.129.62 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-14 07:15:14
+35.240.66.201 # RuleID: 651 # Type: FTP # Country: AS, American Samoa # 2025-05-14 07:24:22
+35.240.66.201 # RuleID: 651 # Type: FTP # Country: AS, American Samoa # 2025-05-14 07:24:23
+35.240.66.201 # RuleID: 651 # Type: FTP # Country: AS, American Samoa # 2025-05-14 07:24:24
