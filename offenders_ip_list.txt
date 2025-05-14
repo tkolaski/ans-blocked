@@ -6615,3 +6615,6 @@
 65.49.20.68 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-14 18:15:01
 65.49.20.68 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-14 18:15:02
 134.199.236.87 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-05-14 18:16:43
+96.56.228.149 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-14 18:24:13
+96.56.228.149 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-14 18:24:14
+96.56.228.149 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-14 18:24:16
