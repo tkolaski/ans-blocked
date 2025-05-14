@@ -6670,3 +6670,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-15 00:04:34
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-15 00:04:53
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-15 00:06:56
+45.156.130.32 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-05-15 00:13:59
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-15 00:14:43
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-15 00:18:24
