@@ -6618,3 +6618,4 @@
 96.56.228.149 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-14 18:24:13
 96.56.228.149 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-14 18:24:14
 96.56.228.149 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-14 18:24:16
+134.199.236.87 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-05-14 18:35:47
