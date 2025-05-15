@@ -6710,3 +6710,5 @@
 134.255.233.228 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-15 07:34:21
 134.255.233.228 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-15 07:34:22
 134.255.233.228 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-15 07:53:32
+134.255.233.228 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-15 08:12:41
+134.255.233.228 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-15 08:12:43
