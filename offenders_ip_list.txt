@@ -8232,3 +8232,6 @@
 10.10.4.209 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-15 17:59:55
 10.10.4.209 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-15 17:59:56
 10.10.4.209 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-15 17:59:57
+10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-15 18:10:35
+135.237.126.135 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-15 18:16:04
+135.237.126.135 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-15 18:16:05
