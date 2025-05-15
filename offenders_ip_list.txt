@@ -6782,3 +6782,9 @@
 10.10.4.209 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-15 10:02:14
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-15 10:15:11
 10.10.4.209 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-15 10:15:40
+92.118.39.115 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-15 10:24:05
+10.10.4.209 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-15 10:24:53
+10.10.4.209 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-15 10:24:54
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-15 10:24:55
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-15 10:27:57
+10.10.4.209 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-15 10:27:58
