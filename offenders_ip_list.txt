@@ -8252,3 +8252,6 @@
 10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-15 18:32:39
 147.185.132.96 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-15 18:35:03
 10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-15 18:36:00
+47.84.38.21 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-15 19:07:05
+47.84.38.21 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-15 19:07:06
+47.84.38.21 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-15 19:07:07
