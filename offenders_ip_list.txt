@@ -6706,3 +6706,6 @@
 66.240.223.202 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-15 05:16:06
 92.118.39.152 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-15 05:17:33
 134.255.233.228 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-15 07:16:28
+134.255.233.228 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-15 07:34:20
+134.255.233.228 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-15 07:34:21
+134.255.233.228 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-15 07:34:22
