@@ -8420,3 +8420,5 @@
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-17 00:23:28
 195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-17 00:23:29
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-17 00:59:01
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-17 01:02:57
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-17 01:09:20
