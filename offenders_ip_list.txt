@@ -8383,3 +8383,6 @@
 195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-16 18:45:45
 195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-16 18:52:21
 64.62.156.24 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-16 19:05:44
+195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-16 19:15:35
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-16 19:15:36
+195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-16 19:15:37
