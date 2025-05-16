@@ -8391,3 +8391,6 @@
 195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-16 19:28:21
 195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-16 19:28:22
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-16 19:28:22
+92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-16 19:40:43
+92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-16 19:40:44
+92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-16 19:40:45
