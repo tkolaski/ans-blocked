@@ -8386,3 +8386,8 @@
 195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-16 19:15:35
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-16 19:15:36
 195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-16 19:15:37
+198.235.24.113 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-16 19:25:22
+198.235.24.113 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-16 19:25:23
+195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-16 19:28:21
+195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-16 19:28:22
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-16 19:28:22
