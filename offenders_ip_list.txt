@@ -8413,3 +8413,9 @@
 92.118.39.100 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 00:12:18
 92.118.39.100 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 00:12:19
 92.118.39.100 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 00:12:20
+92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 00:22:37
+92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 00:22:38
+92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 00:22:39
+195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-17 00:23:27
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-17 00:23:28
+195.164.49.72 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-17 00:23:29
