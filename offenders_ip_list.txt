@@ -8399,3 +8399,4 @@
 20.65.194.59 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-16 21:05:03
 20.65.194.59 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-16 21:05:04
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-16 21:52:45
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-16 22:08:15
