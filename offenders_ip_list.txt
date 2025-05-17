@@ -8635,3 +8635,7 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-17 20:47:49
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-17 21:24:27
 114.10.47.79 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-05-17 21:46:51
+114.10.47.79 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-05-17 22:04:42
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 22:06:29
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 22:06:30
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 22:06:31
