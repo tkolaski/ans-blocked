@@ -8598,3 +8598,6 @@
 206.168.34.214 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-17 12:03:41
 92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 12:39:03
 92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 12:39:05
+151.44.152.166 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-17 13:24:22
+151.44.152.166 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-17 13:24:23
+151.44.152.166 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-17 13:24:24
