@@ -8593,3 +8593,6 @@
 205.153.154.238 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-17 11:38:30
 167.94.146.52 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-17 11:52:37
 167.94.146.52 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-17 11:52:38
+206.168.34.214 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-17 12:03:39
+206.168.34.214 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-17 12:03:40
+206.168.34.214 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-17 12:03:41
