@@ -8612,3 +8612,7 @@
 92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 16:57:45
 92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 16:57:46
 92.118.39.36 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 16:57:47
+35.195.81.190 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-05-17 17:24:19
+35.195.81.190 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-05-17 17:24:20
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-17 17:24:21
+35.195.81.190 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-05-17 17:24:22
