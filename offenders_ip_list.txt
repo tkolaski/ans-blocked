@@ -8619,3 +8619,6 @@
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-17 17:34:46
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-17 17:39:46
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-17 17:44:47
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 18:29:31
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 18:29:32
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 18:29:34
