@@ -8647,3 +8647,4 @@
 35.240.9.21 # RuleID: 651 # Type: FTP # Country: AS, American Samoa # 2025-05-17 22:47:33
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-17 22:47:34
 35.240.9.21 # RuleID: 651 # Type: FTP # Country: AS, American Samoa # 2025-05-17 22:47:34
+114.10.47.79 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-05-17 23:00:41
