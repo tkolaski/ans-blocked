@@ -8603,3 +8603,5 @@
 151.44.152.166 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-17 13:24:24
 151.44.152.166 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-17 13:43:55
 92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 14:28:16
+92.118.39.81 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 15:20:42
+92.118.39.81 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-17 15:20:44
