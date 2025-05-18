@@ -8854,3 +8854,5 @@
 92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-19 00:35:02
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-19 00:59:00
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-19 01:00:24
+162.142.125.120 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-19 01:41:53
+162.142.125.120 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-19 01:41:54
