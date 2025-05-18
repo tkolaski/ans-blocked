@@ -8835,3 +8835,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-18 19:22:43
 147.185.132.84 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-18 19:36:33
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-18 19:54:16
+92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-18 20:19:38
+92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-18 20:19:39
+92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-18 20:19:40
