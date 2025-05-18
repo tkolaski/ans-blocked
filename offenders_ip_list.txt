@@ -8668,3 +8668,9 @@
 20.65.193.35 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-18 02:19:33
 141.98.11.128 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-05-18 02:39:02
 92.118.39.100 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-18 02:46:37
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-18 03:10:11
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-18 03:10:12
+92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-18 03:10:13
+92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-18 03:12:59
+92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-18 03:13:00
+92.118.39.37 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-18 03:13:01
