@@ -8851,3 +8851,4 @@
 164.92.140.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-18 23:26:24
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-18 23:29:20
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-18 23:30:42
+92.118.39.83 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-19 00:35:02
