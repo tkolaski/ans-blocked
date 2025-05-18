@@ -8827,3 +8827,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-18 16:27:42
 8.221.97.201 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-05-18 16:47:34
 8.221.97.201 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-05-18 16:47:35
+162.142.125.223 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-18 17:24:38
+162.142.125.223 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-18 17:24:39
