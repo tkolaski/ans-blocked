@@ -8681,3 +8681,6 @@
 178.62.104.32 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-18 04:59:14
 178.62.104.32 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-18 04:59:15
 178.62.104.32 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-05-18 04:59:16
+80.82.77.139 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-05-18 05:09:30
+80.82.77.139 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-05-18 05:09:31
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-18 05:09:32
