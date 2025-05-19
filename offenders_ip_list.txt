@@ -8960,3 +8960,5 @@
 10.10.4.203 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-05-19 08:21:29
 10.10.4.94 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-05-19 08:22:05
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-19 08:27:54
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-19 08:32:55
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-19 08:37:55
