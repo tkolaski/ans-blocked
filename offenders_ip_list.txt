@@ -8950,3 +8950,9 @@
 46.101.122.229 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-05-19 06:16:48
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-19 07:37:53
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-19 07:39:19
+34.78.69.184 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-19 07:53:28
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-19 07:53:29
+34.78.69.184 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-19 07:53:30
+34.78.69.184 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-19 07:53:31
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-19 07:59:07
+20.127.244.206 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-19 07:59:19
