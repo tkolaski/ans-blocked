@@ -9033,3 +9033,5 @@
 124.168.123.34 # RuleID: 651 # Type: SSH # Country: AU, Australia # 2025-05-19 20:42:41
 142.171.228.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-05-19 22:53:42
 142.171.228.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-05-19 23:13:37
+142.171.228.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-05-19 23:31:04
+142.171.228.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-05-19 23:31:05
