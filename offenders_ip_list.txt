@@ -9192,3 +9192,6 @@
 10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-20 20:21:49
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-20 20:23:57
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-20 20:23:58
+212.227.232.57 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-20 20:31:41
+212.227.232.57 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-20 20:31:42
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-20 20:39:41
