@@ -9157,3 +9157,12 @@
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-20 10:13:16
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-20 10:52:13
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-20 12:02:26
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-20 12:17:41
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-20 12:17:42
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-20 12:17:43
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-20 12:17:44
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-20 12:17:45
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-20 12:17:46
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-20 12:17:47
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-20 12:17:48
+196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-20 12:17:49
