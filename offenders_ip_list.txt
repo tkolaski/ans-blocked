@@ -9210,3 +9210,5 @@
 198.55.98.205 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-21 01:16:03
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-05-21 01:19:11
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-05-21 01:19:29
+191.98.191.69 # RuleID: 651 # Type: SSH # Country: PE, Peru # 2025-05-21 01:37:18
+191.98.191.69 # RuleID: 651 # Type: SSH # Country: PE, Peru # 2025-05-21 01:37:20
