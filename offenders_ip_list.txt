@@ -9182,3 +9182,5 @@
 198.235.24.203 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-05-20 19:02:36
 128.199.201.67 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-05-20 19:15:43
 212.227.232.57 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-20 19:18:17
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-20 19:30:03
+212.227.232.57 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-05-20 19:36:29
