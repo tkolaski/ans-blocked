@@ -9168,3 +9168,4 @@
 196.251.83.136 # RuleID: 651 # Type: SSH # Country: NG, Nigeria # 2025-05-20 12:17:49
 20.42.92.153 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-20 13:46:42
 20.42.92.153 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-20 13:46:43
+10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-20 14:36:00
