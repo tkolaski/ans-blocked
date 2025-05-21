@@ -9353,3 +9353,4 @@
 10.10.160.13 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-21 14:41:11
 139.99.35.45 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-05-21 15:21:20
 139.99.35.45 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-05-21 15:21:21
+10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-21 15:49:32
