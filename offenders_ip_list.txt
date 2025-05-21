@@ -9349,3 +9349,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-21 13:25:40
 39.48.84.90 # RuleID: 651 # Type: FTP # Country: PK, Pakistan # 2025-05-21 14:11:45
 39.48.84.90 # RuleID: 651 # Type: FTP # Country: PK, Pakistan # 2025-05-21 14:11:46
+10.10.160.13 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-21 14:41:10
+10.10.160.13 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-21 14:41:11
