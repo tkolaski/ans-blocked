@@ -10052,3 +10052,7 @@
 130.131.162.82 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-22 17:16:27
 130.131.162.82 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-22 17:16:28
 92.118.39.152 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-22 17:54:18
+147.185.132.82 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-22 18:01:14
+193.32.162.157 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-22 18:04:24
+193.32.162.157 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-22 18:04:25
+193.32.162.157 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-22 18:04:26
