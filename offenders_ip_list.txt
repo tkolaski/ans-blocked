@@ -9824,3 +9824,7 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-22 04:12:16
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-22 04:12:30
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-22 06:27:23
+193.77.88.253 # RuleID: 651 # Type: SSH # Country: SI, Slovenia # 2025-05-22 06:51:48
+193.77.88.253 # RuleID: 651 # Type: SSH # Country: SI, Slovenia # 2025-05-22 06:51:49
+193.77.88.253 # RuleID: 651 # Type: SSH # Country: SI, Slovenia # 2025-05-22 06:51:50
+193.77.88.253 # RuleID: 651 # Type: SSH # Country: SI, Slovenia # 2025-05-22 06:51:51
