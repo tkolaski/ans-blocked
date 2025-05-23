@@ -10217,3 +10217,6 @@
 92.118.39.115 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-23 15:03:19
 188.47.112.123 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-23 15:21:57
 188.47.112.123 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-05-23 15:21:58
+44.220.188.213 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-23 16:44:22
+44.220.188.213 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-23 16:44:23
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-23 16:44:24
