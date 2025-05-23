@@ -10229,3 +10229,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-23 19:30:42
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-23 19:30:44
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-23 19:30:45
+85.52.191.56 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-05-23 20:44:44
