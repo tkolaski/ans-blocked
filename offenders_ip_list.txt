@@ -10169,3 +10169,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-23 01:56:35
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-23 02:13:31
 92.118.39.152 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-23 02:39:56
+20.65.193.61 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-23 02:48:42
