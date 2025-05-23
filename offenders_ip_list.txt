@@ -10178,3 +10178,5 @@
 64.62.197.160 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-23 04:06:32
 64.62.197.160 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-23 04:06:33
 151.46.208.143 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-23 04:08:22
+190.108.78.173 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-23 04:11:11
+190.108.78.173 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-23 04:11:13
