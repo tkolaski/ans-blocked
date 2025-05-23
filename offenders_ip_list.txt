@@ -10180,3 +10180,6 @@
 151.46.208.143 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-23 04:08:22
 190.108.78.173 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-23 04:11:11
 190.108.78.173 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-23 04:11:13
+151.46.208.143 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-23 04:26:07
+151.46.208.143 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-05-23 04:26:10
+190.108.78.173 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-23 04:28:10
