@@ -10522,3 +10522,4 @@
 141.98.83.86 # RuleID: 651 # Type: FTP # Country: PA, Panama # 2025-05-24 15:47:27
 92.118.39.115 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-24 15:54:58
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-24 16:04:42
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-24 16:31:30
