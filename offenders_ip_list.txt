@@ -10517,3 +10517,6 @@
 204.10.194.229 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-24 15:07:03
 204.10.194.229 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-24 15:07:04
 204.10.194.229 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-24 15:07:07
+92.118.39.152 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-24 15:44:08
+141.98.83.86 # RuleID: 651 # Type: FTP # Country: PA, Panama # 2025-05-24 15:47:26
+141.98.83.86 # RuleID: 651 # Type: FTP # Country: PA, Panama # 2025-05-24 15:47:27
