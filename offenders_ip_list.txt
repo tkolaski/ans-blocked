@@ -10570,3 +10570,9 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-25 04:44:05
 92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-25 05:48:08
 92.118.39.34 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-05-25 05:48:10
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-25 06:12:42
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-25 06:14:11
+34.76.248.25 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-25 06:18:08
+34.76.248.25 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-25 06:18:09
+34.76.248.25 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-25 06:18:10
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-05-25 06:18:10
