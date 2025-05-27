@@ -10980,3 +10980,4 @@
 103.23.199.38 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-27 22:09:40
 103.23.199.38 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-27 22:26:38
 103.23.199.38 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-27 22:26:40
+45.79.163.53 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-27 22:38:20
