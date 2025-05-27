@@ -10963,3 +10963,5 @@
 8.219.70.132 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-05-27 19:48:35
 103.23.199.38 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-27 19:59:30
 103.23.199.38 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-27 19:59:32
+103.23.199.38 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-27 20:21:12
+103.23.199.38 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-27 20:21:13
