@@ -11086,3 +11086,5 @@
 34.140.130.14 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-28 14:43:04
 34.140.130.14 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-28 14:43:05
 34.140.130.14 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-28 14:43:06
+162.142.125.126 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-28 15:06:57
+162.142.125.126 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-28 15:06:58
