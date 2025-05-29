@@ -11250,3 +11250,6 @@
 23.95.91.203 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 13:18:54
 23.95.91.203 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 13:18:55
 23.95.91.203 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 13:18:56
+107.175.70.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 13:24:54
+107.175.70.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 13:24:55
+181.94.225.221 # RuleID: 651 # Type: SSH # Country: AR, Argentina # 2025-05-29 13:24:59
