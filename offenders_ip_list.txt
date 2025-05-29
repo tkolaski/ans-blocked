@@ -11299,3 +11299,4 @@
 34.79.82.112 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-29 19:43:30
 34.79.82.112 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-29 19:43:31
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-29 19:44:00
+45.79.8.221 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-29 21:36:43
