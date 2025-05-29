@@ -11271,3 +11271,10 @@
 200.90.8.86 # RuleID: 651 # Type: SSH # Country: VE, Venezuela # 2025-05-29 14:17:22
 200.90.8.86 # RuleID: 651 # Type: SSH # Country: VE, Venezuela # 2025-05-29 14:17:23
 181.94.225.221 # RuleID: 651 # Type: SSH # Country: AR, Argentina # 2025-05-29 14:19:20
+107.175.70.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 14:20:06
+107.175.70.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 14:20:07
+107.175.70.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 14:20:08
+23.95.91.203 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 14:23:00
+23.95.91.203 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 14:23:01
+23.95.91.203 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 14:23:02
+20.65.192.207 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-29 14:23:25
