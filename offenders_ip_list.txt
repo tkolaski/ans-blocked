@@ -11238,3 +11238,5 @@
 181.94.225.221 # RuleID: 651 # Type: SSH # Country: AR, Argentina # 2025-05-29 12:48:44
 181.94.225.221 # RuleID: 651 # Type: SSH # Country: AR, Argentina # 2025-05-29 12:48:45
 181.94.225.221 # RuleID: 651 # Type: SSH # Country: AR, Argentina # 2025-05-29 12:48:46
+154.18.239.55 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 12:58:16
+154.18.239.55 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-29 12:58:18
