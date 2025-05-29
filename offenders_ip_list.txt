@@ -11219,3 +11219,13 @@
 104.248.17.216 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-05-29 12:26:44
 181.94.225.221 # RuleID: 651 # Type: SSH # Country: AR, Argentina # 2025-05-29 12:27:08
 181.94.225.221 # RuleID: 651 # Type: SSH # Country: AR, Argentina # 2025-05-29 12:27:10
+20.40.250.17 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-29 12:34:19
+20.40.250.17 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-29 12:34:20
+46.101.242.98 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-05-29 12:36:37
+138.68.111.40 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-05-29 12:36:38
+46.101.242.98 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-05-29 12:36:39
+165.227.164.121 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-05-29 12:36:41
+165.227.164.121 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-05-29 12:36:42
+200.90.8.86 # RuleID: 651 # Type: SSH # Country: VE, Venezuela # 2025-05-29 12:38:11
+200.90.8.86 # RuleID: 651 # Type: SSH # Country: VE, Venezuela # 2025-05-29 12:38:12
+200.90.8.86 # RuleID: 651 # Type: SSH # Country: VE, Venezuela # 2025-05-29 12:38:13
