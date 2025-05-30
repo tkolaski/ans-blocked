@@ -11427,3 +11427,5 @@
 172.202.118.21 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-05-30 23:51:34
 107.189.11.181 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-31 00:14:17
 107.189.11.181 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-31 00:14:19
+167.94.145.104 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-31 00:48:22
+167.94.145.104 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-31 00:48:23
