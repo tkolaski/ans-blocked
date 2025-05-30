@@ -11403,3 +11403,6 @@
 157.66.55.247 # RuleID: 651 # Type: SSH # Country: JP, Japan # 2025-05-30 14:35:24
 157.66.55.247 # RuleID: 651 # Type: SSH # Country: JP, Japan # 2025-05-30 14:35:25
 157.66.55.247 # RuleID: 651 # Type: SSH # Country: JP, Japan # 2025-05-30 14:35:26
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-30 14:51:16
+157.66.55.247 # RuleID: 651 # Type: SSH # Country: JP, Japan # 2025-05-30 14:52:55
+157.66.55.247 # RuleID: 651 # Type: SSH # Country: JP, Japan # 2025-05-30 14:52:56
