@@ -11400,3 +11400,6 @@
 111.88.4.68 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-05-30 13:25:02
 20.163.15.206 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-30 13:25:21
 111.88.4.68 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-05-30 13:42:08
+157.66.55.247 # RuleID: 651 # Type: SSH # Country: JP, Japan # 2025-05-30 14:35:24
+157.66.55.247 # RuleID: 651 # Type: SSH # Country: JP, Japan # 2025-05-30 14:35:25
+157.66.55.247 # RuleID: 651 # Type: SSH # Country: JP, Japan # 2025-05-30 14:35:26
