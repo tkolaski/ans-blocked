@@ -11399,3 +11399,4 @@
 162.142.125.214 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-30 13:07:33
 111.88.4.68 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-05-30 13:25:02
 20.163.15.206 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-30 13:25:21
+111.88.4.68 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-05-30 13:42:08
