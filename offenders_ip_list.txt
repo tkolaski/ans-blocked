@@ -11387,3 +11387,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-30 05:51:49
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-05-30 07:58:04
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-30 11:10:27
+111.88.4.68 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-05-30 11:56:40
