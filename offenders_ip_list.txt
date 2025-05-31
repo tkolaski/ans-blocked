@@ -11595,3 +11595,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-01 00:12:23
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-01 00:17:20
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-01 00:17:46
+193.188.192.221 # RuleID: 651 # Type: SSH # Country: HU, Hungary # 2025-06-01 00:23:30
