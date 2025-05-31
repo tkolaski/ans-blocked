@@ -11534,3 +11534,5 @@
 162.142.125.209 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-31 11:57:22
 162.142.125.209 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-31 11:57:23
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-31 13:44:59
+20.169.105.48 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-31 14:32:47
+20.169.105.48 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-31 14:32:48
