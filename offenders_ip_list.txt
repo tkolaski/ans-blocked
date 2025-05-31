@@ -11536,3 +11536,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-05-31 13:44:59
 20.169.105.48 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-31 14:32:47
 20.169.105.48 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-05-31 14:32:48
+47.236.159.218 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-31 15:28:00
+47.236.159.218 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-31 15:28:01
+47.236.159.218 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-05-31 15:28:02
