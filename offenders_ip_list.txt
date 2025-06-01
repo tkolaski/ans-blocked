@@ -11694,3 +11694,5 @@
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-01 23:13:42
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-01 23:22:26
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-01 23:23:18
+199.45.155.90 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-01 23:37:21
+199.45.155.90 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-01 23:37:22
