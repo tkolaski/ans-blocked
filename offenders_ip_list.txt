@@ -11672,3 +11672,5 @@
 162.142.125.222 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-01 16:53:33
 162.142.125.222 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-01 16:53:34
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-01 17:12:49
+51.8.80.149 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-01 17:56:44
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-01 17:56:45
