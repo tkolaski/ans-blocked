@@ -11686,3 +11686,5 @@
 45.33.12.122 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-01 21:39:54
 45.33.12.122 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-01 21:39:55
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-01 21:41:06
+202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-01 21:58:07
+202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-01 21:58:09
