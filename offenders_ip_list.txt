@@ -12620,3 +12620,5 @@
 10.10.4.209 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-02 18:52:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-02 18:57:32
 147.185.132.19 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-02 19:16:04
+45.131.155.254 # RuleID: 651 # Type: FTP # Country: HK, Hong Kong # 2025-06-02 19:27:57
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-02 19:27:59
