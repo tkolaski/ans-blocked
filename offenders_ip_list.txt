@@ -11714,3 +11714,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-02 03:36:00
 45.131.155.254 # RuleID: 651 # Type: FTP # Country: HK, Hong Kong # 2025-06-02 03:40:10
 45.131.155.254 # RuleID: 651 # Type: FTP # Country: HK, Hong Kong # 2025-06-02 03:40:11
+135.237.127.223 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-02 03:57:11
+135.237.127.223 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-02 03:57:12
