@@ -12655,3 +12655,4 @@
 116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 01:33:57
 116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 01:33:58
 116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 01:34:01
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 02:01:17
