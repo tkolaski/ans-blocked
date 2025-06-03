@@ -12838,3 +12838,5 @@
 94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 10:13:25
 94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 10:13:26
 134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-03 10:34:21
+198.235.24.45 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-03 10:41:54
+198.235.24.45 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-03 10:41:55
