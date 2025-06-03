@@ -12804,3 +12804,6 @@
 116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 03:53:02
 116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 03:53:03
 116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 03:53:05
+80.82.77.33 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 04:18:05
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-03 04:18:06
+80.82.77.33 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 04:18:06
