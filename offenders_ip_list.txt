@@ -12880,3 +12880,5 @@
 2.57.122.234 # RuleID: 651 # Type: FTP # Country: RO, Romania # 2025-06-03 13:27:08
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 13:32:15
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 13:32:16
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 13:42:31
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 13:42:33
