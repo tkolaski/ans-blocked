@@ -12808,3 +12808,8 @@
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-03 04:18:06
 80.82.77.33 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 04:18:06
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 04:23:17
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 05:00:22
+34.78.183.19 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-03 05:03:01
+34.78.183.19 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-03 05:03:02
+34.78.183.19 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-03 05:03:03
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-03 05:03:04
