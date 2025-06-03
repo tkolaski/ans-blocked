@@ -12877,3 +12877,4 @@
 34.77.222.178 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-03 13:10:14
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-03 13:10:14
 34.77.222.178 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-03 13:10:15
+2.57.122.234 # RuleID: 651 # Type: FTP # Country: RO, Romania # 2025-06-03 13:27:08
