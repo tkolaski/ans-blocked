@@ -12830,3 +12830,10 @@
 134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-03 09:30:04
 134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-03 09:51:39
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 09:57:33
+80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 10:12:35
+80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 10:12:36
+134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-03 10:13:13
+94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 10:13:23
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-03 10:13:24
+94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 10:13:25
+94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 10:13:26
