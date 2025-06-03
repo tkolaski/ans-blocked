@@ -12823,3 +12823,7 @@
 134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-03 08:30:22
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 08:30:28
 134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-03 08:47:07
+199.45.154.130 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-03 09:06:30
+199.45.154.130 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-03 09:06:31
+134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-03 09:08:33
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 09:09:03
