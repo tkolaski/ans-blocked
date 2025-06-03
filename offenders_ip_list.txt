@@ -12813,3 +12813,5 @@
 34.78.183.19 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-03 05:03:02
 34.78.183.19 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-03 05:03:03
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-03 05:03:04
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 05:51:13
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-03 05:59:28
