@@ -12659,3 +12659,6 @@
 172.202.117.222 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-06-03 02:34:52
 116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 02:35:12
 116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 02:35:14
+116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 02:52:09
+116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 02:52:10
+116.193.190.127 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-03 02:52:11
