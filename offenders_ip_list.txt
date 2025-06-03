@@ -12837,3 +12837,4 @@
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-03 10:13:24
 94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 10:13:25
 94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-03 10:13:26
+134.122.191.205 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-03 10:34:21
