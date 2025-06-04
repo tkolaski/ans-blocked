@@ -12902,3 +12902,5 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-06-04 01:20:20
 205.210.31.238 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-04 01:51:12
 205.210.31.238 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-04 01:51:13
+170.83.79.29 # RuleID: 651 # Type: SSH # Country: VE, Venezuela # 2025-06-04 03:29:34
+170.83.79.29 # RuleID: 651 # Type: SSH # Country: VE, Venezuela # 2025-06-04 03:29:36
