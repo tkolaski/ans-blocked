@@ -12912,3 +12912,6 @@
 10.10.4.70 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-06-04 14:20:33
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-04 14:21:26
 10.10.4.94 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-06-04 14:24:19
+165.232.114.228 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 15:21:44
+64.226.77.200 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 15:21:45
+64.226.77.200 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 15:21:46
