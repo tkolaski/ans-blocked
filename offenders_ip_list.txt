@@ -12944,3 +12944,6 @@
 209.97.173.178 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-04 20:08:20
 209.97.173.178 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-04 20:26:19
 45.33.109.18 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 20:33:12
+209.97.173.178 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-04 20:45:52
+20.83.32.170 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 20:47:51
+20.83.32.170 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 20:47:52
