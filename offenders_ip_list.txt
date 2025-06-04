@@ -12958,3 +12958,7 @@
 209.97.173.178 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-04 22:03:15
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-04 22:06:32
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-04 22:08:09
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-04 22:24:39
+40.119.41.182 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 22:27:24
+139.59.144.216 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-04 22:28:59
+139.59.144.216 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-04 22:29:00
