@@ -12963,3 +12963,5 @@
 139.59.144.216 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-04 22:28:59
 139.59.144.216 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-04 22:29:00
 176.65.149.153 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-04 23:15:14
+198.235.24.242 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-04 23:28:58
+198.235.24.242 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-04 23:28:59
