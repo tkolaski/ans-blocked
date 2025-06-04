@@ -12947,3 +12947,6 @@
 209.97.173.178 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-04 20:45:52
 20.83.32.170 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 20:47:51
 20.83.32.170 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 20:47:52
+176.65.149.153 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-04 20:54:37
+176.65.149.153 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-04 20:54:38
+176.65.149.153 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-04 20:54:39
