@@ -12977,3 +12977,6 @@
 194.32.122.29 # RuleID: 651 # Type: FTP # Country: MD, Moldova, Republic of # 2025-06-05 00:51:30
 194.32.122.29 # RuleID: 651 # Type: FTP # Country: MD, Moldova, Republic of # 2025-06-05 00:51:31
 176.65.149.153 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-05 00:51:48
+176.65.149.153 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-05 01:15:47
+45.131.155.254 # RuleID: 651 # Type: FTP # Country: HK, Hong Kong # 2025-06-05 01:16:15
+45.131.155.254 # RuleID: 651 # Type: FTP # Country: HK, Hong Kong # 2025-06-05 01:16:16
