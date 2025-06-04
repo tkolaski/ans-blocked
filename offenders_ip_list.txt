@@ -12906,3 +12906,4 @@
 170.83.79.29 # RuleID: 651 # Type: SSH # Country: VE, Venezuela # 2025-06-04 03:29:36
 157.245.89.81 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 07:45:09
 157.245.89.81 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 07:45:10
+9.234.10.190 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-04 09:15:05
