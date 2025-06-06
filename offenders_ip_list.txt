@@ -13082,3 +13082,5 @@
 103.80.87.37 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-06-06 08:08:01
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-06 08:32:29
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-06 08:32:30
+79.143.191.65 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-06 09:32:56
+79.143.191.65 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-06 09:32:57
