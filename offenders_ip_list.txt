@@ -13108,3 +13108,6 @@
 206.168.34.41 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-06 20:15:54
 206.168.34.41 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-06 20:15:55
 45.79.207.129 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-06 20:34:32
+8.222.177.99 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-06 21:43:13
+8.222.177.99 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-06 21:43:15
+198.199.71.30 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-06 21:45:39
