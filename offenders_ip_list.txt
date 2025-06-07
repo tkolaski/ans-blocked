@@ -13160,3 +13160,6 @@
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-07 07:33:04
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-07 07:51:50
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-07 07:51:52
+194.238.25.60 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-06-07 08:18:54
+194.238.25.60 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-06-07 08:18:55
+194.238.25.60 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-06-07 08:18:56
