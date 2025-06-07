@@ -13155,3 +13155,6 @@
 202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-07 06:32:10
 20.65.195.124 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-07 06:38:44
 20.65.195.124 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-07 06:38:45
+202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-07 07:33:02
+202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-07 07:33:03
+202.184.143.187 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-06-07 07:33:04
