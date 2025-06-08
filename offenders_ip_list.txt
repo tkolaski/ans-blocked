@@ -13241,3 +13241,4 @@
 64.23.178.20 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-08 03:12:36
 64.23.178.20 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-08 03:12:37
 64.23.178.20 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-08 03:30:37
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-08 03:49:58
