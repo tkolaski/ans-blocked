@@ -13245,3 +13245,4 @@
 193.188.192.221 # RuleID: 651 # Type: SSH # Country: HU, Hungary # 2025-06-08 03:51:04
 167.94.145.96 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-08 04:13:06
 193.188.192.221 # RuleID: 651 # Type: SSH # Country: HU, Hungary # 2025-06-08 04:30:53
+193.188.192.221 # RuleID: 651 # Type: SSH # Country: HU, Hungary # 2025-06-08 05:12:02
