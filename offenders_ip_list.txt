@@ -13247,3 +13247,4 @@
 193.188.192.221 # RuleID: 651 # Type: SSH # Country: HU, Hungary # 2025-06-08 04:30:53
 193.188.192.221 # RuleID: 651 # Type: SSH # Country: HU, Hungary # 2025-06-08 05:12:02
 193.188.192.221 # RuleID: 651 # Type: SSH # Country: HU, Hungary # 2025-06-08 05:54:18
+193.188.192.221 # RuleID: 651 # Type: SSH # Country: HU, Hungary # 2025-06-08 06:37:05
