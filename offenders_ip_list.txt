@@ -13314,3 +13314,4 @@
 188.166.49.135 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-09 06:17:15
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-09 06:27:17
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-09 06:28:43
+198.24.79.245 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-09 07:27:26
