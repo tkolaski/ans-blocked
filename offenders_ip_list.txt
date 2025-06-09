@@ -13410,3 +13410,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-09 23:57:49
 71.6.232.20 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-10 00:35:16
 71.6.232.20 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-10 00:35:17
+45.82.78.254 # RuleID: 651 # Type: FTP # Country: EE, Estonia # 2025-06-10 00:52:48
+45.82.78.254 # RuleID: 651 # Type: FTP # Country: EE, Estonia # 2025-06-10 00:52:49
