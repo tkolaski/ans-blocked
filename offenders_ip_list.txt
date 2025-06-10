@@ -13438,3 +13438,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-10 10:53:06
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-10 10:53:07
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-10 10:53:33
+144.6.92.196 # RuleID: 651 # Type: SSH # Country: AU, Australia # 2025-06-10 11:16:35
