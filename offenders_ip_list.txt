@@ -13431,3 +13431,6 @@
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-10 08:54:57
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-10 08:54:58
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-10 08:59:58
+216.252.238.84 # RuleID: 651 # Type: SSH # Country: CH, Switzerland # 2025-06-10 09:37:54
+216.252.238.84 # RuleID: 651 # Type: SSH # Country: CH, Switzerland # 2025-06-10 09:37:55
+216.252.238.84 # RuleID: 651 # Type: SSH # Country: CH, Switzerland # 2025-06-10 09:37:56
