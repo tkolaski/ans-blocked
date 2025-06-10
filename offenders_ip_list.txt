@@ -13477,3 +13477,4 @@
 45.82.78.254 # RuleID: 651 # Type: FTP # Country: EE, Estonia # 2025-06-11 00:39:16
 176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-11 01:05:03
 176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-11 01:05:06
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-11 01:40:00
