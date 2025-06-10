@@ -13435,3 +13435,6 @@
 216.252.238.84 # RuleID: 651 # Type: SSH # Country: CH, Switzerland # 2025-06-10 09:37:55
 216.252.238.84 # RuleID: 651 # Type: SSH # Country: CH, Switzerland # 2025-06-10 09:37:56
 162.142.125.114 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-10 09:47:21
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-10 10:53:06
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-10 10:53:07
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-10 10:53:33
