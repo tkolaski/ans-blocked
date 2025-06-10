@@ -13475,3 +13475,5 @@
 34.78.17.71 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-11 00:32:39
 34.78.17.71 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-11 00:32:40
 45.82.78.254 # RuleID: 651 # Type: FTP # Country: EE, Estonia # 2025-06-11 00:39:16
+176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-11 01:05:03
+176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-11 01:05:06
