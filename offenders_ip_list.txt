@@ -13534,3 +13534,5 @@
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-11 17:49:13
 207.154.235.140 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-11 18:05:38
 207.154.235.140 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-11 18:05:40
+207.154.235.140 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-11 18:28:44
+207.154.235.140 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-11 18:28:46
