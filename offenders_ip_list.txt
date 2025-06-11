@@ -13486,3 +13486,6 @@
 186.118.142.216 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-06-11 03:02:57
 13.89.124.213 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-11 03:08:13
 13.89.124.213 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-11 03:08:14
+186.118.142.216 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-06-11 03:20:09
+186.118.142.216 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-06-11 03:20:10
+186.118.142.216 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-06-11 03:20:11
