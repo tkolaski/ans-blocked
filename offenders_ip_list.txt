@@ -13636,3 +13636,4 @@
 170.64.139.24 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-12 22:59:50
 20.65.194.99 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-12 23:53:12
 20.65.194.99 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-12 23:53:13
+77.29.100.40 # RuleID: 651 # Type: SSH # Country: MK, Macedonia # 2025-06-13 00:39:19
