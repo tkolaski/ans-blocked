@@ -13591,3 +13591,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-12 11:15:58
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-12 11:16:49
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-12 11:16:59
+190.181.63.194 # RuleID: 651 # Type: SSH # Country: BO, Bolivia # 2025-06-12 12:07:22
+190.181.63.194 # RuleID: 651 # Type: SSH # Country: BO, Bolivia # 2025-06-12 12:07:24
