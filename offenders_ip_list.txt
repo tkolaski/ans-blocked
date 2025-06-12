@@ -13600,3 +13600,5 @@
 190.181.63.194 # RuleID: 651 # Type: SSH # Country: BO, Bolivia # 2025-06-12 12:50:53
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-12 13:09:27
 46.205.206.88 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-06-12 14:24:44
+205.210.31.30 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-12 14:46:34
+205.210.31.30 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-12 14:46:35
