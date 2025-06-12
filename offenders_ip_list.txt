@@ -13612,3 +13612,5 @@
 36.85.5.252 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-12 18:17:14
 36.85.5.252 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-12 18:17:15
 10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-12 18:19:52
+199.45.154.133 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-12 18:42:23
+10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-12 18:46:57
