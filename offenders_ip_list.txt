@@ -13666,3 +13666,6 @@
 134.199.193.14 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-13 16:47:54
 134.199.193.14 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-13 16:47:55
 134.199.193.14 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-13 16:47:56
+134.199.193.14 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-13 17:11:01
+134.199.193.14 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-13 17:11:02
+134.199.193.14 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-13 17:11:03
