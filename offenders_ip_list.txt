@@ -13646,3 +13646,6 @@
 34.22.198.16 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-13 07:03:12
 198.235.24.48 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-13 07:59:57
 198.235.24.48 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-13 07:59:58
+185.242.226.22 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-13 08:22:39
+185.242.226.22 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-13 08:25:39
+185.242.226.22 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-13 08:25:40
