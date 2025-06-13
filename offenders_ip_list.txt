@@ -13686,3 +13686,10 @@
 147.185.132.67 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-13 21:46:35
 147.185.132.67 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-13 21:46:36
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-13 22:21:01
+89.97.218.142 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-06-13 23:11:35
+89.97.218.142 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-06-13 23:11:36
+89.97.218.142 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-06-13 23:11:37
+75.119.154.173 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-13 23:11:39
+75.119.154.173 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-13 23:11:40
+75.119.154.173 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-13 23:11:41
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-13 23:16:29
