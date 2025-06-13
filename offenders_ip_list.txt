@@ -13669,3 +13669,10 @@
 134.199.193.14 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-13 17:11:01
 134.199.193.14 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-13 17:11:02
 134.199.193.14 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-13 17:11:03
+45.156.130.12 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-13 18:51:48
+45.156.130.10 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-13 18:51:49
+45.156.130.12 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-13 18:51:50
+45.156.130.11 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-13 18:52:08
+45.156.130.11 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-13 18:52:09
+205.210.31.88 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-13 18:57:23
+205.210.31.88 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-13 18:57:24
