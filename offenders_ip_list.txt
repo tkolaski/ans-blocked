@@ -13769,3 +13769,4 @@
 185.226.197.33 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-14 20:43:07
 64.62.197.164 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-14 21:10:29
 64.62.197.164 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-14 21:10:30
+20.163.15.96 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-14 23:07:17
