@@ -13703,3 +13703,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-14 04:41:54
 172.210.9.231 # RuleID: 651 # Type: FTP # Country: FR, France # 2025-06-14 05:04:21
 172.210.9.231 # RuleID: 651 # Type: FTP # Country: FR, France # 2025-06-14 05:04:22
+176.65.148.55 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-14 05:48:41
