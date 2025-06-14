@@ -13748,3 +13748,4 @@
 134.199.205.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-14 18:39:20
 134.199.205.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-14 18:39:21
 134.199.205.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-14 18:39:22
+8.222.198.146 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-14 18:46:45
