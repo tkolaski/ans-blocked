@@ -13758,3 +13758,6 @@
 134.199.205.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-14 19:25:51
 134.199.205.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-14 19:25:52
 134.199.205.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-14 19:25:55
+20.83.165.36 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-14 19:46:28
+20.83.165.36 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-14 19:46:29
+134.199.205.178 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-14 19:49:09
