@@ -13770,3 +13770,6 @@
 64.62.197.164 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-14 21:10:29
 64.62.197.164 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-14 21:10:30
 20.163.15.96 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-14 23:07:17
+34.38.6.152 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-14 23:59:40
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-14 23:59:41
+34.38.6.152 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-14 23:59:42
