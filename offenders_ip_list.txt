@@ -13862,3 +13862,4 @@
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-16 01:10:48
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-16 01:15:48
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-16 01:15:49
+185.113.8.195 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-06-16 01:42:43
