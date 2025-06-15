@@ -13837,3 +13837,6 @@
 80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-15 19:44:32
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-15 20:36:06
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-15 20:39:00
+94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-15 20:41:51
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-15 20:41:52
+94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-15 20:41:52
