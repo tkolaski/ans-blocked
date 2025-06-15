@@ -13840,3 +13840,4 @@
 94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-15 20:41:51
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-15 20:41:52
 94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-06-15 20:41:52
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-15 21:10:38
