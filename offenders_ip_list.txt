@@ -13944,3 +13944,5 @@
 104.234.227.106 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-06-16 20:33:53
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-16 20:37:20
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-16 20:37:21
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-16 20:42:20
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-16 20:42:21
