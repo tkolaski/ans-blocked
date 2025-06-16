@@ -13902,3 +13902,4 @@
 205.210.31.92 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-16 08:08:13
 99.92.204.98 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-16 08:08:28
 99.92.204.98 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-16 08:08:29
+99.92.204.98 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-16 08:27:57
