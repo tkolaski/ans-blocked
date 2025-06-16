@@ -13935,3 +13935,6 @@
 205.210.31.244 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-16 17:14:23
 65.49.1.170 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-16 18:52:20
 65.49.1.170 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-16 18:52:21
+18.97.5.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-16 20:11:25
+18.97.5.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-16 20:11:26
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-16 20:11:48
