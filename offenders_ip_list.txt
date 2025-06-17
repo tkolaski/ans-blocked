@@ -14041,3 +14041,6 @@
 77.90.185.93 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-17 23:35:38
 77.90.185.96 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-17 23:35:39
 77.90.185.92 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-17 23:39:30
+77.90.185.54 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-17 23:40:30
+77.90.185.54 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-17 23:40:31
+77.90.185.54 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-17 23:40:32
