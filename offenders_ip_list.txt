@@ -14011,3 +14011,4 @@
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-17 16:13:55
 199.45.154.117 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-17 17:29:14
 199.45.154.117 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-17 17:29:15
+206.168.34.92 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-17 17:32:27
