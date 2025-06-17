@@ -14054,3 +14054,8 @@
 77.90.185.54 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 00:19:59
 77.90.185.54 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 00:20:00
 77.90.185.54 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 00:20:01
+20.127.202.251 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-18 00:41:33
+20.127.202.251 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-18 00:41:34
+77.90.185.91 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 00:42:43
+77.90.185.91 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 00:42:44
+77.90.185.91 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 00:42:46
