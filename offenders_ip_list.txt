@@ -14027,3 +14027,4 @@
 45.135.193.67 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-17 20:45:23
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-17 20:46:35
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-17 21:56:36
+185.204.169.17 # RuleID: 651 # Type: SSH # Country: IR, Iran, Islamic Republic of # 2025-06-17 22:02:16
