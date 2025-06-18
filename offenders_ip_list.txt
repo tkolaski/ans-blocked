@@ -14140,3 +14140,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-18 09:52:58
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-18 10:06:52
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-18 11:06:01
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-18 11:25:26
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-18 11:25:27
