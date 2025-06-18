@@ -14153,3 +14153,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-18 12:27:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-18 12:27:38
 43.160.207.218 # RuleID: 651 # Type: SSH # Country: JP, Japan # 2025-06-18 12:29:08
+79.143.191.65 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-18 14:10:44
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-18 14:11:18
