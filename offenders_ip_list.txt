@@ -14102,3 +14102,10 @@
 207.154.242.42 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-18 03:26:00
 207.154.242.42 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-18 03:26:01
 77.90.185.94 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 03:29:15
+77.90.185.93 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 03:32:41
+77.90.185.93 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 03:32:43
+77.90.185.96 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 03:33:15
+77.90.185.96 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 03:33:17
+77.90.185.56 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 03:36:15
+77.90.185.92 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 03:37:23
+77.90.185.54 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 03:38:43
