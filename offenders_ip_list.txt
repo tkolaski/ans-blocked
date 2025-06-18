@@ -14118,3 +14118,6 @@
 77.90.185.56 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 04:16:36
 77.90.185.92 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 04:17:10
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-18 04:39:07
+77.90.185.94 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 04:48:24
+45.135.193.67 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 04:49:08
+45.135.193.67 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-18 04:49:10
