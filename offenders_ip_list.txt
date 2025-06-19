@@ -14396,3 +14396,5 @@
 161.22.42.190 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-06-19 02:30:16
 205.210.31.163 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-19 03:02:05
 205.210.31.163 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-19 03:02:06
+161.22.42.190 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-06-19 03:33:57
+161.22.42.190 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-06-19 03:33:59
