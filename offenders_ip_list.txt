@@ -14400,3 +14400,6 @@
 161.22.42.190 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-06-19 03:33:59
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-19 03:40:37
 161.22.42.190 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-06-19 03:54:10
+161.22.42.190 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-06-19 04:13:38
+161.22.42.190 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-06-19 04:13:39
+161.22.42.190 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-06-19 04:13:40
