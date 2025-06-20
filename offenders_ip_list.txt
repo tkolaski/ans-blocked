@@ -14591,3 +14591,7 @@
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-20 21:50:05
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-20 21:55:05
 10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-20 21:55:06
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-20 22:00:05
+10.10.4.220 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-06-20 22:00:06
+8.219.12.80 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-20 22:05:47
+8.219.12.80 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-06-20 22:05:50
