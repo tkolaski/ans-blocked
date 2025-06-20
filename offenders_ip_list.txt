@@ -14508,3 +14508,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-20 07:11:21
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-20 07:11:33
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-20 07:12:03
+69.48.205.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-20 07:28:20
+69.48.205.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-20 07:28:21
+69.48.205.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-20 07:28:22
