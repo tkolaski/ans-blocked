@@ -14511,3 +14511,5 @@
 69.48.205.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-20 07:28:20
 69.48.205.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-20 07:28:21
 69.48.205.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-20 07:28:22
+69.48.205.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-20 07:48:40
+69.48.205.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-20 07:48:42
