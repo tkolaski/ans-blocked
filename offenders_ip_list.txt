@@ -14579,3 +14579,12 @@
 167.94.138.33 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-20 19:32:47
 185.213.154.228 # RuleID: 651 # Type: FTP # Country: SE, Sweden # 2025-06-20 20:32:17
 185.213.154.228 # RuleID: 651 # Type: FTP # Country: SE, Sweden # 2025-06-20 20:32:18
+185.226.197.27 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-20 21:32:54
+185.226.197.29 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-20 21:32:55
+185.226.197.29 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-20 21:32:56
+185.226.197.27 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-20 21:32:57
+185.226.197.29 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-20 21:32:58
+185.226.197.29 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-20 21:32:59
+185.226.197.27 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-20 21:33:00
+185.226.197.28 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-20 21:33:04
+185.226.197.28 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-20 21:33:05
