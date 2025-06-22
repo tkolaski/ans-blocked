@@ -14710,3 +14710,4 @@
 205.210.31.220 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-22 05:26:15
 205.210.31.220 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-22 05:26:16
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-22 06:44:55
+79.143.191.65 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-22 07:25:55
