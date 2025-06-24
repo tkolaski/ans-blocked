@@ -14852,3 +14852,4 @@
 192.3.211.97 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-24 13:43:16
 192.3.211.97 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-24 13:43:17
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-24 14:07:58
+128.199.182.152 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-06-24 14:10:46
