@@ -14928,3 +14928,6 @@
 139.99.165.142 # RuleID: 651 # Type: FTP # Country: AU, Australia # 2025-06-25 04:38:34
 139.99.165.142 # RuleID: 651 # Type: FTP # Country: AU, Australia # 2025-06-25 04:38:35
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-25 05:18:44
+47.245.85.121 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-25 05:23:46
+47.245.85.121 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-25 05:23:47
+47.245.85.121 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-25 05:23:48
