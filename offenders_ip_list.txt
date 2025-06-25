@@ -14986,3 +14986,5 @@
 193.118.42.158 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-06-25 11:20:26
 128.14.209.6 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-25 11:20:57
 128.14.209.6 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-25 11:20:58
+128.1.160.14 # RuleID: 651 # Type: FTP # Country: MY, Malaysia # 2025-06-25 11:36:36
+128.1.160.14 # RuleID: 651 # Type: FTP # Country: MY, Malaysia # 2025-06-25 11:36:37
