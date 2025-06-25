@@ -14990,3 +14990,5 @@
 128.1.160.14 # RuleID: 651 # Type: FTP # Country: MY, Malaysia # 2025-06-25 11:36:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-25 11:57:24
 10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-25 12:06:55
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-25 12:15:39
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-25 12:15:40
