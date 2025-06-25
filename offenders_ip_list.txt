@@ -14927,3 +14927,4 @@
 103.212.211.140 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-06-25 04:30:14
 139.99.165.142 # RuleID: 651 # Type: FTP # Country: AU, Australia # 2025-06-25 04:38:34
 139.99.165.142 # RuleID: 651 # Type: FTP # Country: AU, Australia # 2025-06-25 04:38:35
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-25 05:18:44
