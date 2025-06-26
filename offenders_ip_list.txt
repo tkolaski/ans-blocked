@@ -15135,3 +15135,8 @@
 34.79.92.92 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 08:31:26
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-26 08:46:48
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-26 08:46:52
+148.153.189.62 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 09:07:24
+148.153.189.62 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 09:07:25
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-26 09:08:09
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-26 09:08:10
+139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-26 09:08:15
