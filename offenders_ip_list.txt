@@ -15113,3 +15113,8 @@
 178.19.235.29 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-26 05:59:25
 178.19.235.29 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-26 05:59:26
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-26 06:13:02
+205.210.31.244 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-26 06:30:27
+205.210.31.244 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-06-26 06:30:28
+74.235.122.210 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 06:36:52
+74.235.122.210 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 06:36:53
+74.235.122.210 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 06:36:54
