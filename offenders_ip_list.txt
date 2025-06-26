@@ -15146,3 +15146,4 @@
 139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-26 10:08:13
 52.146.21.82 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 10:26:51
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-26 10:38:34
+139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-26 11:08:14
