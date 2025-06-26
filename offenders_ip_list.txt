@@ -15126,3 +15126,10 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-26 08:07:56
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-26 08:08:04
 139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-26 08:08:10
+206.168.34.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 08:30:57
+206.168.34.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 08:30:58
+34.79.92.92 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 08:31:23
+34.79.92.92 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 08:31:24
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-26 08:31:25
+34.79.92.92 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 08:31:25
+34.79.92.92 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-26 08:31:26
