@@ -15197,3 +15197,11 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-26 13:49:40
 139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-06-26 14:02:25
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-26 14:36:29
+185.226.198.7 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-26 14:47:35
+185.226.198.7 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-26 14:47:36
+185.226.198.5 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-26 14:47:41
+185.226.198.5 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-26 14:47:42
+185.226.198.5 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-26 14:47:43
+185.226.198.6 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-26 14:47:45
+185.226.198.6 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-26 14:47:46
+185.226.198.4 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-06-26 14:47:51
