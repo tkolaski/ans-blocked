@@ -15292,3 +15292,4 @@
 217.154.195.188 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-06-27 11:42:25
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-27 11:56:55
 217.154.195.188 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-06-27 12:01:36
+217.154.195.188 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-06-27 12:22:13
