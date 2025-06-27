@@ -15314,3 +15314,8 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-27 17:38:42
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-27 17:38:49
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-27 17:38:59
+45.156.129.75 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-27 17:40:07
+45.156.129.78 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-27 17:40:08
+45.156.129.75 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-27 17:40:09
+45.156.129.76 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-27 17:40:32
+45.156.129.76 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-27 17:40:33
