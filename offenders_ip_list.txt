@@ -15277,3 +15277,5 @@
 20.15.162.215 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-27 08:13:52
 20.15.162.215 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-27 08:13:53
 20.15.162.215 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-27 08:13:54
+178.217.173.178 # RuleID: 651 # Type: FTP # Country: KG, Kyrgyzstan # 2025-06-27 09:15:18
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-06-27 09:15:19
