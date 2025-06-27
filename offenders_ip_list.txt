@@ -15321,3 +15321,4 @@
 45.156.129.76 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-27 17:40:33
 64.226.114.52 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-27 18:45:33
 64.226.114.52 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-27 19:03:06
+64.62.156.222 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-27 19:10:05
