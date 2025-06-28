@@ -15428,3 +15428,5 @@
 203.202.232.179 # RuleID: 651 # Type: SSH # Country: IN, India # 2025-06-28 13:18:35
 34.128.77.56 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-28 13:32:53
 203.202.232.179 # RuleID: 651 # Type: SSH # Country: IN, India # 2025-06-28 13:35:55
+34.128.77.56 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-28 13:52:27
+203.202.232.179 # RuleID: 651 # Type: SSH # Country: IN, India # 2025-06-28 13:53:29
