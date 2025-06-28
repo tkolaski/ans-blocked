@@ -15434,3 +15434,4 @@
 34.128.77.56 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-28 14:11:19
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-28 14:27:50
 203.202.232.179 # RuleID: 651 # Type: SSH # Country: IN, India # 2025-06-28 14:28:05
+34.128.77.56 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-06-28 14:30:28
