@@ -15518,3 +15518,6 @@
 200.24.138.197 # RuleID: 651 # Type: SSH # Country: EC, Ecuador # 2025-06-28 20:40:35
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-28 20:50:54
 200.24.138.197 # RuleID: 651 # Type: SSH # Country: EC, Ecuador # 2025-06-28 21:00:14
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-28 21:45:37
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-28 21:45:41
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-28 21:45:51
