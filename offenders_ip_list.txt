@@ -15475,3 +15475,23 @@
 200.24.138.197 # RuleID: 651 # Type: SSH # Country: EC, Ecuador # 2025-06-28 19:22:36
 200.24.138.197 # RuleID: 651 # Type: SSH # Country: EC, Ecuador # 2025-06-28 19:22:37
 200.24.138.197 # RuleID: 651 # Type: SSH # Country: EC, Ecuador # 2025-06-28 19:22:38
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-28 19:30:53
+45.156.128.74 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:05
+45.156.128.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:05
+45.156.128.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:06
+45.156.128.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:07
+45.156.128.74 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:08
+45.156.128.72 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:08
+45.156.128.72 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:09
+45.156.128.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:10
+45.156.128.74 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:10
+45.156.128.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:11
+45.156.128.74 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:12
+45.156.128.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:13
+45.156.128.72 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:13
+45.156.128.72 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:14
+45.156.128.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-06-28 19:31:15
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-28 19:37:07
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-28 19:37:08
+128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-28 19:37:34
+128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-28 19:37:35
