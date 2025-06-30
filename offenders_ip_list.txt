@@ -16005,3 +16005,7 @@
 159.203.184.163 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-30 22:33:06
 159.203.184.163 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-06-30 22:33:07
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-30 22:38:40
+195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-06-30 22:42:26
+195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-06-30 22:42:27
+195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-06-30 22:45:37
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-30 22:47:45
