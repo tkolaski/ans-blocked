@@ -15970,3 +15970,10 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-30 15:39:08
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-30 15:42:41
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-30 15:53:39
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-06-30 16:01:05
+185.180.141.8 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-06-30 16:03:21
+185.180.141.7 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-06-30 16:03:22
+185.180.141.8 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-06-30 16:03:22
+185.180.141.7 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-06-30 16:03:23
+185.180.141.9 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-06-30 16:03:27
+185.180.141.9 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-06-30 16:03:28
