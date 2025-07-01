@@ -16197,3 +16197,8 @@
 31.220.89.74 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-07-01 12:06:26
 31.220.89.74 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-07-01 12:06:28
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 12:08:58
+198.96.88.79 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-01 12:10:50
+198.96.88.79 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-01 12:10:51
+198.96.88.79 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-01 12:10:52
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 12:18:13
+202.51.214.99 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-07-01 12:19:17
