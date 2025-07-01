@@ -16373,3 +16373,12 @@
 194.164.27.70 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-07-01 18:50:26
 194.164.27.70 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-07-01 18:50:28
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 18:53:46
+206.168.34.73 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-01 19:00:04
+206.168.34.73 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-01 19:00:05
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 19:00:49
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 19:04:17
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-01 19:07:32
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 19:07:48
+194.164.27.70 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-07-01 19:08:12
+194.164.27.70 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-07-01 19:08:13
+194.164.27.70 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-07-01 19:08:14
