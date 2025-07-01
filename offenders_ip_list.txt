@@ -16189,3 +16189,11 @@
 103.82.93.174 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-01 11:57:41
 103.82.93.174 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-01 11:57:43
 82.165.204.177 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-01 11:57:45
+202.51.214.99 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-07-01 12:02:15
+94.130.49.41 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-01 12:02:47
+20.55.3.202 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-01 12:06:14
+20.55.3.202 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-01 12:06:15
+20.55.3.202 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-01 12:06:16
+31.220.89.74 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-07-01 12:06:26
+31.220.89.74 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-07-01 12:06:28
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 12:08:58
