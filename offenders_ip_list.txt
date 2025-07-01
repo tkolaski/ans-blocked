@@ -16167,3 +16167,11 @@
 50.6.194.140 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-01 11:34:15
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 11:36:25
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 11:37:52
+78.140.189.212 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-07-01 11:40:26
+78.140.189.212 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-07-01 11:40:28
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 11:41:04
+87.106.163.71 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-01 11:43:44
+87.106.163.71 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-01 11:43:46
+84.16.61.181 # RuleID: 651 # Type: SSH # Country: SK, Slovakia # 2025-07-01 11:45:08
+154.38.166.55 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-01 11:45:32
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 11:45:42
