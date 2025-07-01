@@ -16228,3 +16228,12 @@
 159.89.196.209 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-07-01 12:51:35
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 12:55:23
 202.51.214.99 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-07-01 12:59:09
+103.174.115.99 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-01 13:02:50
+103.174.115.99 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-01 13:02:51
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-01 13:04:40
+83.147.17.100 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-07-01 13:05:15
+194.233.80.61 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-01 13:05:48
+194.233.80.61 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-01 13:05:50
+82.165.204.177 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-01 13:07:34
+82.165.204.177 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-01 13:07:35
+82.165.204.177 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-01 13:07:38
