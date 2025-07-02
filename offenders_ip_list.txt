@@ -16697,3 +16697,4 @@
 40.124.80.149 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-02 13:55:39
 40.124.80.149 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-02 13:55:40
 40.124.80.149 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-02 13:55:41
+10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-02 14:22:26
