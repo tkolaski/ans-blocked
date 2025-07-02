@@ -16746,3 +16746,5 @@
 184.105.247.196 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-02 20:19:10
 195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-07-02 20:42:55
 195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-07-02 20:42:56
+195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-07-02 21:16:24
+195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-07-02 21:19:34
