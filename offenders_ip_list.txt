@@ -16922,3 +16922,5 @@
 149.102.232.83 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-04 00:59:19
 45.84.102.12 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-07-04 00:59:20
 149.102.232.83 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-04 00:59:21
+138.199.56.249 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-07-04 01:01:24
+138.199.56.249 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-07-04 01:01:25
