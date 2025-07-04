@@ -17059,3 +17059,5 @@
 98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-04 20:00:47
 98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-04 20:00:48
 128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-04 20:12:43
+47.251.92.101 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-04 20:30:06
+47.251.92.101 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-04 20:30:07
