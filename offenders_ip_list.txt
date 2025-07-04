@@ -17061,3 +17061,13 @@
 128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-04 20:12:43
 47.251.92.101 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-04 20:30:06
 47.251.92.101 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-04 20:30:07
+45.156.129.82 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-04 20:58:12
+45.156.129.82 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-04 20:58:13
+45.156.129.81 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-04 20:58:14
+45.156.129.82 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-04 20:58:15
+45.156.129.82 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-04 20:58:16
+45.156.129.81 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-04 20:58:16
+45.156.129.80 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-04 20:58:18
+45.156.129.80 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-04 20:58:19
+45.156.129.80 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-04 20:58:20
+45.156.129.80 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-04 20:58:21
