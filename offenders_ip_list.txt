@@ -17210,3 +17210,6 @@
 167.71.33.245 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-07-06 01:03:43
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-07-06 01:26:48
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-07-06 01:27:06
+13.86.105.19 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-06 01:37:57
+13.86.105.19 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-06 01:37:58
+13.86.105.19 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-06 01:37:59
