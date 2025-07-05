@@ -17108,3 +17108,5 @@
 38.7.201.119 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-05 08:24:05
 38.7.201.119 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-05 08:24:06
 172.202.118.72 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-07-05 08:45:08
+39.41.216.222 # RuleID: 651 # Type: FTP # Country: PK, Pakistan # 2025-07-05 09:06:38
+39.41.216.222 # RuleID: 651 # Type: FTP # Country: PK, Pakistan # 2025-07-05 09:06:39
