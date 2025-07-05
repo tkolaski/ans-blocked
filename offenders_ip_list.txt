@@ -17161,3 +17161,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-05 16:31:33
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-05 16:31:39
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-05 16:36:58
+198.235.24.113 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-07-05 17:21:14
