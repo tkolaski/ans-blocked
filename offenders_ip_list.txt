@@ -17164,3 +17164,16 @@
 198.235.24.113 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-07-05 17:21:14
 217.175.116.53 # RuleID: 651 # Type: SSH # Country: SE, Sweden # 2025-07-05 18:52:47
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-05 19:18:38
+45.156.128.91 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:01
+45.156.128.93 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:02
+45.156.128.91 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:03
+45.156.128.91 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:04
+45.156.128.91 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:05
+45.156.128.91 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:06
+45.156.128.93 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:07
+45.156.128.94 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:08
+45.156.128.93 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:08
+45.156.128.94 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:09
+45.156.128.93 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:10
+45.156.128.94 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:11
+45.156.128.93 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-05 19:20:11
