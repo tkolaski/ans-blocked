@@ -17245,3 +17245,5 @@
 34.140.32.240 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-06 04:38:03
 34.140.32.240 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-06 04:38:04
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-06 04:49:18
+128.199.219.184 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-07-06 04:51:16
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-06 04:53:39
