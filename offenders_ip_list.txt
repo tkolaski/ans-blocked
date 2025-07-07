@@ -17345,3 +17345,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-07 03:42:01
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-07 03:49:33
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-07 03:59:34
+80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-07-07 04:12:45
