@@ -17409,3 +17409,5 @@
 139.99.35.43 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-07-07 19:07:48
 139.99.35.41 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-07-07 19:07:53
 139.99.35.41 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-07-07 19:07:54
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 19:59:20
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 19:59:21
