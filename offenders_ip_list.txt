@@ -17389,3 +17389,18 @@
 198.55.98.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-07 17:55:58
 40.76.104.201 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 18:14:43
 40.76.104.201 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 18:14:44
+45.156.128.67 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:36
+45.156.128.66 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:37
+45.156.128.69 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:37
+45.156.128.66 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:38
+45.156.128.66 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:39
+45.156.128.67 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:39
+45.156.128.67 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:40
+45.156.128.69 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:40
+45.156.128.66 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:41
+45.156.128.67 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:42
+45.156.128.66 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:42
+45.156.128.67 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:43
+45.156.128.66 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:43
+45.156.128.67 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:44
+45.156.128.66 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:45
