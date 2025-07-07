@@ -17358,3 +17358,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-07 05:54:01
 194.164.27.70 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-07-07 06:00:48
 194.164.27.70 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-07-07 06:19:04
+68.183.27.230 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 06:23:04
+68.183.27.230 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 06:23:05
