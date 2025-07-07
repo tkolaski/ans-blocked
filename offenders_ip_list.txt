@@ -17422,3 +17422,5 @@
 20.15.162.238 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 23:05:09
 20.15.162.238 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 23:05:10
 198.55.98.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-08 00:00:11
+20.163.15.130 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-08 01:17:23
+20.163.15.130 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-08 01:17:24
