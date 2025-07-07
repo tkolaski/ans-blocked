@@ -17348,3 +17348,4 @@
 80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-07-07 04:12:45
 20.163.30.205 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 04:28:34
 20.163.30.205 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 04:28:35
+194.164.27.70 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-07-07 04:46:35
