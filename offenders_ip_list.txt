@@ -17404,3 +17404,8 @@
 45.156.128.66 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:43
 45.156.128.67 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:44
 45.156.128.66 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-07 18:28:45
+198.55.98.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-07 19:01:51
+139.99.35.43 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-07-07 19:07:47
+139.99.35.43 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-07-07 19:07:48
+139.99.35.41 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-07-07 19:07:53
+139.99.35.41 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-07-07 19:07:54
