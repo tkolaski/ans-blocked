@@ -17418,3 +17418,6 @@
 198.55.98.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-07 21:05:35
 198.55.98.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-07 22:04:54
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-07 22:46:10
+198.55.98.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-07 23:03:45
+20.15.162.238 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 23:05:09
+20.15.162.238 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-07 23:05:10
