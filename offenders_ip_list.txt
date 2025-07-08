@@ -17552,3 +17552,4 @@
 190.167.86.151 # RuleID: 651 # Type: SSH # Country: DO, Dominican Republic # 2025-07-08 20:43:25
 45.33.12.122 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-08 20:49:50
 45.33.12.122 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-08 20:49:51
+190.167.86.151 # RuleID: 651 # Type: SSH # Country: DO, Dominican Republic # 2025-07-08 21:04:16
