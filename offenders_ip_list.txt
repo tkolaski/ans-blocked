@@ -17470,3 +17470,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-08 07:52:10
 194.187.176.93 # RuleID: 651 # Type: FTP # Country: AT, Austria # 2025-07-08 07:54:12
 194.187.176.93 # RuleID: 651 # Type: FTP # Country: AT, Austria # 2025-07-08 07:54:13
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-08 08:02:00
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-08 08:02:01
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-08 08:04:23
