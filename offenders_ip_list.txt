@@ -17548,3 +17548,7 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-08 20:07:43
 184.105.139.68 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-08 20:27:13
 185.149.146.202 # RuleID: 651 # Type: SSH # Country: LU, Luxembourg # 2025-07-08 20:37:53
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-08 20:40:38
+190.167.86.151 # RuleID: 651 # Type: SSH # Country: DO, Dominican Republic # 2025-07-08 20:43:25
+45.33.12.122 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-08 20:49:50
+45.33.12.122 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-08 20:49:51
