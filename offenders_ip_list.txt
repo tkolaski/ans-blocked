@@ -17519,3 +17519,10 @@
 10.10.4.209 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-08 16:36:03
 185.149.146.202 # RuleID: 651 # Type: SSH # Country: LU, Luxembourg # 2025-07-08 17:42:21
 185.149.146.202 # RuleID: 651 # Type: SSH # Country: LU, Luxembourg # 2025-07-08 17:42:23
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-08 18:06:08
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-08 18:06:16
+185.226.197.37 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-08 18:09:57
+185.226.197.38 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-08 18:09:57
+185.226.197.38 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-08 18:09:58
+185.226.197.37 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-08 18:09:59
+185.226.197.37 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-08 18:10:00
