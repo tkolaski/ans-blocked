@@ -17800,3 +17800,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 11:08:40
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 11:08:46
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 11:13:49
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 11:26:01
+47.251.102.239 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-09 11:29:09
+47.251.102.239 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-09 11:29:12
