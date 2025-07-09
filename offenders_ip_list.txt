@@ -17684,3 +17684,10 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-07-09 02:02:37
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-07-09 02:02:54
 185.149.146.202 # RuleID: 651 # Type: SSH # Country: LU, Luxembourg # 2025-07-09 02:14:14
+20.127.195.188 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-09 04:31:30
+20.127.195.188 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-09 04:31:31
+162.142.125.222 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-09 04:32:50
+162.142.125.222 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-09 04:32:51
+161.142.253.238 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-07-09 04:38:58
+161.142.253.238 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-07-09 04:38:59
+161.142.253.238 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-07-09 04:39:00
