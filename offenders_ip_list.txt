@@ -17693,3 +17693,4 @@
 161.142.253.238 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-07-09 04:39:00
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 05:46:07
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 06:13:47
+10.10.4.195 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-07-09 07:57:53
