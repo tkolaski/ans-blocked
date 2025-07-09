@@ -17839,3 +17839,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 15:46:04
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 16:04:42
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 16:26:18
+188.164.195.174 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-07-09 16:31:36
