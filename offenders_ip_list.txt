@@ -17874,3 +17874,10 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 17:45:06
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 17:45:13
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-09 17:45:20
+124.120.50.212 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-07-09 17:51:20
+124.120.50.212 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-07-09 17:51:21
+124.120.50.212 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-07-09 17:51:22
+148.72.64.32 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-09 17:55:21
+72.167.227.34 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-09 17:59:10
+72.167.227.34 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-09 17:59:12
+70.54.182.130 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-07-09 17:59:28
