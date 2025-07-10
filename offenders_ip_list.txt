@@ -18421,3 +18421,7 @@
 110.78.149.76 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-07-10 12:05:54
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-10 12:06:32
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-10 12:08:49
+167.172.153.88 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-10 12:12:16
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-10 12:12:59
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-10 12:15:48
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-10 12:18:36
