@@ -18948,3 +18948,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-11 12:55:17
 161.132.53.153 # RuleID: 651 # Type: SSH # Country: PE, Peru # 2025-07-11 12:56:32
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-11 12:59:27
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-11 13:01:35
+20.65.194.113 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-11 13:06:51
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-11 13:07:49
