@@ -19243,3 +19243,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-12 01:45:16
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-12 02:02:04
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-12 02:02:12
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-12 02:20:41
+146.19.57.220 # RuleID: 651 # Type: SSH # Country: FR, France # 2025-07-12 02:26:35
