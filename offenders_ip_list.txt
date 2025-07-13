@@ -19899,3 +19899,17 @@
 167.172.153.88 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-13 20:49:20
 134.209.94.47 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-07-13 20:53:29
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-13 21:03:11
+185.226.197.12 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:33
+185.226.197.14 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:34
+185.226.197.14 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:35
+185.226.197.12 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:36
+185.226.197.12 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:37
+185.226.197.12 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:38
+185.226.197.14 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:38
+185.226.197.12 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:39
+185.226.197.14 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:40
+185.226.197.14 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:41
+185.226.197.12 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:41
+185.226.197.12 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:42
+185.226.197.12 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-13 21:38:43
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-13 21:39:02
