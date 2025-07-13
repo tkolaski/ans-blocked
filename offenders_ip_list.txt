@@ -19877,3 +19877,8 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-13 19:22:44
 176.65.151.25 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-13 19:29:29
 134.209.94.47 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-07-13 19:43:56
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-13 20:03:10
+104.234.115.78 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-07-13 20:05:00
+104.234.115.78 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-07-13 20:05:01
+134.209.94.47 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-07-13 20:07:06
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-13 20:09:50
