@@ -20009,3 +20009,18 @@
 165.227.171.166 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-14 12:54:10
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-14 13:46:28
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-14 13:58:27
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-14 15:02:01
+45.156.128.77 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:49
+45.156.128.79 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:50
+45.156.128.79 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:51
+45.156.128.76 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:51
+45.156.128.77 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:52
+45.156.128.79 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:53
+45.156.128.77 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:54
+45.156.128.79 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:55
+45.156.128.79 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:56
+45.156.128.77 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:56
+45.156.128.79 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:57
+45.156.128.76 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:58
+45.156.128.79 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:58
+45.156.128.77 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 15:08:59
