@@ -19940,3 +19940,5 @@
 20.106.33.119 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-14 03:46:50
 20.106.33.119 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-14 03:46:51
 20.106.33.119 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-14 03:46:52
+66.240.223.202 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-14 03:58:00
+66.240.223.202 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-14 03:58:01
