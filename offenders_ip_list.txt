@@ -19963,3 +19963,6 @@
 45.156.128.109 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-14 07:45:52
 98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-14 07:56:04
 98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-14 07:56:05
+176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-14 08:04:20
+176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-14 08:04:21
+176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-14 08:04:22
