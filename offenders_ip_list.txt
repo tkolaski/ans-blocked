@@ -19966,3 +19966,6 @@
 176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-14 08:04:20
 176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-14 08:04:21
 176.65.148.10 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-14 08:04:22
+128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-14 08:11:48
+128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-14 08:11:49
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-14 08:12:25
