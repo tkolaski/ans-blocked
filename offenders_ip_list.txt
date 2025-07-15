@@ -20125,3 +20125,6 @@
 85.138.188.227 # RuleID: 651 # Type: SSH # Country: PT, Portugal # 2025-07-15 05:44:47
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-15 06:15:49
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-15 06:23:30
+135.237.123.227 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-15 06:31:46
+135.237.123.227 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-15 06:31:47
+135.237.123.227 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-15 06:31:48
