@@ -20358,3 +20358,8 @@
 185.242.226.22 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-07-17 00:23:00
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-17 00:43:18
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-17 00:59:32
+20.169.108.15 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-17 01:00:52
+20.169.108.15 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-17 01:00:53
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-17 01:02:04
+195.164.49.70 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-07-17 01:08:39
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-07-17 01:08:40
