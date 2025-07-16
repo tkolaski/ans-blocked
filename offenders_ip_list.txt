@@ -20364,3 +20364,4 @@
 195.164.49.70 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-07-17 01:08:39
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-07-17 01:08:40
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-07-17 01:27:26
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-17 01:32:41
