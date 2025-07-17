@@ -20438,3 +20438,6 @@
 57.151.98.114 # RuleID: 651 # Type: FTP # Country: BE, Belgium # 2025-07-17 09:59:42
 57.151.98.114 # RuleID: 651 # Type: FTP # Country: BE, Belgium # 2025-07-17 09:59:43
 57.151.98.114 # RuleID: 651 # Type: FTP # Country: BE, Belgium # 2025-07-17 09:59:44
+10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-17 10:00:40
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-17 10:02:46
+10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-17 10:04:28
