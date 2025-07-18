@@ -20607,3 +20607,4 @@
 185.180.141.48 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-18 15:07:33
 185.180.141.48 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-18 15:07:34
 91.208.197.118 # RuleID: 651 # Type: SSH # Country: MD, Moldova, Republic of # 2025-07-18 15:25:28
+91.208.197.118 # RuleID: 651 # Type: SSH # Country: MD, Moldova, Republic of # 2025-07-18 15:42:39
