@@ -20624,3 +20624,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-18 16:53:55
 91.208.197.118 # RuleID: 651 # Type: SSH # Country: MD, Moldova, Republic of # 2025-07-18 16:53:59
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-18 16:59:49
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-18 17:12:01
+10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-18 17:14:48
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-18 17:15:07
