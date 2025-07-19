@@ -20727,3 +20727,6 @@
 167.94.138.196 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-19 16:52:09
 167.94.138.196 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-19 16:52:10
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-19 17:04:06
+20.169.104.237 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-19 17:22:05
+20.169.104.237 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-19 17:22:06
+20.169.104.237 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-19 17:22:07
