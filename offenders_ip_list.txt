@@ -20800,3 +20800,5 @@
 45.156.129.92 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-20 15:18:52
 139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-20 15:23:32
 139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-20 16:18:28
+47.245.119.233 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-20 16:32:59
+47.245.119.233 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-20 16:33:00
