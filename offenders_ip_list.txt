@@ -20795,3 +20795,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-20 12:55:54
 139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-20 13:22:24
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-07-20 13:51:26
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-20 14:26:04
