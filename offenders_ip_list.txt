@@ -20920,3 +20920,6 @@
 185.180.141.39 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-21 22:00:14
 185.180.141.39 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-21 22:00:15
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-21 23:04:58
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-21 23:34:36
+20.98.128.249 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-21 23:34:46
+20.98.128.249 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-21 23:34:47
