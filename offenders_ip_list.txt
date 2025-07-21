@@ -20864,3 +20864,5 @@
 103.248.43.99 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-21 09:02:43
 103.248.43.99 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-21 09:22:26
 103.248.43.99 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-21 09:22:28
+103.248.43.99 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-21 09:42:32
+103.248.43.99 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-21 09:42:34
