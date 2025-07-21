@@ -20852,3 +20852,7 @@
 98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-21 08:00:02
 103.248.43.99 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-21 08:02:34
 103.248.43.99 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-21 08:02:36
+103.248.43.99 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-21 08:22:55
+103.248.43.99 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-21 08:22:57
+128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-21 08:23:08
+128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-21 08:23:09
