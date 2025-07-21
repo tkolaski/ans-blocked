@@ -20878,3 +20878,8 @@
 212.102.41.20 # RuleID: 651 # Type: FTP # Country: IT, Italy # 2025-07-21 11:20:26
 178.88.167.38 # RuleID: 651 # Type: SSH # Country: KZ, Kazakhstan # 2025-07-21 11:28:46
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-21 12:22:02
+34.79.135.67 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-21 13:03:31
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-07-21 13:03:32
+34.79.135.67 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-21 13:03:32
+34.79.135.67 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-21 13:03:33
+34.79.135.67 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-21 13:03:34
