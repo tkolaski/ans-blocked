@@ -20917,3 +20917,5 @@
 185.180.141.38 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-21 21:59:54
 185.180.141.38 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-21 21:59:55
 185.180.141.38 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-21 21:59:56
+185.180.141.39 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-21 22:00:14
+185.180.141.39 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-21 22:00:15
