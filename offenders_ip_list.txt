@@ -20955,3 +20955,4 @@
 176.65.148.61 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-22 03:01:37
 176.65.148.61 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-22 03:01:38
 201.124.93.62 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-07-22 03:15:43
+201.124.93.62 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-07-22 03:34:33
