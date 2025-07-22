@@ -20958,3 +20958,4 @@
 201.124.93.62 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-07-22 03:34:33
 201.124.93.62 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-07-22 03:54:20
 201.124.93.62 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-07-22 04:14:18
+201.124.93.62 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-07-22 04:34:06
