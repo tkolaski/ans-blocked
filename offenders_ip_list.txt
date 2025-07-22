@@ -21019,3 +21019,4 @@
 45.156.130.11 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-22 19:30:53
 45.156.130.13 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-22 19:30:57
 45.156.130.12 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-22 19:31:09
+184.105.247.196 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-22 19:43:55
