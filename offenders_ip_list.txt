@@ -21170,3 +21170,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-23 14:40:30
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-23 15:09:27
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-23 15:12:55
+10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-23 15:30:03
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-23 15:32:24
+141.105.162.135 # RuleID: 651 # Type: FTP # Country: AE, United Arab Emirates # 2025-07-23 15:36:49
