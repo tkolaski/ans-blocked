@@ -21365,3 +21365,5 @@
 172.105.246.139 # RuleID: 651 # Type: FTP # Country: JP, Japan # 2025-07-24 22:32:44
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-24 23:56:42
 10.10.4.10 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-07-25 00:06:42
+148.113.172.199 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-25 00:26:32
+148.113.172.199 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-25 00:26:34
