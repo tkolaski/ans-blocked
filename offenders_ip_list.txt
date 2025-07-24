@@ -21362,3 +21362,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-24 20:46:58
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-24 20:46:59
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-24 20:50:38
+172.105.246.139 # RuleID: 651 # Type: FTP # Country: JP, Japan # 2025-07-24 22:32:44
