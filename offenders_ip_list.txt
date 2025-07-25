@@ -21467,3 +21467,5 @@
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-25 15:21:26
 10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-25 15:44:15
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-25 15:49:24
+10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-25 16:05:29
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-25 16:05:41
