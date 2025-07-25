@@ -21515,3 +21515,12 @@
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-26 00:05:04
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-26 00:05:05
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-26 00:11:22
+10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-26 01:20:23
+45.156.129.70 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-26 01:24:28
+45.156.129.73 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-26 01:24:28
+45.156.129.70 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-26 01:24:29
+45.156.129.73 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-26 01:24:30
+45.156.129.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-26 01:24:48
+45.156.129.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-26 01:24:49
+45.156.129.72 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-26 01:24:54
+10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-07-26 01:29:21
