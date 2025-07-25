@@ -21375,3 +21375,5 @@
 199.45.155.90 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-25 03:04:33
 199.45.155.90 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-25 03:04:34
 45.82.78.107 # RuleID: 651 # Type: FTP # Country: EE, Estonia # 2025-07-25 03:10:37
+20.169.105.0 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-25 05:28:20
+20.169.105.0 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-25 05:28:21
