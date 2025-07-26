@@ -21680,3 +21680,13 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-26 18:38:42
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-26 18:41:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-26 18:43:03
+185.180.141.2 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-26 18:52:05
+185.180.141.4 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-26 18:52:10
+185.180.141.5 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-26 18:52:11
+185.180.141.4 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-26 18:52:11
+185.180.141.5 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-26 18:52:12
+185.180.141.3 # RuleID: 651 # Type: FTP # Country: SK, Slovakia # 2025-07-26 18:52:16
+151.44.190.71 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-07-26 18:55:01
+159.65.200.128 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-07-26 18:55:50
+159.65.200.128 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-07-26 18:55:51
+159.65.200.128 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-07-26 18:55:53
