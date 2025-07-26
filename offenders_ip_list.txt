@@ -21543,3 +21543,5 @@
 8.219.13.226 # RuleID: 651 # Type: SSH # Country: SG, Singapore # 2025-07-26 04:14:51
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-26 04:18:49
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-26 04:27:18
+47.85.88.91 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-26 04:45:07
+209.15.121.254 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-07-26 04:46:40
