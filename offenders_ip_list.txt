@@ -21841,3 +21841,4 @@
 202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-07-27 13:17:11
 10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-27 13:19:45
 202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-07-27 13:34:24
+202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-07-27 13:52:06
