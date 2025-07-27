@@ -21847,3 +21847,10 @@
 10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-27 14:40:54
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-27 14:54:01
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-27 15:22:01
+45.156.128.76 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-27 16:26:31
+45.156.128.77 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-27 16:26:42
+45.156.128.77 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-27 16:26:43
+45.156.128.78 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-27 16:27:02
+45.156.128.78 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-27 16:27:03
+20.168.12.53 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-27 16:29:14
+20.168.12.53 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-27 16:29:15
