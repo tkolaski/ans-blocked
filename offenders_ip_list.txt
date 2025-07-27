@@ -21864,3 +21864,7 @@
 35.241.198.202 # RuleID: 651 # Type: FTP # Country: AS, American Samoa # 2025-07-27 18:00:41
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-27 18:14:19
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-27 18:18:00
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-27 18:24:42
+135.237.126.12 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-27 18:26:26
+135.237.126.12 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-27 18:26:27
+135.237.126.12 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-27 18:26:28
