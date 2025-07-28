@@ -21919,3 +21919,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-28 03:22:29
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-28 03:32:13
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-28 03:35:58
+66.240.223.202 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-28 03:43:10
+66.240.223.202 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-28 03:43:11
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-28 03:49:29
