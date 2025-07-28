@@ -21998,3 +21998,14 @@
 155.94.155.19 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-28 17:13:55
 198.235.24.176 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-07-28 17:22:45
 155.94.155.19 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-28 17:35:39
+45.156.129.70 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-28 17:41:09
+45.156.129.70 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-28 17:41:10
+45.156.129.70 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-28 17:41:11
+45.156.129.70 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-28 17:41:12
+45.156.129.70 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-28 17:41:13
+45.156.129.70 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-28 17:41:14
+45.156.129.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-28 17:41:19
+45.156.129.71 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-28 17:41:20
+45.156.129.72 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-28 17:41:25
+45.156.129.72 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-07-28 17:41:26
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-28 17:48:48
