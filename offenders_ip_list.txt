@@ -22104,3 +22104,4 @@
 185.226.198.4 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-29 19:23:58
 198.235.24.205 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-07-29 19:31:50
 198.235.24.205 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-07-29 19:31:51
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-29 19:42:19
