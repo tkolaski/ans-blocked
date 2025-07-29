@@ -22058,3 +22058,4 @@
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-29 05:10:10
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-29 05:31:07
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-29 05:48:46
+10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-29 05:53:21
