@@ -22070,3 +22070,7 @@
 185.242.226.22 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-07-29 06:34:20
 185.242.226.22 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-07-29 06:34:21
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-29 06:52:32
+172.202.117.179 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-07-29 07:10:16
+172.202.117.179 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-07-29 07:10:17
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-29 07:17:04
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-29 07:17:05
