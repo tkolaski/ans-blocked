@@ -22087,3 +22087,4 @@
 8.211.49.185 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-07-29 10:42:04
 31.14.32.4 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-07-29 11:53:03
 31.14.32.4 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-07-29 11:53:04
+10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-29 12:45:01
