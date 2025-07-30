@@ -22214,3 +22214,5 @@
 103.230.120.238 # RuleID: 651 # Type: SSH # Country: HK, Hong Kong # 2025-07-30 13:53:30
 147.185.132.174 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-30 14:15:17
 147.185.132.174 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-30 14:15:18
+20.65.226.8 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-30 14:20:16
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-30 14:24:34
