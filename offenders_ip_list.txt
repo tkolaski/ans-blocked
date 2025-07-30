@@ -22172,3 +22172,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-30 07:16:06
 89.22.101.190 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-30 07:29:11
 89.22.101.190 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-30 07:29:12
+103.147.159.198 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-30 07:31:20
+103.147.159.198 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-30 07:31:22
