@@ -22216,3 +22216,13 @@
 147.185.132.174 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-30 14:15:18
 20.65.226.8 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-30 14:20:16
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-30 14:24:34
+185.226.198.5 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-30 15:05:50
+185.226.198.5 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-30 15:05:51
+185.226.198.7 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-30 15:05:51
+185.226.198.7 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-30 15:05:52
+185.226.198.4 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-30 15:05:56
+185.226.198.4 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-30 15:05:57
+185.226.198.6 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-30 15:06:06
+185.226.198.6 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-07-30 15:06:07
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-07-30 15:07:26
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-30 15:09:31
