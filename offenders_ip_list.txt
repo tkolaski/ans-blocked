@@ -22201,3 +22201,4 @@
 143.92.37.165 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-30 11:35:11
 47.237.72.185 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-07-30 12:27:39
 185.223.124.133 # RuleID: 651 # Type: SSH # Country: AM, Armenia # 2025-07-30 12:29:02
+185.223.124.133 # RuleID: 651 # Type: SSH # Country: AM, Armenia # 2025-07-30 12:46:27
