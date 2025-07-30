@@ -22250,3 +22250,6 @@
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-30 18:32:11
 91.40.147.232 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-30 18:34:15
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-30 18:49:14
+205.210.31.80 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-07-30 18:52:16
+205.210.31.80 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-07-30 18:52:17
+91.40.147.232 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-07-30 18:52:34
