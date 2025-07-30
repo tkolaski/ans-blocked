@@ -22212,3 +22212,5 @@
 103.230.120.238 # RuleID: 651 # Type: SSH # Country: HK, Hong Kong # 2025-07-30 13:35:32
 103.230.120.238 # RuleID: 651 # Type: SSH # Country: HK, Hong Kong # 2025-07-30 13:53:27
 103.230.120.238 # RuleID: 651 # Type: SSH # Country: HK, Hong Kong # 2025-07-30 13:53:30
+147.185.132.174 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-30 14:15:17
+147.185.132.174 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-30 14:15:18
