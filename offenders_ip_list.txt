@@ -22175,3 +22175,10 @@
 103.147.159.198 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-30 07:31:20
 103.147.159.198 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-30 07:31:22
 143.92.37.165 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-07-30 07:42:52
+103.147.159.198 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-30 07:51:17
+103.147.159.198 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-30 07:51:18
+103.147.159.198 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-07-30 07:51:19
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-30 07:51:34
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-30 07:51:35
+128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-07-30 07:54:38
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-30 07:59:06
