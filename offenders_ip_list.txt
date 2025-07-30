@@ -22205,3 +22205,5 @@
 182.13.96.129 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-07-30 12:57:32
 185.223.124.133 # RuleID: 651 # Type: SSH # Country: AM, Armenia # 2025-07-30 13:04:00
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-30 13:04:22
+103.230.120.238 # RuleID: 651 # Type: SSH # Country: HK, Hong Kong # 2025-07-30 13:18:27
+103.230.120.238 # RuleID: 651 # Type: SSH # Country: HK, Hong Kong # 2025-07-30 13:18:29
