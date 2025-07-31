@@ -22304,3 +22304,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-31 07:21:18
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-07-31 07:27:09
 151.46.149.144 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-07-31 07:29:35
+142.171.17.100 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-07-31 07:45:20
+151.46.149.144 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-07-31 07:48:28
