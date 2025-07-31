@@ -22369,3 +22369,5 @@
 91.99.80.163 # RuleID: 651 # Type: SSH # Country: IR, Iran, Islamic Republic of # 2025-07-31 23:41:20
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-01 00:04:52
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-01 00:04:53
+20.65.194.183 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-01 00:46:15
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-01 00:48:54
