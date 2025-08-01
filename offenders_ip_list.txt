@@ -22378,3 +22378,6 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-01 01:41:09
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-01 01:41:26
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-01 01:41:43
+20.163.6.253 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-01 02:15:41
+20.163.6.253 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-01 02:15:42
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-01 02:16:21
