@@ -22511,3 +22511,6 @@
 135.119.16.163 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-02 00:30:09
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-02 01:26:40
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-02 01:34:14
+167.160.161.136 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-02 01:59:40
+167.160.161.136 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-02 01:59:41
+167.160.161.136 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-02 01:59:42
