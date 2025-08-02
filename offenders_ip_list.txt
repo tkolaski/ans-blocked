@@ -22549,3 +22549,5 @@
 89.110.83.57 # RuleID: 651 # Type: SSH # Country: UA, Ukraine # 2025-08-02 06:37:19
 80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-08-02 06:56:07
 10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-02 06:58:18
+94.102.49.155 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-08-02 07:34:00
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-08-02 07:34:01
