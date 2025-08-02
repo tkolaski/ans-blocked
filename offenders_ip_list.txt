@@ -22541,3 +22541,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-02 04:45:47
 10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-02 04:51:51
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-02 05:32:29
+89.110.83.57 # RuleID: 651 # Type: SSH # Country: UA, Ukraine # 2025-08-02 05:41:36
