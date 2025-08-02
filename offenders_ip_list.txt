@@ -22545,3 +22545,4 @@
 89.110.83.57 # RuleID: 651 # Type: SSH # Country: UA, Ukraine # 2025-08-02 06:00:18
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-02 06:16:38
 89.110.83.57 # RuleID: 651 # Type: SSH # Country: UA, Ukraine # 2025-08-02 06:18:56
+147.185.132.19 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-02 06:21:05
