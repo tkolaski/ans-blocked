@@ -22520,3 +22520,7 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-02 02:53:10
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-02 03:14:40
 167.160.161.136 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-02 03:34:09
+167.160.161.136 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-02 03:52:44
+151.47.35.104 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-08-02 03:59:03
+151.47.35.104 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-08-02 03:59:04
+151.47.35.104 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-08-02 03:59:06
