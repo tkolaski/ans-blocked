@@ -22802,3 +22802,12 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-03 14:45:38
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-03 14:45:52
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-03 14:48:39
+185.226.197.14 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-03 14:50:21
+185.226.197.14 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-03 14:50:22
+185.226.197.13 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-03 14:50:27
+185.226.197.12 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-03 14:50:27
+185.226.197.13 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-03 14:50:28
+185.226.197.12 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-03 14:50:29
+185.226.197.15 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-03 14:50:29
+185.226.197.15 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-03 14:50:30
+43.135.154.31 # RuleID: 651 # Type: SSH # Country: JP, Japan # 2025-08-03 14:59:37
