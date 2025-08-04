@@ -23195,3 +23195,7 @@
 172.202.118.119 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-08-04 19:23:39
 20.46.232.134 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-04 19:46:37
 20.46.232.134 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-04 19:46:38
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-04 19:52:34
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-04 19:52:35
+128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-04 19:59:10
+128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-04 19:59:11
