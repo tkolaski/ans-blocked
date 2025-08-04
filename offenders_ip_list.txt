@@ -23061,3 +23061,5 @@
 167.99.149.55 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-04 06:23:34
 167.99.149.55 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-04 06:23:35
 68.69.186.182 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-04 07:28:20
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-04 07:51:16
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-04 07:51:17
