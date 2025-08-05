@@ -23307,3 +23307,6 @@
 98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-05 07:51:57
 128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-05 08:04:36
 128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-05 08:04:37
+20.118.200.9 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-05 08:28:24
+20.118.200.9 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-05 08:28:25
+20.118.200.9 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-05 08:28:26
