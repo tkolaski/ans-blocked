@@ -23339,3 +23339,4 @@
 34.76.134.123 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-05 10:08:45
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-05 10:09:57
 202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-08-05 10:22:43
+202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-08-05 10:39:48
