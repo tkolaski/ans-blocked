@@ -23421,3 +23421,5 @@
 128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-06 01:20:02
 128.14.209.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-06 01:20:03
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-06 01:38:26
+206.168.34.78 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-06 02:31:53
+206.168.34.78 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-06 02:31:54
