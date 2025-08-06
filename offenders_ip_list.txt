@@ -23524,3 +23524,7 @@
 148.178.22.247 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-07 00:17:01
 148.178.22.92 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-07 00:18:00
 148.178.22.20 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-07 00:19:37
+148.178.22.28 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-07 00:20:19
+148.178.22.26 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-07 00:27:25
+148.178.22.69 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-07 00:28:03
+148.178.22.40 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-07 00:29:35
