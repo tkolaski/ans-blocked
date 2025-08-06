@@ -23435,3 +23435,4 @@
 10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-06 06:00:30
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-06 06:34:58
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-06 06:36:38
+148.178.22.41 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-06 06:47:05
