@@ -23781,3 +23781,5 @@
 15.235.189.148 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-07 18:47:41
 95.3.41.82 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-08-07 19:44:01
 95.3.41.82 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-08-07 19:44:02
+20.163.57.193 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-07 19:51:04
+98.98.210.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-07 19:51:06
