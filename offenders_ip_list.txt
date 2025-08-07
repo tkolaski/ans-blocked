@@ -23759,3 +23759,11 @@
 143.198.179.104 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-07 14:21:31
 143.198.179.104 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-07 14:21:32
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-07 15:06:51
+45.156.130.11 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-07 15:38:29
+45.156.130.11 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-07 15:38:30
+45.156.130.13 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-07 15:38:35
+45.156.130.13 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-07 15:38:36
+45.156.130.13 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-07 15:38:37
+45.156.130.13 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-07 15:38:38
+45.156.130.10 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-07 15:38:41
+45.156.130.10 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-07 15:38:42
