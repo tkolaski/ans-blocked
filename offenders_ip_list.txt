@@ -23756,3 +23756,5 @@
 35.240.63.222 # RuleID: 651 # Type: FTP # Country: AS, American Samoa # 2025-08-07 13:17:47
 35.240.63.222 # RuleID: 651 # Type: FTP # Country: AS, American Samoa # 2025-08-07 13:17:48
 20.55.98.221 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-07 13:55:10
+143.198.179.104 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-07 14:21:31
+143.198.179.104 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-07 14:21:32
