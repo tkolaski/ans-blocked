@@ -23833,3 +23833,5 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-08 01:31:54
 167.94.138.34 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-08 01:38:59
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-08 03:13:03
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-08 03:52:52
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-08-08 03:59:58
