@@ -23986,3 +23986,8 @@
 77.83.240.46 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-11 14:49:07
 77.83.240.46 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-11 14:49:08
 77.83.240.46 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-11 14:49:09
+77.83.240.46 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-11 15:10:29
+77.83.240.46 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-11 15:10:30
+77.83.240.46 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-11 15:10:31
+167.99.57.50 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-11 15:19:20
+167.99.57.50 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-11 15:19:21
