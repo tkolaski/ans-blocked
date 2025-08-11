@@ -23967,3 +23967,5 @@
 212.193.3.77 # RuleID: 651 # Type: SSH # Country: RU, Russian Federation # 2025-08-11 07:53:24
 192.168.71.100 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-11 08:30:19
 192.168.71.100 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-11 08:30:20
+10.10.4.10 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-08-11 09:16:44
+10.10.4.10 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-08-11 09:16:48
