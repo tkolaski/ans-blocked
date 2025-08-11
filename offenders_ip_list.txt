@@ -24008,3 +24008,5 @@
 20.106.57.141 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-11 17:45:01
 20.106.57.141 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-11 17:45:02
 20.106.57.141 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-11 17:45:03
+45.156.128.132 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-11 18:08:26
+45.156.128.132 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-11 18:08:27
