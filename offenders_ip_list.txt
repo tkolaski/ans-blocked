@@ -24019,3 +24019,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-11 20:02:19
 65.49.20.69 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-11 20:11:10
 65.49.20.69 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-11 20:11:11
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-08-11 20:21:24
