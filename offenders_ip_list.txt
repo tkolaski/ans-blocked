@@ -24079,3 +24079,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-12 10:45:04
 143.92.37.154 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-08-12 10:46:15
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-12 11:23:39
+143.92.37.154 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-08-12 11:50:08
