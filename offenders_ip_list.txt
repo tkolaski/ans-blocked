@@ -24122,3 +24122,4 @@
 35.216.159.222 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-12 22:29:43
 35.216.159.222 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-12 22:29:44
 143.92.37.154 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-08-12 22:42:42
+143.92.37.154 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-08-12 23:12:06
