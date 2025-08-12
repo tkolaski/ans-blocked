@@ -24101,3 +24101,4 @@
 45.156.129.142 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-12 18:27:49
 45.156.131.12 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-12 18:31:32
 45.156.131.12 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-12 18:31:33
+143.92.37.154 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-08-12 18:58:08
