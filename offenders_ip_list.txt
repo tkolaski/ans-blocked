@@ -24097,3 +24097,5 @@
 129.212.178.135 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-12 17:55:37
 129.212.178.135 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-12 17:55:38
 45.156.128.134 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-12 18:12:45
+45.156.129.142 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-12 18:27:48
+45.156.129.142 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-12 18:27:49
