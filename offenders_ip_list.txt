@@ -24110,3 +24110,8 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-12 20:25:32
 10.10.4.10 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-08-12 20:48:10
 143.92.37.154 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-08-12 21:04:20
+206.168.34.127 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-12 21:34:11
+206.168.34.127 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-12 21:34:12
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-12 21:36:09
+205.210.31.196 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-12 21:38:49
+205.210.31.196 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-12 21:38:50
