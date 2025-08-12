@@ -24085,3 +24085,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-12 13:38:01
 128.199.7.200 # RuleID: 651 # Type: FTP # Country: SG, Singapore # 2025-08-12 14:18:03
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-12 14:31:06
+164.92.140.219 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-12 14:41:54
