@@ -24056,3 +24056,4 @@
 10.10.4.10 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-12 08:58:39
 10.10.4.10 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-12 08:59:01
 10.10.4.10 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-12 08:59:13
+143.92.37.154 # RuleID: 651 # Type: SSH # Country: KH, Cambodia # 2025-08-12 09:27:37
