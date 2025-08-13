@@ -24195,3 +24195,4 @@
 139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-08-13 17:02:53
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-13 17:28:53
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-13 17:42:20
+45.156.128.133 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-13 18:08:20
