@@ -24183,3 +24183,5 @@
 185.226.197.32 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:52
 185.226.197.35 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:58
 185.226.197.35 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:59
+139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-08-13 15:02:47
+10.10.4.66 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-13 15:03:05
