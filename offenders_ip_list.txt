@@ -24172,3 +24172,14 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-13 14:03:09
 139.19.117.197 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-08-13 14:08:54
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-13 14:19:07
+155.94.155.248 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-13 14:50:35
+185.226.197.34 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:47
+185.226.197.32 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:47
+185.226.197.32 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:48
+185.226.197.34 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:48
+185.226.197.32 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:49
+185.226.197.32 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:50
+185.226.197.32 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:51
+185.226.197.32 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:52
+185.226.197.35 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:58
+185.226.197.35 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-13 14:50:59
