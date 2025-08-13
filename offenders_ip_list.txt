@@ -24136,3 +24136,6 @@
 172.178.83.104 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-08-13 05:31:24
 172.178.83.104 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-08-13 05:31:25
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-13 05:38:14
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-13 05:47:35
+10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-13 05:47:37
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-13 05:47:38
