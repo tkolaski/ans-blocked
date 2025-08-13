@@ -24142,3 +24142,6 @@
 165.227.39.146 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-13 05:52:36
 165.227.39.146 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-13 05:52:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-13 05:53:57
+109.199.106.53 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-13 06:01:11
+109.199.106.53 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-13 06:01:13
+45.156.128.133 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-13 06:08:28
