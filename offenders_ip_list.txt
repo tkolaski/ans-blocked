@@ -24223,3 +24223,4 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-14 01:43:36
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-14 01:43:53
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-14 02:29:26
+167.94.146.49 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-14 02:43:59
