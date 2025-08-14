@@ -24254,3 +24254,4 @@
 161.97.171.46 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-14 15:14:44
 161.97.171.46 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-14 15:14:45
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-14 15:31:06
+20.118.32.235 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-14 16:05:26
