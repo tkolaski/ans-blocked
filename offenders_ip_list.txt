@@ -24367,3 +24367,4 @@
 151.19.114.131 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-08-15 23:26:02
 176.65.149.231 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-08-15 23:32:53
 151.19.114.131 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-08-15 23:46:12
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-16 00:24:52
