@@ -24302,3 +24302,4 @@
 154.38.167.83 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-15 05:41:56
 178.62.104.32 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-15 05:53:39
 154.38.167.83 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-15 05:59:50
+45.156.128.133 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-15 06:07:40
