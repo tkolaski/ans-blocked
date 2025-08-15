@@ -24303,3 +24303,7 @@
 178.62.104.32 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-15 05:53:39
 154.38.167.83 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-15 05:59:50
 45.156.128.133 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-15 06:07:40
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-15 06:10:28
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-15 06:15:49
+45.156.131.7 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-15 06:18:33
+45.156.131.7 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-15 06:18:34
