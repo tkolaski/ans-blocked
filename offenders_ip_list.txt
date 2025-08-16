@@ -24486,3 +24486,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-16 15:38:09
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-16 15:47:20
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-16 15:58:34
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-16 16:10:02
+185.226.196.15 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-16 16:11:17
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-16 16:17:06
