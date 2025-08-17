@@ -24607,3 +24607,13 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-17 19:57:12
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-17 19:57:13
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-17 20:19:45
+20.106.226.136 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-17 20:25:22
+20.106.226.136 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-17 20:25:23
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-08-17 20:25:24
+185.226.197.40 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-17 20:25:43
+185.226.197.40 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-17 20:25:44
+185.226.197.37 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-17 20:25:53
+185.226.197.37 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-17 20:25:54
+185.226.197.37 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-17 20:25:55
+185.226.197.38 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-17 20:26:08
+185.226.197.38 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-17 20:26:09
