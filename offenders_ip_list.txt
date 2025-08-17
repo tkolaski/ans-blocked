@@ -24564,3 +24564,4 @@
 212.132.127.8 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-17 08:45:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-17 09:04:30
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-17 09:48:49
+10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-17 10:31:46
