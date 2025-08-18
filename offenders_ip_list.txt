@@ -24695,3 +24695,4 @@
 45.156.130.15 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-18 20:21:09
 167.172.37.60 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-08-18 20:32:42
 167.172.37.60 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-08-18 20:32:43
+65.49.1.162 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-18 20:46:54
