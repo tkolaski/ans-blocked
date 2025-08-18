@@ -24705,3 +24705,4 @@
 20.14.75.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-19 00:45:40
 20.14.75.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-19 00:45:41
 20.14.75.2 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-19 00:45:42
+200.111.19.38 # RuleID: 651 # Type: SSH # Country: CL, Chile # 2025-08-19 01:01:31
