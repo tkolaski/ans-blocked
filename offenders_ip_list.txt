@@ -24740,3 +24740,9 @@
 129.212.185.184 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-19 15:23:31
 129.212.185.184 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-19 15:23:32
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-19 15:37:50
+45.156.128.132 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-19 18:12:13
+45.156.128.132 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-19 18:12:14
+185.226.196.7 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-19 18:15:03
+185.226.196.7 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-19 18:15:04
+45.156.129.140 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-19 18:16:18
+45.156.129.140 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-19 18:16:19
