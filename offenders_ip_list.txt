@@ -24717,3 +24717,4 @@
 185.226.196.7 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-19 06:10:44
 185.226.196.7 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-08-19 06:10:45
 45.156.129.140 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-19 06:13:04
+198.235.24.245 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-19 06:29:11
