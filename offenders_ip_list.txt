@@ -24861,3 +24861,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-20 22:13:29
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-20 22:20:56
 194.187.179.166 # RuleID: 651 # Type: FTP # Country: AT, Austria # 2025-08-20 22:51:26
+198.235.24.104 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-20 23:07:31
+198.235.24.104 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-20 23:07:32
