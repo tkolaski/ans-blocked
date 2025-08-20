@@ -24793,3 +24793,7 @@
 45.156.129.141 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-20 06:17:56
 151.18.237.250 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-08-20 06:25:41
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-20 06:34:04
+34.79.78.134 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-20 06:40:43
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-08-20 06:40:44
+34.79.78.134 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-20 06:40:45
+34.79.78.134 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-20 06:40:46
