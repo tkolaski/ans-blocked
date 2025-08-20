@@ -24840,3 +24840,6 @@
 45.156.129.95 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-20 18:09:55
 45.156.129.98 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-20 18:09:56
 45.156.129.97 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-20 18:10:00
+45.156.129.96 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-20 18:10:20
+45.156.131.7 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-20 18:18:18
+45.156.131.7 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-20 18:18:19
