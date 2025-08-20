@@ -24788,3 +24788,6 @@
 151.18.237.250 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-08-20 06:08:28
 151.18.237.250 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-08-20 06:08:29
 151.18.237.250 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-08-20 06:08:30
+45.156.131.7 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-20 06:16:47
+45.156.129.141 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-20 06:17:55
+45.156.129.141 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-08-20 06:17:56
