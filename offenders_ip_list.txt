@@ -24954,3 +24954,4 @@
 79.116.47.127 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-08-22 07:33:28
 79.116.47.127 # RuleID: 651 # Type: SSH # Country: RO, Romania # 2025-08-22 07:33:29
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-22 07:35:40
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-22 07:49:27
