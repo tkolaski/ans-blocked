@@ -24982,3 +24982,4 @@
 104.140.52.39 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-25 08:38:28
 104.140.52.39 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-25 08:38:30
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-25 08:57:34
+46.174.29.141 # RuleID: 651 # Type: SSH # Country: PL, Poland # 2025-08-25 09:00:27
