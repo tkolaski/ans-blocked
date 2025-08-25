@@ -24978,3 +24978,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-25 08:21:48
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-25 08:25:16
 170.83.79.30 # RuleID: 651 # Type: SSH # Country: VE, Venezuela # 2025-08-25 08:26:44
+170.83.79.31 # RuleID: 651 # Type: SSH # Country: VE, Venezuela # 2025-08-25 08:36:04
+104.140.52.39 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-25 08:38:28
+104.140.52.39 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-25 08:38:30
