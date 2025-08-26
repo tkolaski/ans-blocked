@@ -25141,3 +25141,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-26 22:11:43
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-26 22:47:26
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-26 23:45:07
+217.154.63.38 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-27 00:43:15
