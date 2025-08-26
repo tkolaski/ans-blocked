@@ -25112,3 +25112,5 @@
 217.154.62.22 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-08-26 20:27:25
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-26 20:37:40
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-26 20:39:52
+198.235.24.81 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-26 20:58:54
+198.235.24.81 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-26 20:58:55
