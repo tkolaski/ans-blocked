@@ -25237,3 +25237,5 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-28 01:45:02
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-28 01:45:20
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-28 01:45:36
+198.235.24.39 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-28 03:22:46
+198.235.24.39 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-08-28 03:22:47
