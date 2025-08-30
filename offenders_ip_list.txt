@@ -25403,3 +25403,4 @@
 167.94.138.201 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-30 00:31:06
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-30 00:56:54
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-30 00:56:55
+182.52.236.13 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-08-30 02:51:14
