@@ -25512,3 +25512,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-31 11:49:48
 95.217.164.11 # RuleID: 651 # Type: SSH # Country: FI, Finland # 2025-08-31 12:51:45
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-31 14:10:40
+64.62.156.24 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-31 14:38:43
+64.62.156.24 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-31 14:38:44
