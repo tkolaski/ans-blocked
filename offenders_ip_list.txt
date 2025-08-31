@@ -25491,3 +25491,5 @@
 110.39.166.75 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-08-31 04:57:58
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-31 05:07:30
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-31 06:25:38
+10.10.4.94 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-08-31 06:42:33
+192.3.96.146 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-08-31 06:43:45
