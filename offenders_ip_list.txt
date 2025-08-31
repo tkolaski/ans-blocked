@@ -25488,3 +25488,4 @@
 20.55.99.64 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-08-31 02:05:31
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-08-31 02:18:52
 159.65.205.146 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-08-31 04:37:20
+110.39.166.75 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-08-31 04:57:58
