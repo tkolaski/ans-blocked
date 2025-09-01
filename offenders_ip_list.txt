@@ -25584,3 +25584,7 @@
 206.168.34.116 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-01 14:41:14
 71.6.232.30 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-01 15:46:30
 71.6.232.30 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-01 15:46:31
+20.163.60.204 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-01 15:54:45
+20.163.60.204 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-01 15:54:46
+20.163.60.204 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-01 15:54:47
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-01 15:56:49
