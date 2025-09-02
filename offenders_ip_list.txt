@@ -25606,3 +25606,4 @@
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-09-02 02:41:56
 68.183.3.153 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-09-02 02:57:33
 68.183.3.153 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-09-02 02:57:34
+198.235.24.60 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-02 04:20:50
