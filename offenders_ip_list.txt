@@ -25638,3 +25638,5 @@
 167.94.138.169 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-02 15:31:48
 94.141.120.66 # RuleID: 651 # Type: SSH # Country: RU, Russian Federation # 2025-09-02 15:35:27
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-02 15:47:57
+94.141.120.66 # RuleID: 651 # Type: SSH # Country: RU, Russian Federation # 2025-09-02 15:53:21
+94.141.120.66 # RuleID: 651 # Type: SSH # Country: RU, Russian Federation # 2025-09-02 15:53:23
