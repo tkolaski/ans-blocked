@@ -25888,3 +25888,7 @@
 64.226.122.197 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-06 03:48:55
 157.230.117.221 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-09-06 03:48:56
 157.230.117.221 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-09-06 03:48:57
+35.216.145.137 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-06 04:03:00
+35.216.145.137 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-06 04:03:01
+35.216.145.137 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-06 04:03:02
+35.216.145.137 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-06 04:03:03
