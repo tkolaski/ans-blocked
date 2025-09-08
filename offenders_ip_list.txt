@@ -26132,3 +26132,5 @@
 195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-09-08 18:23:18
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-08 18:52:52
 71.6.232.24 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-08 18:59:13
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-08 19:22:15
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-08 19:22:17
