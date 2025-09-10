@@ -26313,3 +26313,4 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-10 21:47:43
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-10 22:11:54
 10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-10 22:16:01
+10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-10 22:29:40
