@@ -26368,3 +26368,4 @@
 217.154.33.8 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-11 22:40:30
 217.154.33.8 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-11 22:40:31
 217.154.33.8 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-11 22:40:32
+172.98.86.145 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-11 23:13:59
