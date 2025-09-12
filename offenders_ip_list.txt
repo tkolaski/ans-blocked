@@ -26378,3 +26378,6 @@
 166.252.222.193 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-12 01:28:41
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-09-12 01:37:46
 164.92.239.221 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-12 02:04:58
+40.124.175.52 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-12 02:16:48
+40.124.175.52 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-12 02:16:49
+40.124.175.52 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-12 02:16:50
