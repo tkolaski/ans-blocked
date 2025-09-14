@@ -26506,3 +26506,21 @@
 217.160.20.15 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-14 04:50:31
 205.210.31.242 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-14 08:18:30
 205.210.31.242 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-14 08:18:31
+85.214.57.130 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-14 08:35:56
+85.214.57.130 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-14 08:35:57
+89.36.208.238 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-14 08:35:58
+89.36.208.238 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-14 08:35:59
+198.199.71.10 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 08:36:00
+94.130.96.142 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-14 08:36:01
+63.135.227.188 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 08:36:01
+63.135.227.188 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 08:36:02
+76.132.94.51 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 08:36:03
+63.135.227.188 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 08:36:03
+63.135.227.188 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 08:36:04
+85.214.57.130 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-14 08:36:04
+94.130.96.142 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-14 08:36:05
+89.36.208.238 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-14 08:36:06
+76.132.94.51 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 08:36:06
+198.199.71.10 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 08:36:07
+63.135.227.188 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 08:36:08
+76.132.94.51 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 08:36:09
