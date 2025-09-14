@@ -26504,3 +26504,5 @@
 217.160.20.15 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-14 04:33:48
 151.47.102.198 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-14 04:48:33
 217.160.20.15 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-14 04:50:31
+205.210.31.242 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-14 08:18:30
+205.210.31.242 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-14 08:18:31
