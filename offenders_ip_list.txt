@@ -26534,3 +26534,4 @@
 34.39.34.78 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 11:56:02
 52.146.13.100 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 12:01:27
 52.146.13.100 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 12:01:29
+34.39.34.78 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-14 12:13:09
