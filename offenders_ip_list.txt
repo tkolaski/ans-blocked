@@ -26549,3 +26549,6 @@
 165.140.237.71 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-09-14 20:30:59
 165.140.237.71 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-09-14 20:31:01
 202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-09-14 20:36:43
+202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-09-14 20:54:26
+165.140.237.71 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-09-14 20:58:21
+165.140.237.71 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-09-14 20:58:23
