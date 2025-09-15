@@ -26654,3 +26654,7 @@
 150.241.200.254 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-09-15 18:01:18
 2.59.60.213 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-15 18:01:25
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-09-15 18:11:34
+89.116.56.82 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-15 18:53:07
+89.116.56.82 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-15 18:53:08
+89.116.56.82 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-15 18:53:10
+200.10.35.157 # RuleID: 651 # Type: SSH # Country: HN, Honduras # 2025-09-15 18:53:18
