@@ -26633,3 +26633,5 @@
 150.241.200.254 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-09-15 12:37:10
 190.156.238.162 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-09-15 12:52:49
 190.156.238.162 # RuleID: 651 # Type: SSH # Country: CO, Colombia # 2025-09-15 12:52:51
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-15 13:17:07
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-15 13:17:08
