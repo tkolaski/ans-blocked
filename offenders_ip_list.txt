@@ -26603,3 +26603,4 @@
 2.59.60.213 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-15 02:38:53
 66.78.44.230 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-15 02:38:53
 74.115.0.132 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-15 02:38:54
+34.88.139.106 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-15 03:05:01
