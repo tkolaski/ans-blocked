@@ -26839,3 +26839,4 @@
 135.181.38.100 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-17 22:19:12
 135.181.38.100 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-17 22:19:13
 135.181.38.100 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-17 22:19:15
+185.42.163.129 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-17 22:44:55
