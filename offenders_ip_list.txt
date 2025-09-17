@@ -26827,3 +26827,6 @@
 34.140.71.81 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-17 20:56:50
 34.140.71.81 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-17 20:56:51
 34.140.71.81 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-17 20:56:52
+185.42.163.129 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-17 21:27:30
+185.42.163.129 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-17 21:27:31
+185.42.163.129 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-17 21:27:32
