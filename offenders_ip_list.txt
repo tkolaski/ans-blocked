@@ -26830,3 +26830,9 @@
 185.42.163.129 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-17 21:27:30
 185.42.163.129 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-17 21:27:31
 185.42.163.129 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-17 21:27:32
+64.227.88.225 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-17 21:47:12
+64.227.88.225 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-17 21:47:13
+64.227.88.225 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-17 21:47:14
+27.123.1.174 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-09-17 21:47:22
+27.123.1.174 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-09-17 21:47:23
+27.123.1.174 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-09-17 21:47:24
