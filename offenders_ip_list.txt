@@ -26842,3 +26842,5 @@
 185.42.163.129 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-17 22:44:55
 3.80.158.30 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-18 00:44:43
 3.80.158.30 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-18 00:44:44
+176.65.148.27 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-18 02:36:55
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-18 02:39:17
