@@ -26921,3 +26921,9 @@
 84.46.240.167 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-19 06:02:59
 66.132.153.125 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-19 06:31:08
 66.132.153.125 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-19 06:31:09
+104.248.6.97 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-19 07:25:52
+104.248.6.97 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-19 07:25:53
+104.248.6.97 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-19 07:25:54
+149.102.131.198 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-19 07:26:01
+149.102.131.198 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-19 07:26:02
+149.102.131.198 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-19 07:26:04
