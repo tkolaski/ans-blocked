@@ -26950,3 +26950,5 @@
 172.212.200.96 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-09-19 11:49:53
 172.212.200.96 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-09-19 11:49:54
 172.212.200.96 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-09-19 11:49:55
+103.253.75.160 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-09-19 13:54:02
+103.253.75.160 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-09-19 13:54:04
