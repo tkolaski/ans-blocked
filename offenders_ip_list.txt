@@ -27037,3 +27037,6 @@
 34.38.19.235 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-20 23:03:30
 147.185.132.87 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-20 23:05:57
 10.10.4.70 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-21 00:33:18
+167.172.107.193 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-09-21 01:05:24
+134.122.78.124 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-21 01:05:25
+167.172.107.193 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-09-21 01:05:26
