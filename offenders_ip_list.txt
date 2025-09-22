@@ -27170,3 +27170,5 @@
 80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-09-22 20:06:50
 199.45.155.74 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-22 20:49:00
 199.45.155.74 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-22 20:49:01
+45.79.207.252 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-22 21:37:07
+45.79.207.252 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-22 21:37:08
