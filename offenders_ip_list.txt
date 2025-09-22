@@ -27140,3 +27140,6 @@
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-22 11:48:51
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-22 11:48:53
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-09-22 12:45:59
+187.140.167.179 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-09-22 13:56:40
+187.140.167.179 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-09-22 13:56:41
+187.140.167.179 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-09-22 13:56:43
