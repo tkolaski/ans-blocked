@@ -27166,3 +27166,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-22 19:51:00
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-22 19:51:01
 213.66.152.145 # RuleID: 651 # Type: SSH # Country: SE, Sweden # 2025-09-22 19:52:27
+80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-09-22 20:06:49
+80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-09-22 20:06:50
