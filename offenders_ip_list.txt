@@ -27153,3 +27153,4 @@
 157.230.95.209 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-22 16:25:10
 199.245.100.142 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-22 17:05:56
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-22 17:15:54
+199.245.100.142 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-22 17:23:23
