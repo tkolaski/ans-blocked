@@ -27137,3 +27137,5 @@
 198.235.24.220 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-22 10:57:39
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-22 11:26:28
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-22 11:33:29
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-22 11:48:51
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-22 11:48:53
