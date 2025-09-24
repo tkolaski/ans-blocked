@@ -27330,3 +27330,6 @@
 162.246.59.68 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-24 15:00:07
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-24 15:01:01
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-24 15:26:29
+194.238.25.60 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-24 15:52:58
+194.238.25.60 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-24 15:52:59
+194.238.25.60 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-24 15:53:00
