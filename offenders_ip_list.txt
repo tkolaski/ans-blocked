@@ -27305,3 +27305,9 @@
 162.246.59.68 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-24 13:41:01
 185.214.141.194 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-24 13:45:10
 185.214.141.194 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-24 13:45:13
+185.214.141.194 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-24 14:02:25
+185.214.141.194 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-24 14:02:27
+173.230.133.191 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-24 14:02:33
+173.230.133.191 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-24 14:02:35
+192.227.166.142 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-24 14:05:49
+192.227.166.142 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-24 14:05:50
