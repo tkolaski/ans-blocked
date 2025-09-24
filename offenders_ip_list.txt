@@ -27272,3 +27272,4 @@
 151.47.115.177 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-24 07:42:46
 151.47.115.177 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-24 07:59:58
 151.47.115.177 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-09-24 08:00:00
+161.97.129.82 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-24 08:33:50
