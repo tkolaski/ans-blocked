@@ -27260,3 +27260,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-24 02:48:47
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-24 03:30:29
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-24 04:33:09
+110.39.166.75 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-09-24 04:50:51
+205.210.31.211 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-24 04:54:39
