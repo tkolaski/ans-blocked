@@ -27409,3 +27409,4 @@
 198.235.24.111 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-26 03:32:59
 54.197.138.129 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-26 04:37:46
 54.197.138.129 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-26 04:37:47
+202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-09-26 04:44:16
