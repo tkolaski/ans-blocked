@@ -27452,3 +27452,4 @@
 64.227.1.180 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-26 23:20:46
 54.82.43.114 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-26 23:52:08
 54.82.43.114 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-26 23:52:09
+66.132.153.124 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-27 01:01:45
