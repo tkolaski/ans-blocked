@@ -27433,3 +27433,5 @@
 50.6.7.7 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-26 19:27:48
 50.6.7.7 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-26 19:27:49
 50.6.7.7 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-26 19:27:50
+50.6.7.7 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-26 19:44:43
+50.6.7.7 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-26 19:44:44
