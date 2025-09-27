@@ -27490,3 +27490,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-27 21:11:34
 202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-09-28 00:58:03
 202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-09-28 00:58:05
+202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-09-28 01:15:00
+202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-09-28 01:15:01
+202.184.140.252 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-09-28 01:15:02
