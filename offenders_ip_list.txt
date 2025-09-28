@@ -27508,3 +27508,5 @@
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-09-28 07:14:11
 20.65.193.121 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 07:23:21
 20.65.193.121 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 07:23:22
+198.235.24.53 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-28 10:09:23
+198.235.24.53 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-28 10:09:24
