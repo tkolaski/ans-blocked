@@ -27521,3 +27521,11 @@
 51.52.232.248 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-28 11:13:21
 125.31.2.160 # RuleID: 651 # Type: SSH # Country: MO, Macau # 2025-09-28 11:13:21
 143.110.144.220 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-28 11:14:39
+51.52.232.248 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-28 11:30:07
+51.52.232.248 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-28 11:30:08
+51.52.232.248 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-28 11:30:09
+125.31.2.160 # RuleID: 651 # Type: SSH # Country: MO, Macau # 2025-09-28 11:30:29
+125.31.2.160 # RuleID: 651 # Type: SSH # Country: MO, Macau # 2025-09-28 11:30:30
+125.31.2.160 # RuleID: 651 # Type: SSH # Country: MO, Macau # 2025-09-28 11:30:31
+143.110.144.220 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-28 11:31:59
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-28 11:37:35
