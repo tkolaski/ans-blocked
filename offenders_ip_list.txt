@@ -27550,3 +27550,6 @@
 188.166.86.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-09-28 13:23:25
 188.166.86.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-09-28 13:46:12
 188.166.86.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-09-28 13:46:14
+188.166.86.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-09-28 14:08:59
+188.166.86.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-09-28 14:09:00
+188.166.86.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-09-28 14:09:02
