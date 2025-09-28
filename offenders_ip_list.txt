@@ -27517,3 +27517,4 @@
 20.98.166.209 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 10:50:31
 20.98.166.209 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 10:50:32
 20.98.166.209 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 10:50:33
+213.209.157.9 # RuleID: 651 # Type: SSH # Country: MD, Moldova, Republic of # 2025-09-28 11:03:41
