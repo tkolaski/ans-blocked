@@ -27510,3 +27510,5 @@
 20.65.193.121 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 07:23:22
 198.235.24.53 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-28 10:09:23
 198.235.24.53 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-28 10:09:24
+54.159.18.196 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 10:34:57
+54.159.18.196 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 10:34:58
