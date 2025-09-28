@@ -27553,3 +27553,6 @@
 188.166.86.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-09-28 14:08:59
 188.166.86.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-09-28 14:09:00
 188.166.86.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-09-28 14:09:02
+20.29.23.166 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 14:54:49
+20.29.23.166 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 14:54:50
+20.29.23.166 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-28 14:54:51
