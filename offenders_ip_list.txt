@@ -27529,3 +27529,6 @@
 125.31.2.160 # RuleID: 651 # Type: SSH # Country: MO, Macau # 2025-09-28 11:30:31
 143.110.144.220 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-28 11:31:59
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-28 11:37:35
+125.31.2.160 # RuleID: 651 # Type: SSH # Country: MO, Macau # 2025-09-28 11:47:28
+143.110.144.220 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-28 11:48:50
+143.110.144.220 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-28 11:48:52
