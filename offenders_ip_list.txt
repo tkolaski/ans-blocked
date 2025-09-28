@@ -27538,3 +27538,4 @@
 187.210.77.100 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-09-28 12:05:17
 187.210.77.100 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-09-28 12:05:19
 188.166.86.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-09-28 12:15:09
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-09-28 12:20:03
