@@ -27621,3 +27621,5 @@
 13.220.198.238 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-29 03:42:19
 213.209.157.9 # RuleID: 651 # Type: SSH # Country: MD, Moldova, Republic of # 2025-09-29 03:44:04
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-29 04:46:04
+198.235.24.42 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-29 06:19:53
+198.235.24.42 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-29 06:19:54
