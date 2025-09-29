@@ -27643,3 +27643,5 @@
 141.98.11.68 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-29 09:08:15
 91.224.92.28 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-29 09:15:24
 91.224.92.32 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-29 09:22:42
+91.224.92.32 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-29 09:40:11
+141.98.11.68 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-29 09:47:25
