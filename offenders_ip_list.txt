@@ -27686,3 +27686,4 @@
 91.224.92.108 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-29 19:14:02
 91.224.92.79 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-29 19:19:14
 141.98.11.34 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-29 19:45:01
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-29 20:05:18
