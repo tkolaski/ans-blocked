@@ -27763,3 +27763,11 @@
 45.3.42.198 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-30 13:48:14
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-30 13:52:20
 104.207.34.122 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-30 14:15:46
+212.227.232.57 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-30 15:32:28
+212.227.232.57 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-09-30 15:32:30
+45.3.35.144 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-30 15:35:44
+34.76.232.30 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-30 15:36:02
+34.76.232.30 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-30 15:36:03
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-09-30 15:36:04
+34.76.232.30 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-30 15:36:04
+34.76.232.30 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-09-30 15:36:05
