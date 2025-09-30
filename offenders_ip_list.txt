@@ -27720,3 +27720,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-30 02:08:18
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-30 02:48:29
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-30 02:58:14
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-09-30 04:54:10
