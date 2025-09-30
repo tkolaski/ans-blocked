@@ -27778,3 +27778,4 @@
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-09-30 16:19:53
 216.26.249.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-30 16:25:59
 104.207.38.36 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-30 16:39:38
+193.56.28.177 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-09-30 16:59:28
