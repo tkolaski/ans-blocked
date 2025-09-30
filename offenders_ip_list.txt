@@ -27813,3 +27813,5 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-30 22:52:44
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-30 23:27:13
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-30 23:35:58
+45.3.45.115 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-09-30 23:51:11
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-30 23:57:21
