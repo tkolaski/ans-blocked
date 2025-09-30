@@ -27727,3 +27727,6 @@
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-09-30 05:34:40
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-09-30 05:56:55
 194.187.176.158 # RuleID: 651 # Type: FTP # Country: AT, Austria # 2025-09-30 06:07:38
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-30 06:10:50
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-09-30 06:17:04
+91.224.92.79 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-30 06:19:57
