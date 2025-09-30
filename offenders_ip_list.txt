@@ -27746,3 +27746,5 @@
 10.10.4.70 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-09-30 09:44:38
 141.98.11.34 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-30 09:54:05
 141.98.10.225 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-09-30 09:59:46
+198.235.24.40 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-30 10:06:02
+198.235.24.40 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-09-30 10:06:03
