@@ -27831,3 +27831,4 @@
 165.22.93.130 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-01 03:43:46
 164.92.178.97 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-01 03:43:46
 165.22.93.130 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-01 03:43:48
+198.235.24.37 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-01 03:51:08
