@@ -27955,3 +27955,5 @@
 188.126.94.108 # RuleID: 651 # Type: FTP # Country: DK, Denmark # 2025-10-01 23:16:13
 188.126.94.108 # RuleID: 651 # Type: FTP # Country: DK, Denmark # 2025-10-01 23:16:14
 66.132.153.131 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-01 23:30:39
+167.94.138.122 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-02 00:03:26
+167.94.138.122 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-02 00:03:27
