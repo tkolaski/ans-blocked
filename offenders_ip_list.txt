@@ -27951,3 +27951,6 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-01 22:14:21
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-01 22:37:58
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-01 22:42:41
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-01 23:10:27
+188.126.94.108 # RuleID: 651 # Type: FTP # Country: DK, Denmark # 2025-10-01 23:16:13
+188.126.94.108 # RuleID: 651 # Type: FTP # Country: DK, Denmark # 2025-10-01 23:16:14
