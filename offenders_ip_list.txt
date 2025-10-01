@@ -27823,3 +27823,4 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-10-01 01:39:01
 207.90.244.28 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-01 01:58:16
 74.82.47.5 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-01 02:12:39
+54.234.236.128 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-01 02:24:14
