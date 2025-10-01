@@ -27840,3 +27840,4 @@
 207.154.233.166 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-01 06:21:50
 18.97.19.223 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-01 06:25:06
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-01 06:25:07
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-01 07:04:05
