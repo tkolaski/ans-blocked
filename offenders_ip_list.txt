@@ -28029,3 +28029,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-03 04:58:11
 77.90.185.67 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-03 05:00:27
 34.229.176.160 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-03 05:01:37
+205.210.31.89 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-03 06:19:39
