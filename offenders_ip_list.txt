@@ -28061,3 +28061,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-03 10:52:03
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-03 10:52:34
 134.199.193.190 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-03 10:53:09
+134.199.193.190 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-03 11:09:53
+134.199.193.190 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-03 11:09:55
