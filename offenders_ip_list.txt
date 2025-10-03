@@ -28064,3 +28064,4 @@
 134.199.193.190 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-03 11:09:53
 134.199.193.190 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-03 11:09:55
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-03 11:25:57
+20.12.240.164 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-03 11:57:29
