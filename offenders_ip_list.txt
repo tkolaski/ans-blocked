@@ -28090,3 +28090,5 @@
 151.47.114.188 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-03 18:21:57
 151.47.114.188 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-03 18:21:58
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-03 18:22:00
+64.62.156.94 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-03 18:39:49
+64.62.156.94 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-03 18:39:50
