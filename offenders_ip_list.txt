@@ -28046,3 +28046,6 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-03 09:09:09
 151.37.107.228 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-03 09:12:41
 151.37.107.228 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-03 09:12:43
+151.37.107.228 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-03 09:31:58
+151.37.107.228 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-03 09:31:59
+151.37.107.228 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-03 09:32:00
