@@ -28169,3 +28169,4 @@
 68.235.38.18 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-04 13:46:45
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-04 15:13:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-04 15:14:40
+157.97.107.143 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-04 15:47:09
