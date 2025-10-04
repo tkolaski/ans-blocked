@@ -28181,3 +28181,6 @@
 20.65.193.213 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-04 17:32:14
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-04 17:57:58
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-04 18:05:21
+217.229.59.238 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-04 18:24:10
+217.229.59.238 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-04 18:24:11
+217.229.59.238 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-04 18:24:12
