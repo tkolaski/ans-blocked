@@ -28141,3 +28141,7 @@
 35.233.76.131 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-04 05:52:46
 93.174.95.106 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-04 06:54:34
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-04 06:54:35
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-04 08:43:21
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-04 08:43:22
+64.23.185.149 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-04 08:45:15
+64.23.185.149 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-04 08:45:16
