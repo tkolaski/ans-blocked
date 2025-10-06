@@ -28288,3 +28288,4 @@
 149.22.95.173 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-06 08:14:10
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-06 08:15:00
 213.209.157.59 # RuleID: 651 # Type: SSH # Country: MD, Moldova, Republic of # 2025-10-06 08:27:52
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-06 08:30:42
