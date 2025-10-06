@@ -28278,3 +28278,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-06 05:59:19
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-06 05:59:20
 20.29.49.93 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-06 06:00:37
+165.22.72.144 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-06 06:25:17
+20.171.8.157 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-06 06:25:33
+20.171.8.157 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-06 06:25:34
