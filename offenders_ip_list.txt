@@ -28406,3 +28406,5 @@
 103.63.25.210 # RuleID: 651 # Type: SSH # Country: IN, India # 2025-10-07 15:03:13
 103.63.25.210 # RuleID: 651 # Type: SSH # Country: IN, India # 2025-10-07 15:03:14
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-07 15:26:44
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-07 16:16:32
+91.224.92.108 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-10-07 16:18:44
