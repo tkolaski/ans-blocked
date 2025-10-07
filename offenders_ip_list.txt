@@ -28355,3 +28355,5 @@
 35.195.185.167 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-10-07 04:43:37
 35.195.185.167 # RuleID: 651 # Type: FTP # Country: EU, Europe # 2025-10-07 04:43:38
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-07 04:43:38
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-07 05:37:16
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-07 05:37:17
