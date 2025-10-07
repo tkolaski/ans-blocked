@@ -28350,3 +28350,4 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-10-07 01:45:33
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-10-07 01:45:50
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-07 02:28:54
+91.224.92.32 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-10-07 04:18:25
