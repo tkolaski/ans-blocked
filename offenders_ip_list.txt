@@ -28389,3 +28389,7 @@
 45.81.23.49 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-07 13:51:28
 45.81.23.49 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-07 13:51:30
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-07 13:54:50
+5.181.51.40 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-07 14:07:48
+5.181.51.40 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-07 14:07:50
+45.81.23.49 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-07 14:08:17
+45.81.23.49 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-07 14:08:19
