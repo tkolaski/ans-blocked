@@ -28508,3 +28508,4 @@
 202.152.201.166 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-08 20:30:46
 202.152.201.166 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-08 20:30:47
 202.152.201.166 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-08 20:30:48
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-08 21:08:10
