@@ -28496,3 +28496,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-08 18:26:17
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-08 18:26:45
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-08 18:33:10
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-08 18:51:19
+185.10.68.229 # RuleID: 651 # Type: FTP # Country: SC, Seychelles # 2025-10-08 18:51:19
