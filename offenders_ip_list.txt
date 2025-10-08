@@ -28519,3 +28519,5 @@
 74.208.146.60 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-08 23:24:41
 74.208.146.60 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-08 23:24:42
 74.208.146.60 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-08 23:24:43
+74.208.146.60 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-08 23:41:49
+74.208.146.60 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-08 23:41:50
