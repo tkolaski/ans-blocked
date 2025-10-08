@@ -28442,3 +28442,4 @@
 91.224.92.108 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-10-08 02:37:31
 129.212.189.40 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-08 02:37:49
 129.212.189.40 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-08 02:37:51
+205.210.31.26 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-08 03:12:01
