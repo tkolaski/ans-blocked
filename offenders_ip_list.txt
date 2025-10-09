@@ -28560,3 +28560,4 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-09 18:07:04
 198.235.24.101 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-09 18:30:18
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-09 18:34:28
+64.62.156.212 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-09 19:25:34
