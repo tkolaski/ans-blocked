@@ -28532,3 +28532,6 @@
 151.57.98.1 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-09 01:51:52
 151.43.113.28 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-09 02:08:05
 151.43.113.28 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-09 02:08:07
+151.43.113.28 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-09 02:27:51
+151.43.113.28 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-09 02:27:52
+151.43.113.28 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-09 02:27:53
