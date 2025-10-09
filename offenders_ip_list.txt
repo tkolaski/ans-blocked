@@ -28535,3 +28535,4 @@
 151.43.113.28 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-09 02:27:51
 151.43.113.28 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-09 02:27:52
 151.43.113.28 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-09 02:27:53
+80.82.77.202 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-09 03:06:28
