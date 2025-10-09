@@ -28555,3 +28555,4 @@
 188.166.108.200 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-09 14:07:18
 10.10.4.10 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-09 16:08:39
 10.10.4.10 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-09 16:08:40
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-09 16:19:43
