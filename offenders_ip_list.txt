@@ -28599,3 +28599,4 @@
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-10 07:12:38
 142.93.205.220 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-10 07:22:26
 142.93.205.220 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-10 07:22:28
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-10 08:22:20
