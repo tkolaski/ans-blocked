@@ -28650,3 +28650,4 @@
 45.156.129.92 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-10-11 00:59:11
 45.156.129.90 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-10-11 00:59:13
 45.156.129.93 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-10-11 00:59:25
+147.185.132.43 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-11 01:04:47
