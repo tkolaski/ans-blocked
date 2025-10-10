@@ -28585,3 +28585,4 @@
 129.212.185.61 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-10 01:41:23
 129.212.185.61 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-10 01:41:25
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-10-10 01:42:21
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-10 02:13:43
