@@ -28612,3 +28612,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-10 12:57:51
 180.252.88.155 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-10 12:58:51
 180.252.88.155 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-10 12:58:53
+180.252.88.155 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-10 13:16:04
+180.252.88.155 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-10 13:16:05
+180.252.88.155 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-10 13:16:06
