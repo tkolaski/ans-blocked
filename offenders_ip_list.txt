@@ -28710,3 +28710,5 @@
 107.170.232.33 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-11 20:50:14
 107.170.232.33 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-11 20:50:16
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-11 21:44:51
+147.185.132.57 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-11 22:28:38
+147.185.132.57 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-11 22:28:39
