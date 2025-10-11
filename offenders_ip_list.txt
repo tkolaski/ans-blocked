@@ -28673,3 +28673,5 @@
 202.184.134.84 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-11 08:49:23
 202.184.134.84 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-11 09:07:10
 202.184.134.84 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-11 09:07:12
+213.165.71.107 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-11 10:08:16
+213.165.71.107 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-11 10:08:17
