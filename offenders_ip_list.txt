@@ -28671,3 +28671,5 @@
 151.47.100.182 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-11 08:44:31
 202.184.134.84 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-11 08:49:21
 202.184.134.84 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-11 08:49:23
+202.184.134.84 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-11 09:07:10
+202.184.134.84 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-11 09:07:12
