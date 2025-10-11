@@ -28700,3 +28700,5 @@
 212.132.99.71 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-11 19:44:12
 107.170.232.33 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-11 19:58:20
 107.170.232.33 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-11 19:58:21
+167.99.217.208 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-11 20:04:53
+213.165.71.107 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-11 20:09:29
