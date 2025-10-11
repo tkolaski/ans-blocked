@@ -28679,3 +28679,4 @@
 207.154.226.152 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-11 11:26:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-11 11:48:22
 165.232.82.252 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-11 11:57:37
+217.154.61.178 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-11 12:48:15
