@@ -28756,3 +28756,5 @@
 77.125.142.32 # RuleID: 651 # Type: FTP # Country: IL, Israel # 2025-10-12 16:11:39
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-12 16:35:24
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-12 17:07:18
+147.185.132.9 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-12 17:35:04
+165.232.89.26 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-12 17:38:53
