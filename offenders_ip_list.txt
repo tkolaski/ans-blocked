@@ -28775,3 +28775,4 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-13 01:18:44
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-13 01:18:45
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-13 01:18:46
+44.220.138.9 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-13 01:26:48
