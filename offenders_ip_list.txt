@@ -28742,3 +28742,4 @@
 165.232.85.189 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-12 11:47:57
 91.126.49.0 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-10-12 11:50:29
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-12 12:06:58
+166.157.187.161 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-12 12:17:50
