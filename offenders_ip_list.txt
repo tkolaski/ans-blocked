@@ -28870,3 +28870,5 @@
 217.92.66.94 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-14 01:22:51
 217.92.66.94 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-14 01:22:55
 3.90.16.44 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-14 01:31:32
+10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-10-14 01:49:22
+10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-10-14 01:49:38
