@@ -28852,3 +28852,5 @@
 182.180.57.212 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-13 21:00:27
 182.180.57.212 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-13 21:00:28
 182.180.57.212 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-13 21:00:30
+99.92.204.98 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-13 21:20:06
+99.92.204.98 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-13 21:20:07
