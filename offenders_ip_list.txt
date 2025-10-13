@@ -28826,3 +28826,4 @@
 46.238.112.70 # RuleID: 651 # Type: SSH # Country: PL, Poland # 2025-10-13 15:36:25
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-13 16:22:31
 68.183.3.153 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-13 16:28:45
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-13 16:30:22
