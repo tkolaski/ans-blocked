@@ -28846,3 +28846,6 @@
 27.254.163.61 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-10-13 20:37:04
 182.180.57.212 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-13 20:42:14
 182.180.57.212 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-13 20:42:16
+27.254.163.61 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-10-13 20:55:04
+27.254.163.61 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-10-13 20:55:05
+27.254.163.61 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-10-13 20:55:06
