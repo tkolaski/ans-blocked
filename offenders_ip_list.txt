@@ -28831,3 +28831,10 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-13 17:21:06
 205.210.31.41 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-13 19:21:14
 205.210.31.41 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-13 19:21:15
+27.254.163.61 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-10-13 20:00:57
+27.254.163.61 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-10-13 20:00:59
+162.240.54.168 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-13 20:03:23
+162.240.54.168 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-13 20:03:24
+162.240.54.168 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-13 20:03:25
+182.180.57.212 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-13 20:05:20
+182.180.57.212 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-13 20:05:23
