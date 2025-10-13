@@ -28860,3 +28860,7 @@
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-13 21:56:40
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-14 00:01:11
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-14 00:47:24
+147.185.132.21 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-14 01:03:38
+217.92.66.94 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-14 01:04:47
+217.92.66.94 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-14 01:04:48
+217.92.66.94 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-14 01:04:49
