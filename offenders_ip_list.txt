@@ -28838,3 +28838,4 @@
 162.240.54.168 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-13 20:03:25
 182.180.57.212 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-13 20:05:20
 182.180.57.212 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-13 20:05:23
+27.254.163.61 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-10-13 20:18:52
