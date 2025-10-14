@@ -28908,3 +28908,7 @@
 212.181.252.130 # RuleID: 651 # Type: SSH # Country: SE, Sweden # 2025-10-14 15:29:04
 31.14.32.6 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-14 15:38:48
 212.181.252.130 # RuleID: 651 # Type: SSH # Country: SE, Sweden # 2025-10-14 15:45:50
+217.88.126.220 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-14 16:22:44
+217.88.126.220 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-14 16:22:45
+217.88.126.220 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-14 16:22:46
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-14 16:27:46
