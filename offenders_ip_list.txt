@@ -28912,3 +28912,5 @@
 217.88.126.220 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-14 16:22:45
 217.88.126.220 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-14 16:22:46
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-14 16:27:46
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-14 16:54:43
+129.212.183.92 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-14 16:55:51
