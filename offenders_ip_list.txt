@@ -28900,3 +28900,6 @@
 103.212.43.207 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-14 12:07:35
 103.212.43.207 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-14 12:07:36
 103.212.43.207 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-14 12:07:37
+20.65.193.155 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-14 12:24:05
+103.212.43.207 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-14 12:24:57
+103.212.43.207 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-14 12:25:00
