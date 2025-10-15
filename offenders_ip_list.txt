@@ -28965,3 +28965,6 @@
 94.209.18.9 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-15 09:02:25
 66.42.116.143 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-15 09:08:05
 81.164.58.133 # RuleID: 651 # Type: SSH # Country: BE, Belgium # 2025-10-15 09:08:25
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-15 09:11:31
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-15 09:13:03
+103.102.152.243 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-15 09:16:29
