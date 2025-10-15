@@ -29040,3 +29040,6 @@
 173.239.214.17 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-15 21:44:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-15 21:53:51
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-15 21:54:43
+178.62.93.150 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-15 22:18:52
+178.62.93.150 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-15 22:18:53
+178.62.93.150 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-15 22:18:54
