@@ -29043,3 +29043,5 @@
 178.62.93.150 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-15 22:18:52
 178.62.93.150 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-15 22:18:53
 178.62.93.150 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-15 22:18:54
+178.62.93.150 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-15 22:35:51
+178.62.93.150 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-15 22:35:53
