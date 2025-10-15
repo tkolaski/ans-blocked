@@ -28959,3 +28959,4 @@
 195.164.49.74 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-10-15 07:56:20
 91.224.92.108 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-10-15 08:03:49
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-15 08:17:03
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-15 08:30:59
