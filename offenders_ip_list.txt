@@ -28957,3 +28957,4 @@
 45.10.175.17 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-15 07:36:25
 195.164.49.74 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-10-15 07:56:19
 195.164.49.74 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-10-15 07:56:20
+91.224.92.108 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-10-15 08:03:49
