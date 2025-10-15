@@ -28968,3 +28968,5 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-15 09:11:31
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-15 09:13:03
 103.102.152.243 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-15 09:16:29
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-15 09:27:31
+146.190.50.206 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-15 09:29:20
