@@ -29085,3 +29085,7 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-16 05:03:25
 78.94.76.242 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-16 05:19:16
 161.35.116.38 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-16 05:21:53
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-16 05:35:01
+78.94.76.242 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-16 05:36:00
+78.94.76.242 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-16 05:36:01
+78.94.76.242 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-16 05:36:04
