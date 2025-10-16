@@ -29076,3 +29076,5 @@
 202.181.188.185 # RuleID: 651 # Type: SSH # Country: HK, Hong Kong # 2025-10-16 04:44:35
 78.94.76.242 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-16 04:45:11
 78.94.76.242 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-16 04:45:15
+91.224.92.108 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-10-16 04:52:18
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-16 04:57:45
