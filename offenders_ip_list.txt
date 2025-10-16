@@ -29070,3 +29070,5 @@
 161.35.116.38 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-16 04:12:00
 91.224.92.108 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-10-16 04:16:14
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-16 04:16:19
+162.142.125.36 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-16 04:32:22
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-16 04:33:43
