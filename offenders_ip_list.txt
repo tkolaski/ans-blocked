@@ -29133,3 +29133,4 @@
 71.6.232.28 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-16 13:59:06
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-16 14:03:02
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-16 14:06:10
+161.35.147.139 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-16 14:15:26
