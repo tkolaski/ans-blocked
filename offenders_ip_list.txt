@@ -29194,3 +29194,4 @@
 128.199.39.148 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-16 23:15:48
 198.235.24.97 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-16 23:22:14
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-16 23:56:33
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-17 00:50:17
