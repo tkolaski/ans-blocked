@@ -29123,3 +29123,4 @@
 91.224.92.108 # RuleID: 651 # Type: SSH # Country: LT, Lithuania # 2025-10-16 12:21:02
 40.124.173.94 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-16 12:52:58
 40.124.173.94 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-16 12:52:59
+167.71.15.195 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-16 13:14:34
