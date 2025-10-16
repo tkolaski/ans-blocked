@@ -29095,3 +29095,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-16 06:13:52
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-16 06:13:53
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-16 06:20:28
+209.105.242.228 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-16 06:42:00
+209.105.242.228 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-16 06:42:01
+209.105.242.228 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-16 06:42:02
