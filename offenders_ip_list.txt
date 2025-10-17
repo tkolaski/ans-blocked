@@ -29205,3 +29205,7 @@
 31.14.32.4 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-17 03:54:42
 172.202.117.179 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-10-17 04:17:25
 172.202.117.179 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-10-17 04:17:26
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-17 04:51:03
+134.199.204.53 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-17 04:52:15
+134.199.204.53 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-17 04:52:16
+134.199.204.53 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-17 04:52:17
