@@ -29275,3 +29275,4 @@
 185.226.196.28 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-10-17 20:54:43
 185.226.196.28 # RuleID: 651 # Type: FTP # Country: TR, Turkey # 2025-10-17 20:54:44
 149.22.95.159 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-17 23:45:26
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-18 01:01:48
