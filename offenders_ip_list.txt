@@ -29451,3 +29451,5 @@
 31.14.32.6 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-19 11:15:48
 31.14.32.6 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-19 11:15:49
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-19 11:24:21
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-19 11:47:38
+134.209.200.244 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-19 11:48:58
