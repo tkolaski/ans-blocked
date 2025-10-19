@@ -29481,3 +29481,5 @@
 109.202.99.41 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-20 00:46:39
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 00:51:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 01:06:26
+10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 01:12:36
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 01:16:38
