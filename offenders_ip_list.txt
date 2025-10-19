@@ -29477,3 +29477,5 @@
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-19 23:58:53
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 00:16:21
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 00:34:09
+109.202.99.41 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-20 00:46:38
+109.202.99.41 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-20 00:46:39
