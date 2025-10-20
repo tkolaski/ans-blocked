@@ -29500,3 +29500,6 @@
 188.166.104.100 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-20 05:19:22
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 05:36:16
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 05:36:23
+34.77.161.183 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-20 06:18:23
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-20 06:18:23
+34.77.161.183 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-20 06:18:24
