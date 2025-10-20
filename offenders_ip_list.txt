@@ -29569,3 +29569,5 @@
 31.4.47.196 # RuleID: 651 # Type: SSH # Country: ES, Spain # 2025-10-21 00:53:09
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-21 01:33:29
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-21 01:33:30
+10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-10-21 01:40:54
+10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-10-21 01:41:10
