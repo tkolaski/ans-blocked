@@ -29522,3 +29522,5 @@
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-20 14:38:02
 212.132.125.106 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-10-20 14:38:02
 212.132.125.106 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-10-20 14:38:03
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 14:50:10
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 14:50:11
