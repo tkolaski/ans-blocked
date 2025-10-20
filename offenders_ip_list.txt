@@ -29498,3 +29498,5 @@
 217.154.201.75 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-20 03:48:32
 217.154.201.75 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-20 03:48:33
 188.166.104.100 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-20 05:19:22
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 05:36:16
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-20 05:36:23
