@@ -29576,3 +29576,4 @@
 132.196.42.124 # RuleID: 651 # Type: FTP # Country: SE, Sweden # 2025-10-21 04:04:58
 132.196.42.124 # RuleID: 651 # Type: FTP # Country: SE, Sweden # 2025-10-21 04:04:59
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-21 04:37:05
+162.142.125.121 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-21 04:48:26
