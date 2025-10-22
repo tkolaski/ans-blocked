@@ -29723,3 +29723,4 @@
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-22 12:40:18
 98.93.164.96 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-22 13:29:52
 98.93.164.96 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-22 13:29:53
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-22 13:37:47
