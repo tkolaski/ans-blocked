@@ -29810,3 +29810,4 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-23 15:56:09
 213.165.71.107 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-23 16:21:12
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-23 16:45:10
+206.189.105.139 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-23 17:35:25
