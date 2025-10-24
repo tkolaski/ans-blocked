@@ -29850,3 +29850,6 @@
 44.212.1.106 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-24 04:08:52
 44.212.1.106 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-24 04:08:53
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-24 04:31:56
+217.160.138.143 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-24 06:16:34
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-24 06:16:34
+217.160.138.143 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-24 06:16:35
