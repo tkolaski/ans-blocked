@@ -29944,3 +29944,6 @@
 31.14.32.5 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-25 10:39:10
 31.14.32.5 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-25 10:39:11
 159.65.31.54 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-10-25 10:46:09
+85.215.147.96 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-25 11:00:10
+85.215.147.96 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-25 11:00:12
+137.184.152.60 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-25 11:00:48
