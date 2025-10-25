@@ -29913,3 +29913,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-25 03:13:45
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-25 03:22:28
 10.10.4.10 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-25 03:28:42
+167.172.186.252 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-25 03:40:08
+167.172.186.252 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-25 03:40:09
+165.227.158.189 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-25 03:40:09
