@@ -29936,3 +29936,6 @@
 178.128.243.195 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-25 08:56:23
 137.184.152.60 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-25 08:57:53
 178.63.180.138 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-25 08:59:36
+213.165.71.107 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-25 09:21:10
+213.165.71.107 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-25 09:21:11
+213.165.71.107 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-25 09:21:12
