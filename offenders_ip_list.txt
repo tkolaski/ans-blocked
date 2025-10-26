@@ -30012,3 +30012,4 @@
 20.168.120.173 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-26 04:05:40
 20.168.120.173 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-26 04:05:41
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-26 04:44:27
+157.245.250.109 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-26 05:31:28
