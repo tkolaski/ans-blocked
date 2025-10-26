@@ -30030,3 +30030,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-26 11:49:37
 20.64.105.82 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-26 12:12:46
 20.64.105.82 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-26 12:12:47
+101.51.164.58 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-10-26 14:02:00
+101.51.164.58 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-10-26 14:02:02
