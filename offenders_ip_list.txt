@@ -30123,3 +30123,7 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 13:14:37
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 13:53:53
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 13:53:55
+104.248.87.101 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-27 14:11:21
+104.248.87.101 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-27 14:11:23
+161.35.87.92 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 14:19:43
+161.35.87.92 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 14:19:45
