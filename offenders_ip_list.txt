@@ -30085,3 +30085,4 @@
 146.190.18.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 02:18:50
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 02:36:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 02:43:09
+18.213.0.230 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-27 03:04:26
