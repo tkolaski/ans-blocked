@@ -30114,3 +30114,10 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 12:29:50
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 12:29:51
 128.195.185.21 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 12:31:01
+45.3.50.218 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 13:11:59
+45.3.50.218 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 13:12:00
+45.3.50.218 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 13:12:01
+104.207.60.85 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 13:12:07
+104.207.60.85 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 13:12:09
+104.207.60.85 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 13:12:10
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 13:14:37
