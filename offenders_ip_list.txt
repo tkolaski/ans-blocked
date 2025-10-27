@@ -30150,3 +30150,7 @@
 188.166.113.166 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-27 17:34:29
 211.24.41.44 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-27 17:47:54
 211.24.41.44 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-27 17:47:55
+211.24.41.44 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-27 18:05:15
+211.24.41.44 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-10-27 18:05:17
+198.235.24.58 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-27 18:09:16
+198.235.24.58 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-27 18:09:17
