@@ -30141,3 +30141,5 @@
 81.170.248.221 # RuleID: 651 # Type: SSH # Country: SE, Sweden # 2025-10-27 16:41:21
 172.173.139.18 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-27 16:45:11
 172.173.139.18 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-27 16:45:13
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 16:52:23
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 16:52:29
