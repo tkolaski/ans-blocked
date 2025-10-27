@@ -30099,3 +30099,4 @@
 109.105.209.12 # RuleID: 651 # Type: FTP # Country: BA, Bosnia and Herzegovina # 2025-10-27 10:01:47
 109.105.209.12 # RuleID: 651 # Type: FTP # Country: BA, Bosnia and Herzegovina # 2025-10-27 10:01:48
 109.105.209.15 # RuleID: 651 # Type: FTP # Country: BA, Bosnia and Herzegovina # 2025-10-27 10:01:53
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-27 10:25:32
