@@ -30079,3 +30079,7 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-10-27 01:41:22
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-10-27 01:41:40
 205.210.31.171 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-27 01:57:53
+85.215.147.96 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-27 02:16:12
+146.190.18.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 02:18:48
+146.190.18.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 02:18:49
+146.190.18.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-27 02:18:50
