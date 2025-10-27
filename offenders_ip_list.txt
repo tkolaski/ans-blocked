@@ -30147,3 +30147,4 @@
 172.173.139.18 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-27 17:02:03
 104.248.200.83 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-27 17:22:43
 104.248.200.83 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-27 17:22:44
+188.166.113.166 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-27 17:34:29
