@@ -30137,3 +30137,4 @@
 81.170.248.221 # RuleID: 651 # Type: SSH # Country: SE, Sweden # 2025-10-27 16:23:34
 172.173.139.18 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-27 16:27:04
 172.173.139.18 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-27 16:27:06
+65.49.1.108 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-27 16:37:11
