@@ -30092,3 +30092,10 @@
 178.128.241.242 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-27 05:22:34
 134.209.235.25 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-27 05:26:48
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-27 08:49:42
+109.105.209.13 # RuleID: 651 # Type: FTP # Country: BA, Bosnia and Herzegovina # 2025-10-27 10:01:37
+109.105.209.14 # RuleID: 651 # Type: FTP # Country: BA, Bosnia and Herzegovina # 2025-10-27 10:01:38
+109.105.209.13 # RuleID: 651 # Type: FTP # Country: BA, Bosnia and Herzegovina # 2025-10-27 10:01:38
+109.105.209.14 # RuleID: 651 # Type: FTP # Country: BA, Bosnia and Herzegovina # 2025-10-27 10:01:39
+109.105.209.12 # RuleID: 651 # Type: FTP # Country: BA, Bosnia and Herzegovina # 2025-10-27 10:01:47
+109.105.209.12 # RuleID: 651 # Type: FTP # Country: BA, Bosnia and Herzegovina # 2025-10-27 10:01:48
+109.105.209.15 # RuleID: 651 # Type: FTP # Country: BA, Bosnia and Herzegovina # 2025-10-27 10:01:53
