@@ -30254,3 +30254,6 @@
 167.94.138.163 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-29 00:03:37
 52.180.159.71 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-29 00:22:44
 52.180.159.71 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-29 00:22:45
+185.25.102.98 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-10-29 00:42:04
+185.25.102.98 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-10-29 00:42:06
+185.25.102.98 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-10-29 00:42:08
