@@ -30252,3 +30252,5 @@
 162.142.125.124 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-28 23:30:49
 31.14.32.6 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-28 23:56:22
 167.94.138.163 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-29 00:03:37
+52.180.159.71 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-29 00:22:44
+52.180.159.71 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-29 00:22:45
