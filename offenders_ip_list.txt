@@ -30237,3 +30237,4 @@
 57.152.33.207 # RuleID: 651 # Type: FTP # Country: BE, Belgium # 2025-10-28 17:26:12
 57.152.33.207 # RuleID: 651 # Type: FTP # Country: BE, Belgium # 2025-10-28 17:26:13
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-28 17:26:13
+167.71.8.209 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-28 19:48:10
