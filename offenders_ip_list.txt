@@ -30279,3 +30279,5 @@
 69.164.249.175 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-29 08:27:06
 69.164.249.175 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-29 08:27:07
 69.164.249.175 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-29 08:27:08
+167.71.69.222 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-29 09:02:25
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-29 09:02:59
