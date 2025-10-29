@@ -30329,3 +30329,8 @@
 151.68.11.166 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-29 16:51:05
 188.166.111.126 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-29 17:23:46
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-29 17:35:24
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-29 17:42:33
+134.199.206.59 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-29 17:43:02
+134.199.206.59 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-29 17:43:03
+134.199.206.59 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-29 17:43:04
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-29 17:46:00
