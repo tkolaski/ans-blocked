@@ -30299,3 +30299,8 @@
 159.69.6.175 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 11:25:11
 167.172.180.50 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-29 11:38:33
 138.197.179.171 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-29 11:38:34
+159.69.6.175 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 11:42:36
+159.69.6.175 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 11:42:38
+91.99.51.72 # RuleID: 651 # Type: SSH # Country: IR, Iran, Islamic Republic of # 2025-10-29 11:48:31
+91.99.51.72 # RuleID: 651 # Type: SSH # Country: IR, Iran, Islamic Republic of # 2025-10-29 11:48:32
+91.99.51.72 # RuleID: 651 # Type: SSH # Country: IR, Iran, Islamic Republic of # 2025-10-29 11:48:33
