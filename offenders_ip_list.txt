@@ -30343,3 +30343,4 @@
 151.57.173.135 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-29 19:11:43
 151.57.173.135 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-29 19:30:46
 151.57.173.135 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-29 19:30:48
+167.94.146.62 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-29 19:55:59
