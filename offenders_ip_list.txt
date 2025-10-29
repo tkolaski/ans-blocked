@@ -30311,3 +30311,6 @@
 117.53.46.209 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-29 13:51:48
 117.53.46.209 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-29 13:51:49
 117.53.46.209 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-29 13:51:50
+110.93.250.7 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-29 14:08:18
+110.93.250.7 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-29 14:08:20
+193.23.199.81 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 14:09:42
