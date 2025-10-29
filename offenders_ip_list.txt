@@ -30308,3 +30308,6 @@
 49.12.128.252 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 13:17:23
 164.92.94.204 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-29 13:43:06
 207.244.248.13 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-29 13:43:36
+117.53.46.209 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-29 13:51:48
+117.53.46.209 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-29 13:51:49
+117.53.46.209 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-29 13:51:50
