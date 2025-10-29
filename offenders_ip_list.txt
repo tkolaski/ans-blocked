@@ -30319,3 +30319,5 @@
 147.93.153.160 # RuleID: 651 # Type: SSH # Country: BE, Belgium # 2025-10-29 14:45:02
 147.93.153.160 # RuleID: 651 # Type: SSH # Country: BE, Belgium # 2025-10-29 14:45:03
 147.93.153.160 # RuleID: 651 # Type: SSH # Country: BE, Belgium # 2025-10-29 14:45:04
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-29 14:54:46
+91.99.51.72 # RuleID: 651 # Type: SSH # Country: IR, Iran, Islamic Republic of # 2025-10-29 14:55:48
