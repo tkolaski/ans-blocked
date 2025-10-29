@@ -30291,3 +30291,9 @@
 217.160.7.83 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 10:06:59
 117.53.46.209 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-29 11:16:02
 117.53.46.209 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-10-29 11:16:04
+143.14.220.47 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-29 11:21:26
+207.244.248.13 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-29 11:23:50
+20.65.168.78 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-29 11:24:52
+20.65.168.78 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-29 11:24:53
+159.69.6.175 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 11:25:10
+159.69.6.175 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 11:25:11
