@@ -30258,3 +30258,4 @@
 185.25.102.98 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-10-29 00:42:06
 185.25.102.98 # RuleID: 651 # Type: SSH # Country: TR, Turkey # 2025-10-29 00:42:08
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-29 01:10:01
+64.62.197.152 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-29 01:13:27
