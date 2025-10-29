@@ -30316,3 +30316,6 @@
 193.23.199.81 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 14:09:42
 110.93.250.7 # RuleID: 651 # Type: SSH # Country: PK, Pakistan # 2025-10-29 14:26:04
 147.93.178.202 # RuleID: 651 # Type: SSH # Country: BE, Belgium # 2025-10-29 14:28:04
+147.93.153.160 # RuleID: 651 # Type: SSH # Country: BE, Belgium # 2025-10-29 14:45:02
+147.93.153.160 # RuleID: 651 # Type: SSH # Country: BE, Belgium # 2025-10-29 14:45:03
+147.93.153.160 # RuleID: 651 # Type: SSH # Country: BE, Belgium # 2025-10-29 14:45:04
