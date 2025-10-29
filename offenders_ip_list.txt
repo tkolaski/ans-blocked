@@ -30323,3 +30323,5 @@
 91.99.51.72 # RuleID: 651 # Type: SSH # Country: IR, Iran, Islamic Republic of # 2025-10-29 14:55:48
 45.153.34.93 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 15:39:36
 45.153.34.93 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-29 15:39:37
+151.68.11.166 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-29 16:27:56
+151.68.11.166 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-10-29 16:27:58
