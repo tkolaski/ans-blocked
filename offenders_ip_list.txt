@@ -30388,3 +30388,5 @@
 74.208.133.247 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-30 13:27:36
 138.197.179.171 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-30 13:36:00
 138.197.179.171 # RuleID: 651 # Type: FTP # Country: DE, Germany # 2025-10-30 13:36:01
+74.208.133.247 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-30 13:44:27
+74.208.133.247 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-30 13:44:29
