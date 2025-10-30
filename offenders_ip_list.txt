@@ -30363,3 +30363,5 @@
 128.199.47.203 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-30 02:13:56
 128.199.47.203 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-30 02:13:57
 128.199.47.203 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-30 02:13:58
+54.172.106.146 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-30 02:28:05
+54.172.106.146 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-30 02:28:06
