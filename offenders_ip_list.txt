@@ -30415,3 +30415,5 @@
 45.156.129.70 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-10-30 20:52:25
 45.156.129.73 # RuleID: 651 # Type: FTP # Country: HU, Hungary # 2025-10-30 20:52:25
 161.35.81.194 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-30 21:00:00
+152.42.132.50 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-30 21:07:49
+152.42.132.50 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-30 21:07:52
