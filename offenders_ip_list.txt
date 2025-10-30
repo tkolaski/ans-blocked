@@ -30383,3 +30383,6 @@
 209.38.104.0 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-30 11:44:31
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-30 11:46:30
 167.71.15.213 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-30 12:07:48
+206.189.10.46 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-10-30 13:24:06
+74.208.133.247 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-30 13:27:34
+74.208.133.247 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-30 13:27:36
