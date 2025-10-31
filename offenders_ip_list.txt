@@ -30478,3 +30478,5 @@
 129.212.185.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-31 12:24:04
 129.212.185.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-31 12:24:05
 129.212.185.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-10-31 12:24:07
+45.153.34.93 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-31 13:36:07
+45.153.34.93 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-31 13:36:11
