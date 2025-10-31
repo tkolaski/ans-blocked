@@ -30491,3 +30491,4 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-31 15:28:51
 31.14.32.4 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-31 16:46:03
 31.14.32.4 # RuleID: 651 # Type: FTP # Country: NL, Netherlands # 2025-10-31 16:46:04
+45.153.34.93 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-10-31 17:03:09
