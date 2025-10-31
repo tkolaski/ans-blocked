@@ -30502,3 +30502,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-31 17:59:50
 198.235.24.192 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-31 18:26:09
 198.235.24.192 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-31 18:26:10
+64.62.197.17 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-31 18:58:46
