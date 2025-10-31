@@ -30465,3 +30465,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-31 06:58:14
 198.235.24.242 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-31 07:11:35
 198.235.24.242 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-10-31 07:11:36
+10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-10-31 07:45:04
