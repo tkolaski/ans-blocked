@@ -30485,3 +30485,6 @@
 134.199.199.103 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-31 14:54:17
 134.199.199.103 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-10-31 14:54:19
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-10-31 14:59:46
+104.155.20.12 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-31 15:04:34
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-10-31 15:04:35
+104.155.20.12 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-10-31 15:04:35
