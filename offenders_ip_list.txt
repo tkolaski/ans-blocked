@@ -30570,3 +30570,4 @@
 34.22.159.190 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-01 18:27:39
 217.154.120.199 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-11-01 18:36:43
 217.154.120.199 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-11-01 18:53:30
+165.232.85.10 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-01 19:15:55
