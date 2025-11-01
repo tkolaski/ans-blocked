@@ -30580,3 +30580,4 @@
 157.180.71.99 # RuleID: 651 # Type: SSH # Country: SE, Sweden # 2025-11-01 21:03:53
 157.180.71.99 # RuleID: 651 # Type: SSH # Country: SE, Sweden # 2025-11-01 21:03:55
 157.180.71.99 # RuleID: 651 # Type: SSH # Country: SE, Sweden # 2025-11-01 21:03:57
+159.223.11.94 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-01 23:11:52
