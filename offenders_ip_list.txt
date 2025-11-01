@@ -30569,3 +30569,4 @@
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-11-01 18:27:39
 34.22.159.190 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-01 18:27:39
 217.154.120.199 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-11-01 18:36:43
+217.154.120.199 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-11-01 18:53:30
