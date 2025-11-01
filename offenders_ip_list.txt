@@ -30561,3 +30561,6 @@
 65.49.20.67 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-01 18:05:53
 198.235.24.145 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-11-01 18:07:38
 198.235.24.145 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-11-01 18:07:39
+217.154.120.199 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-11-01 18:18:54
+217.154.120.199 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-11-01 18:18:55
+217.154.120.199 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-11-01 18:18:56
