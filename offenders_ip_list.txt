@@ -30530,3 +30530,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-01 04:56:53
 205.210.31.210 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-11-01 05:28:03
 205.210.31.210 # RuleID: 651 # Type: FTP # Country: CA, Canada # 2025-11-01 05:28:04
+204.44.119.241 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-01 07:02:06
+204.44.119.241 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-01 07:02:07
+204.44.119.241 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-01 07:02:09
