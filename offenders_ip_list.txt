@@ -30604,3 +30604,4 @@
 20.163.1.211 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-02 06:07:34
 151.36.44.80 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-11-02 07:35:52
 151.36.44.80 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-11-02 07:58:16
+167.94.146.58 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-02 09:09:36
