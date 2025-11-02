@@ -30640,3 +30640,4 @@
 104.248.59.29 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-02 16:15:44
 104.248.59.29 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-02 16:15:45
 65.49.20.69 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-02 16:28:38
+147.185.132.168 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-02 17:02:26
