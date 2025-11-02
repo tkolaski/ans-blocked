@@ -30602,3 +30602,4 @@
 167.99.208.250 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-02 05:28:14
 20.163.1.211 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-02 06:07:33
 20.163.1.211 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-02 06:07:34
+151.36.44.80 # RuleID: 651 # Type: SSH # Country: IT, Italy # 2025-11-02 07:35:52
