@@ -30592,3 +30592,5 @@
 212.227.3.34 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-11-02 02:50:12
 212.227.3.34 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-11-02 02:50:13
 212.227.3.34 # RuleID: 651 # Type: SSH # Country: DE, Germany # 2025-11-02 02:50:14
+13.222.30.221 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-02 03:08:32
+13.222.30.221 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-02 03:08:33
