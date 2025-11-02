@@ -30616,3 +30616,4 @@
 142.93.135.131 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-02 11:46:35
 142.93.135.131 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-02 11:46:37
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-02 12:52:16
+193.187.91.18 # RuleID: 651 # Type: FTP # Country: SE, Sweden # 2025-11-02 13:30:55
