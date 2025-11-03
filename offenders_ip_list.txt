@@ -30675,3 +30675,4 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-11-03 10:23:02
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-03 10:38:59
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-03 11:41:06
+142.93.140.176 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-03 11:53:49
