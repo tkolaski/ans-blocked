@@ -30724,3 +30724,4 @@
 170.64.182.113 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-04 14:42:47
 40.124.173.224 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-04 14:58:05
 40.124.173.224 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-04 14:58:06
+64.62.156.66 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-04 16:04:56
