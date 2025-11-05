@@ -30796,3 +30796,8 @@
 74.248.143.236 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-05 20:29:38
 74.248.143.236 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-05 20:50:24
 148.255.226.123 # RuleID: 651 # Type: SSH # Country: DO, Dominican Republic # 2025-11-05 20:59:40
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-05 21:20:56
+20.118.24.61 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-05 21:22:10
+20.118.24.61 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-05 21:22:11
+141.98.83.121 # RuleID: 651 # Type: FTP # Country: PA, Panama # 2025-11-05 21:28:56
+141.98.83.121 # RuleID: 651 # Type: FTP # Country: PA, Panama # 2025-11-05 21:28:57
