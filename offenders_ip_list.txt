@@ -30777,3 +30777,5 @@
 162.142.125.221 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-05 17:34:18
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-11-05 17:45:45
 74.248.143.236 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-05 17:52:06
+64.62.156.182 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-05 18:05:44
+64.62.156.182 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-05 18:05:45
