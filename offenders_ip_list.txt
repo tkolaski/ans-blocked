@@ -30802,3 +30802,6 @@
 141.98.83.121 # RuleID: 651 # Type: FTP # Country: PA, Panama # 2025-11-05 21:28:56
 141.98.83.121 # RuleID: 651 # Type: FTP # Country: PA, Panama # 2025-11-05 21:28:57
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-05 23:43:38
+98.93.11.98 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-06 00:08:50
+98.93.11.98 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-06 00:08:51
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-06 00:09:06
