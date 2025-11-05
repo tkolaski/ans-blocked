@@ -30774,3 +30774,4 @@
 34.78.140.118 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-05 16:51:00
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-11-05 16:51:01
 34.78.140.118 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-05 16:51:01
+162.142.125.221 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-05 17:34:18
