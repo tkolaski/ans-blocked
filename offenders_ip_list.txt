@@ -30874,3 +30874,4 @@
 10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-11-07 08:56:48
 201.124.25.166 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-11-07 09:05:22
 80.78.21.161 # RuleID: 651 # Type: SSH # Country: SE, Sweden # 2025-11-07 11:22:24
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-07 11:42:16
