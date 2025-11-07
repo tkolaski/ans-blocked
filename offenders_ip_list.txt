@@ -30870,3 +30870,5 @@
 201.124.25.166 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-11-07 08:47:33
 201.124.25.166 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-11-07 08:47:34
 201.124.25.166 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-11-07 08:47:35
+95.57.235.111 # RuleID: 651 # Type: FTP # Country: KZ, Kazakhstan # 2025-11-07 08:56:48
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-11-07 08:56:48
