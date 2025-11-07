@@ -30867,3 +30867,6 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-07 05:54:53
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-11-07 08:01:17
 134.199.193.241 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-11-07 08:02:01
+201.124.25.166 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-11-07 08:47:33
+201.124.25.166 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-11-07 08:47:34
+201.124.25.166 # RuleID: 651 # Type: SSH # Country: MX, Mexico # 2025-11-07 08:47:35
