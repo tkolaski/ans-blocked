@@ -30888,3 +30888,5 @@
 170.64.158.144 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-08 02:28:17
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-08 06:36:35
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-08 06:55:27
+170.64.204.254 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-08 08:46:17
+170.64.204.254 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-08 08:46:19
