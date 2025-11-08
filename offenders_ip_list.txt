@@ -30900,3 +30900,4 @@
 134.199.170.126 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-11-08 11:54:08
 134.199.170.126 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-11-08 11:54:10
 170.64.187.53 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-08 14:23:26
+170.64.185.108 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-08 17:40:04
