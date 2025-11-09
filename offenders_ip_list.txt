@@ -30909,3 +30909,6 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-11-09 01:47:29
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-09 01:57:13
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-09 03:57:23
+125.27.22.59 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-11-09 07:31:50
+125.27.22.59 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-11-09 07:31:51
+125.27.22.59 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-11-09 07:31:52
