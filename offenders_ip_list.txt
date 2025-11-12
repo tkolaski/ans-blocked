@@ -30963,3 +30963,6 @@
 209.38.83.196 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-12 08:51:06
 209.38.83.196 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-12 08:51:08
 170.64.231.122 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-12 11:42:51
+164.92.218.186 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-12 14:21:26
+164.92.218.186 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-12 14:21:27
+164.92.218.186 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-12 14:21:29
