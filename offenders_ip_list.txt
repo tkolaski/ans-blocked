@@ -31029,3 +31029,4 @@
 58.82.169.249 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-11-14 11:29:29
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-14 13:08:25
 134.199.175.108 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-11-14 14:18:30
+128.199.47.169 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-14 14:21:16
