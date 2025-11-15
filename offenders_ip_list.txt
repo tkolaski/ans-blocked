@@ -31081,3 +31081,5 @@
 34.140.63.209 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-15 03:01:03
 34.140.63.209 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-15 03:01:04
 34.140.63.209 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-15 03:01:05
+104.248.83.0 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-15 05:04:26
+104.248.83.0 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-15 05:04:27
