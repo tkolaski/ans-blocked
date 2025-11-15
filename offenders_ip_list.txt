@@ -31085,3 +31085,7 @@
 104.248.83.0 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-15 05:04:27
 165.232.85.75 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-15 08:10:15
 209.146.60.27 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-15 08:49:43
+209.38.30.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-15 08:53:19
+209.38.30.176 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-15 08:53:21
+36.69.57.235 # RuleID: 651 # Type: FTP # Country: ID, Indonesia # 2025-11-15 08:56:55
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-11-15 08:56:56
