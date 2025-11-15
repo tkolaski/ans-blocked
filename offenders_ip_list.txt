@@ -31104,3 +31104,5 @@
 209.38.164.137 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-15 17:56:12
 209.38.164.137 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-15 17:56:13
 209.38.164.137 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-15 17:56:14
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-15 20:24:20
+134.199.150.75 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-11-15 20:25:08
