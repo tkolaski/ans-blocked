@@ -31183,3 +31183,4 @@
 103.187.147.16 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-11-16 14:25:00
 202.184.134.84 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-11-16 14:27:10
 202.184.134.84 # RuleID: 651 # Type: SSH # Country: MY, Malaysia # 2025-11-16 14:27:12
+162.240.214.62 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-16 14:43:19
