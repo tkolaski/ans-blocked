@@ -31194,3 +31194,5 @@
 128.199.42.82 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-16 20:23:43
 45.79.5.11 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-16 20:32:01
 45.79.5.11 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-16 20:32:02
+206.189.7.121 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-16 21:47:13
+206.189.7.121 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-16 21:47:15
