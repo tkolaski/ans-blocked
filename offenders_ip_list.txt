@@ -31163,3 +31163,4 @@
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-11-16 12:20:10
 10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-11-16 12:20:28
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-16 12:27:09
+10.10.4.70 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-11-16 12:39:00
