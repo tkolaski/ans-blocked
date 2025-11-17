@@ -31224,3 +31224,4 @@
 125.27.121.18 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-11-17 17:45:53
 125.27.121.18 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-11-17 17:45:54
 125.27.121.18 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-11-17 17:45:56
+142.93.133.4 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-17 18:04:51
