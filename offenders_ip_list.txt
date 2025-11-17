@@ -31232,3 +31232,5 @@
 195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-11-17 21:07:05
 195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-11-17 22:11:12
 195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-11-17 22:11:13
+104.248.80.190 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-17 22:59:10
+104.248.80.190 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-17 22:59:12
