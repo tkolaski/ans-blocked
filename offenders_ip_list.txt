@@ -31220,3 +31220,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-17 16:16:17
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-17 16:16:18
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-17 16:26:10
+164.92.146.50 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-17 17:37:47
