@@ -31260,3 +31260,6 @@
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-18 13:18:48
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-18 13:41:46
 64.32.105.100 # RuleID: 651 # Type: SSH # Country: DO, Dominican Republic # 2025-11-18 13:58:49
+164.90.195.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-18 14:15:38
+164.90.195.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-18 14:15:39
+164.90.195.80 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-18 14:15:41
