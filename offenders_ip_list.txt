@@ -31248,3 +31248,4 @@
 209.38.24.145 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-18 08:54:35
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-18 10:00:51
 195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-11-18 11:22:39
+10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-18 12:44:58
