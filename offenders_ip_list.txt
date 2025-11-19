@@ -31325,3 +31325,5 @@
 91.84.104.44 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-11-19 16:45:21
 91.84.104.44 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-11-19 16:45:22
 91.84.104.44 # RuleID: 651 # Type: SSH # Country: GB, United Kingdom # 2025-11-19 16:45:23
+64.227.90.185 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-19 17:21:15
+64.227.90.185 # RuleID: 651 # Type: FTP # Country: US, United States # 2025-11-19 17:21:16
