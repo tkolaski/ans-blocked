@@ -31316,3 +31316,5 @@
 107.174.82.236 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-19 14:16:46
 107.174.82.236 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-19 14:34:33
 107.174.82.236 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-19 14:34:37
+107.174.82.236 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-19 14:52:45
+107.174.82.236 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-19 14:52:47
