@@ -31342,3 +31342,5 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-20 04:09:13
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-20 04:09:14
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-20 04:39:39
+202.44.237.143 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-11-20 05:16:31
+202.44.237.143 # RuleID: 651 # Type: SSH # Country: TH, Thailand # 2025-11-20 05:16:35
