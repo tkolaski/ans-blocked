@@ -31393,3 +31393,4 @@
 103.229.81.170 # RuleID: 651 # Type: SSH # Country: BD, Bangladesh # 2025-11-20 22:20:35
 103.229.81.170 # RuleID: 651 # Type: SSH # Country: BD, Bangladesh # 2025-11-20 22:20:37
 161.35.144.130 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-20 22:45:54
+209.38.89.4 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-20 23:22:26
