@@ -31337,3 +31337,5 @@
 195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-11-19 23:52:09
 195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-11-20 01:00:41
 195.164.49.69 # RuleID: 651 # Type: FTP # Country: PL, Poland # 2025-11-20 01:00:42
+10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-11-20 01:40:38
+10.10.229.211 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-11-20 01:40:55
