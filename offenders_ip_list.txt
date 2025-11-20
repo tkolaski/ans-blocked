@@ -31360,3 +31360,5 @@
 104.248.198.126 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-20 14:14:42
 104.248.198.126 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-20 14:14:44
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-20 14:17:32
+195.88.211.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-20 14:30:19
+195.88.211.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-20 14:30:21
