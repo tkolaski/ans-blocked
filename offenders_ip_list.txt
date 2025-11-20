@@ -31374,3 +31374,4 @@
 170.64.161.78 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-20 17:59:20
 195.88.211.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-20 18:01:30
 195.88.211.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-20 18:19:35
+195.88.211.66 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-20 18:36:17
