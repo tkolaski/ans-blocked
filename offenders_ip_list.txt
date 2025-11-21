@@ -31428,3 +31428,4 @@
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-21 15:59:51
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-21 16:48:28
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-21 16:48:29
+134.209.83.244 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-21 18:58:32
