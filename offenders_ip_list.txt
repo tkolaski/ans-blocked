@@ -31460,3 +31460,4 @@
 198.50.117.23 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-11-22 19:00:54
 198.50.117.23 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-11-22 19:17:36
 198.50.117.23 # RuleID: 651 # Type: SSH # Country: CA, Canada # 2025-11-22 19:17:38
+188.166.49.53 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-22 20:23:04
