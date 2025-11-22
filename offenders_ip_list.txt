@@ -31463,3 +31463,7 @@
 188.166.49.53 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-22 20:23:04
 10.10.4.100 # RuleID: 651 # Type: SSH # Country: IP Address not found # 2025-11-22 21:01:50
 129.212.177.191 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-22 21:02:18
+129.212.177.191 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-22 21:19:01
+129.212.177.191 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-22 21:19:02
+129.212.177.191 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-22 21:19:03
+129.212.177.191 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-22 21:19:04
