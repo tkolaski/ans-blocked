@@ -31494,3 +31494,5 @@
 104.248.202.8 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-23 08:43:01
 104.248.202.8 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-23 08:43:03
 10.10.4.62 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-23 10:50:54
+164.92.210.118 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-23 11:25:28
+10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-23 11:29:20
