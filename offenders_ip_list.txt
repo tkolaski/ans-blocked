@@ -31514,3 +31514,6 @@
 36.91.166.189 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-11-23 19:04:52
 36.91.166.189 # RuleID: 651 # Type: SSH # Country: ID, Indonesia # 2025-11-23 19:21:35
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-23 20:24:37
+157.230.165.86 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-23 20:37:16
+157.230.165.86 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-23 20:37:17
+157.230.165.86 # RuleID: 651 # Type: SSH # Country: US, United States # 2025-11-23 20:37:19
