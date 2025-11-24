@@ -31563,3 +31563,5 @@
 10.10.4.62 # RuleID: 651 # Type: UNKNOWN # Country: IP Address not found # 2025-11-24 18:15:55
 10.10.4.100 # RuleID: 651 # Type: HTTP # Country: IP Address not found # 2025-11-24 18:29:57
 134.209.206.16 # RuleID: 651 # Type: SSH # Country: NL, Netherlands # 2025-11-24 18:31:44
+158.94.210.79 # RuleID: 651 # Type: FTP # Country: GB, United Kingdom # 2025-11-24 19:12:34
+10.10.4.100 # RuleID: 651 # Type: FTP # Country: IP Address not found # 2025-11-24 19:12:34
