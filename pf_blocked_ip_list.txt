@@ -5228,3 +5228,5 @@ PADN # blocked by pf
 193.143.1.119 # blocked by pf
 10.60.13.108 # blocked by pf
 10.60.2.9 # blocked by pf
+193.17.41.30 # blocked by pf
+112.103.101.42 # blocked by pf
