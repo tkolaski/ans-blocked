@@ -1,3 +1,4 @@
+38.99.248.65 # RuleID: 5503 # Country: US, United States
 38.99.248.64 # RuleID: 5503 # Country: US, United States
 92.118.39.57 # RuleID: 5710 # Country: RO, Romania
 92.118.39.57 # RuleID: 5503 # Country: RO, Romania
